@@ -14,4 +14,6 @@
 
 #### Feel free to contribute by submitting your own Python files too! 👨‍💻👩‍💻
 
+#### PS: If anyone wants to learn python everyday, then this can be very useful for them as I will be covering Python from the very beginning to the very advanced sections in python. 
+
 ## Happy coding! 😊
