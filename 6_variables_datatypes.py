@@ -1,16 +1,16 @@
 # Variable in python - variable in pythons are like a container that are meant to store something/values/data.
 
 a = 1 # Storing 1 in a.
-b = True
+b = True 
 c = "Nayan"
-d = None
+d = None 
 
 # Data Types - data types specifies types of values that a variables is storing or holding.
 
 a = 1 # Int data types
 b = True # Bool data types
 c = "Nayan" # String(Str) data types
-d = None # None data types
+d = None # # data type and an object of the NoneType class(we'll see about classes and objects later on dont worry !!)
 
 # Knowing data types in python
 
@@ -18,7 +18,7 @@ a = 1
 b = True
 c = "Nayan"
 d = None
-print(type(a), type(b), type(c), type(d))
+print(type(a), type(b), type(c), type(d)) #type is a function used to know the datatypes of variables in Python
 
 # Built in data types in python :-
 
