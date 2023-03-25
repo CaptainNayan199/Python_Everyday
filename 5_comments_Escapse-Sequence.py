@@ -1,19 +1,17 @@
 # comments in python - comments in python are used to say what does the code means. It is the line which does not 
-# gets recognized by the compiler and interpreters. Comments are written to show what does that particular code 
-# means.
+# gets recognized by the compiler and interpreters. Comments are written to show what does that particular code means.
 
-# please remove this line ok after sometime
+# please remove this line after sometime (saying to remove this line of code after sometime by adding a comment above it)
 print("Hey I am a good boy.\nand he is also a good boy.")
+
+
 
 print("This is inline comment")   # this is inline comment
 
 
-'''
-this is a milti-line comment   
+# PS: There are no any mechanism in python to write multiline comments. You need to use (#) for every comments.  
 
-'''
-
-# Escape sequence - is a backslash followe by a character you want to install, cant be directly used as string.
+# Escape sequence - is a backslash followed by a character you want to install, cant be directly used as string.
 
 # \n - new line escape sequence
 
