@@ -1,5 +1,5 @@
-# modules - it is the moethod of using other developers already developed code. Modules are well tested,
-# less error, used by many people, it will sabe time and efforts and can also be used in many other big projects.
+# modules - it is the method of using other developers already developed code. Modules are well tested,
+# less error, used by many people, it will save time and efforts and can also be used in many other big projects.
 # Modules are like a code library which can be used to borrow a code written by somebody else.
 
 # Modules are of two types in pythons: 1) Built-In modules and 2)External modules
@@ -12,4 +12,5 @@
 # or install various python modules.
 
 # for example:
-# pip install pandas - this will install a module named pandas
+# pip install pandas - this will install a module named pandas (however this is the wrong and dangerous way to use pip command)
+# the best way is: python -m pip install pandas
