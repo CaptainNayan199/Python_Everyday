@@ -1,4 +1,4 @@
-# there are many operator in python as like in other programming languages.
+# There are many operator in python as like in other programming languages.
 # Some of it includes : + , - , * , / , // , % , **, etc.
 
 # Lets see some operator in brief: 
@@ -43,5 +43,5 @@ print(mod)
 a = 2
 b = 4
 exp = (a**b)
-print(exp)
+print(exp) #16
 
