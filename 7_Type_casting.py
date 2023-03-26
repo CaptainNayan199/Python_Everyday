@@ -54,3 +54,4 @@ print(type(user_input))  #this gives you information about the user_input data t
 
 user_input = int(input("Please say something please : ")) #so this is a integer output 
 # we just typecasted it
+# in a similar manner, you can type cast it as per your need.
