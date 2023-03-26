@@ -45,4 +45,5 @@ print(type(d))
 
 # for example
 
-user_input = input("Please say anything please : ")
+user_input = input("Please say anything please : ") #so this is just a simple way to get user input
+#but this input is in string format as you can see below 
