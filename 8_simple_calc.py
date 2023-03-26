@@ -1,3 +1,5 @@
+#A simple calculator project, you can this as your first python project.
+
 print("Hello!")
 print("This is a simple and a basic calculator.")
 print("\n")
