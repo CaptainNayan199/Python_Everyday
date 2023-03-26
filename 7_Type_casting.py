@@ -42,3 +42,5 @@ print(type(d))
 #typecasting is very useful function in python
 # remember one thing, the input from user always come in string format in python and hence 
 # as per need you need to convert it to other data types (especially int)
+
+# for example
