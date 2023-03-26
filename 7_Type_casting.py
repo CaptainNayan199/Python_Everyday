@@ -44,3 +44,5 @@ print(type(d))
 # as per need you need to convert it to other data types (especially int)
 
 # for example
+
+user_input = input("Please say anything please : ")
