@@ -1,6 +1,6 @@
 # Type casting in python - It is the conversion of one data type into another data types.
 
-# Python supports variety of functiond and methods for type casting like : 
+# Python supports variety of functions and methods for type casting like : 
 # int(), float(), Str(), ord(), hex(), oct(), tuple(), set(), list(), dict(), etc.
 
 # A simple example of type casting
@@ -37,3 +37,6 @@ print(type(c))
 d = a * b # Python automatically converts d to float as it is a float multiplication
 print(d)
 print(type(d))
+
+
+#typecasting is very useful function in python
