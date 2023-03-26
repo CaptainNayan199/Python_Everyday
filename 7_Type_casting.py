@@ -49,3 +49,5 @@ user_input = input("Please say anything please : ") #so this is just a simple wa
 #but this input is in string format as you can see below 
 
 print(type(user_input))  #this gives you information about the user_input data types which is obviously non other than String
+
+#so to make this int you can type cast it as shown below
