@@ -52,4 +52,5 @@ print(type(user_input))  #this gives you information about the user_input data t
 
 #so to make this int you can type cast it as shown below
 
-user_input = int(input("Please say something please : "))
+user_input = int(input("Please say something please : ")) #so this is a integer output 
+# we just typecasted it
