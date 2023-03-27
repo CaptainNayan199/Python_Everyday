@@ -7,6 +7,8 @@ friend = 'Santosh'
 friend2 = 'Roshan'
 apple = "He said \"I want to eat apple today\""
 
+#multiple line strings
+
 
 
 
