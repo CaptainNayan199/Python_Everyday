@@ -16,6 +16,9 @@ in python
 we are learning python
 '''
 
+# print("Hello " +name)
+print(apple)
+# print(x)
 
 
 
