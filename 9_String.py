@@ -20,6 +20,8 @@ we are learning python
 print(apple)
 # print(x)
 
+hi = 'My name is "Nayan"'
+# print(hi)
 
 
 
