@@ -24,6 +24,12 @@ hi = 'My name is "Nayan"'
 # print(hi)
 
 
+#indexing in python string
+
+namee = "Ujjwal"
+# print(namee[0])
+# print(namee[3])
+# print(namee[4])
 
 
 
