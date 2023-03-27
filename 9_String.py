@@ -9,6 +9,12 @@ apple = "He said \"I want to eat apple today\""
 
 #multiple line strings
 
+x = '''
+hello this is 
+multiline string 
+in python 
+we are learning python
+'''
 
 
 
