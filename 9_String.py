@@ -25,6 +25,7 @@ hi = 'My name is "Nayan"'
 
 
 #indexing in python string  #we'll talk about this later in depth! Chill
+#we will even see whats negative indexing and how does python interpretor deals with indexing
 namee = "Ujjwal"
 # print(namee[0])
 # print(namee[3])
