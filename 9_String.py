@@ -34,6 +34,6 @@ namee = "Ujjwal"
 
 
 #looping throught the strings using for loops. #we will see about this too later in depth, this is just an example
-for i in namee:   # 'i' here is just a random variable that access each characters of the namee variable and prints the each characters from the first
+for i in namee:   # 'i' here is just a random variable that access each characters of the namee variable and prints the each characters from the first.
     print(i)
 
