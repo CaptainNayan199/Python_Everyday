@@ -25,11 +25,13 @@ hi = 'My name is "Nayan"'
 
 
 #indexing in python string
-
 namee = "Ujjwal"
 # print(namee[0])
 # print(namee[3])
 # print(namee[4])
 
 
+#looping throught the strings using for loops.
+for i in namee:
+    print(i)
 
