@@ -1,6 +1,6 @@
 # strings in python
-#It is like ans array of characters.
-# enclosesed inside of double quote
+#It is like an array of characters.
+# Strings are enclosesed inside of double quote or even single quote
 
 name = "Nayan"
 friend = 'Santosh'
@@ -32,6 +32,6 @@ namee = "Ujjwal"
 
 
 #looping throught the strings using for loops.
-for i in namee:
-    print(i)
+for ujjwal in namee:
+    print(ujjwal)
 
