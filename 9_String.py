@@ -33,7 +33,7 @@ namee = "Ujjwal"
 # print(namee[4])
 
 
-#looping throught the strings using for loops. #we will see about this too later in depth, this is just an exampoel
+#looping throught the strings using for loops. #we will see about this too later in depth, this is just an example
 for ujjwal in namee:
     print(ujjwal)
 
