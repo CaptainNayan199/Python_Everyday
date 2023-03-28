@@ -2,7 +2,7 @@
 # we can slice stirngs from forwad as well as backward of a string
 # Slicing string from backward can be referred to as negative slicing
 
-# Array of 
+# Each element indexing starts from 0
 
 name ="Nayan"
 print(name[0:5]) # This givges output: nayan
