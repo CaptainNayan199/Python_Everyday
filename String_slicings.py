@@ -1,4 +1,4 @@
-#String slicings
+#String slicings :  Slicing of string means 
 
 name ="Nayan"
 print(name[0:5])
