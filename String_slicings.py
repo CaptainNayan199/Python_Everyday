@@ -5,9 +5,9 @@
 name ="Nayan"
 print(name[0:5]) # This givges output: nayan
 print(name[1:4]) # This gives output: aya
-print(name[2:3])
-print(name[-3:-2])
-print(name[:-1]) # Python interpretor will add 0 automatically
+print(name[2:3]) # This gives output: y
+print(name[-3:-2]) # This gives output: y
+print(name[:-1]) # Python interpretor will add 0 automatically at the Left side
 print(name[2:-1])
 
 #Findings length of that strings
