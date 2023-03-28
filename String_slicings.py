@@ -6,14 +6,14 @@
 # For eg: name = "Nayan", here the indexing of N=0, a=1, y=2, a=3, n=4
 
 name ="Nayan"
-print(name[0:5]) # This givges output: nayan # Here the python interpreter will find the character at index value 0 and go for it till 5th( it's actually the 4th element but as i have told already indexing starts from 0 so 5 = 4th element which is (5-1) element.
+print(name[0:5]) # This givges output: nayan # Here the python interpreter will find the character at index value 0 and go for it till 5th( it's actually the 4th element but as i have told already indexing starts from 0 so 5 = 4th element which is (5-1) element. The same logic goes for other indexing/slicing methods too.
 print(name[1:4]) # This gives output: aya
 print(name[2:3]) # This gives output: y
 print(name[-3:-2]) # This gives output: y
 print(name[:-1]) # Python interpretor will add 0 automatically at the Left side so the range will be [0:-1] so the output will be: nayan
 print(name[2:-1]) # the output will be: ya
 
-# Logic behind finding the negative 
+# Logic behind finding the negative indexing:
 
 #Length of the strings: Length of the string can be calculated by using the len function
 length = len(name)
