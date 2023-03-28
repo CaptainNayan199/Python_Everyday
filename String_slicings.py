@@ -10,6 +10,8 @@ print(name[-3:-2]) # This gives output: y
 print(name[:-1]) # Python interpretor will add 0 automatically at the Left side so the range will be [0:-1] so the output will be: nayan
 print(name[2:-1]) # the output will be: ya
 
+#
+
 #Length of the strings: Length of the string can be calculated by using the len function
 length = len(name)
 print("Name is "+str(length)+" character long") # This will give output: Name is 5 characters long
