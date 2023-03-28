@@ -6,7 +6,7 @@
 # For eg: name = "Nayan", here the indexing of N=0, a=1, y=2, a=3, n=4
 
 name ="Nayan"
-print(name[0:5]) # This givges output: nayan # Here the python interpreter will find the character at index value 0 and go for it till 5th( it's actually the 4th element but as i have told already indexing starts from )(4-1)
+print(name[0:5]) # This givges output: nayan # Here the python interpreter will find the character at index value 0 and go for it till 5th( it's actually the 4th element but as i have told already indexing starts from 0 so 5 = 4th element which is (5-1) element.
 print(name[1:4]) # This gives output: aya
 print(name[2:3]) # This gives output: y
 print(name[-3:-2]) # This gives output: y
