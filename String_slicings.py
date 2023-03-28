@@ -14,6 +14,7 @@ print(name[:-1]) # Python interpretor will add 0 automatically at the Left side 
 print(name[2:-1]) # the output will be: ya
 
 # Logic behind finding the negative indexing:
+# Python interpreter is an intelligent stuff
 
 #Length of the strings: Length of the string can be calculated by using the len function
 length = len(name)
