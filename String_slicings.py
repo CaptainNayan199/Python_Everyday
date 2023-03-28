@@ -1,4 +1,4 @@
-#String slicings :  Slicing of string means 
+#String slicings :  Slicing of string means fetching a certain part of string from a particular strings
 
 name ="Nayan"
 print(name[0:5])
