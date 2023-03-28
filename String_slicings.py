@@ -3,7 +3,7 @@
 # Slicing string from backward can be referred to as negative slicing
 
 name ="Nayan"
-print(name[0:5])
+print(name[0:5]) # This givges output: nayan
 print(name[1:4])
 print(name[2:3])
 print(name[-3:-2])
