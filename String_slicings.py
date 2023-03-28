@@ -24,5 +24,7 @@ print("Name is "+str(length)+" character long") # This will give output: Name is
 
 # so it will do like this : [len(name)-3: len(name)-2] = [5-3:5-2] = [2:3], so it will give the element from 2 indexing to 3(3-1 value) indexing.
 
-# so this is the main logic behind the negative indexing
+# so this is the main logic behind the negative indexing.
+
+# So, yeah this much for today 
 
