@@ -1,5 +1,5 @@
 # String slicings :  Slicing of string means fetching a certain part of string from a particular strings
-# we can slice stirngs from forwad as well as
+# we can slice stirngs from forwad as well as backward of a string
 
 name ="Nayan"
 print(name[0:5])
