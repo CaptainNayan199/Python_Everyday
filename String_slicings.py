@@ -8,7 +8,7 @@ print(name[1:4]) # This gives output: aya
 print(name[2:3]) # This gives output: y
 print(name[-3:-2]) # This gives output: y
 print(name[:-1]) # Python interpretor will add 0 automatically at the Left side so the range will be [0:-1] so the output will be: nayan
-print(name[2:-1])
+print(name[2:-1]) # the output will be: ya
 
 #Findings length of that strings
 # length = len(name)
