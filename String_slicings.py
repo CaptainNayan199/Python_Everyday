@@ -28,5 +28,5 @@ print("Name is "+str(length)+" character long") # This will give output: Name is
 
 # So, yeah this much for today, there are still many things in string slicing 
 # which we will cover later on.. Dont worry, we'll cover almost everything.
-# Thank you!! Happy coding
+# Thank you!! Happy coding.
 
