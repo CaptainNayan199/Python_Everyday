@@ -19,5 +19,5 @@ print("Name is "+str(length)+" character long") # This will give output: Name is
 
 # Logic behind finding the negative indexing:
 # Python interpreter is an intelligent stuff, it is a master of art. So in negative indexing what interpreter actually does is:
-
+# eg: [-3:-2] = so, here python 
 
