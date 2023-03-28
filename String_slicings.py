@@ -21,5 +21,5 @@ print("Name is "+str(length)+" character long") # This will give output: Name is
 # Python interpreter is an intelligent stuff, it is a master of art. So in negative indexing what interpreter actually does is:
 # eg: [-3:-2] = so, here python interpreter actually find the length of the string and subtracts the indexing value.
 # so it will do like this : [len(name)-3: len(name)-2] = [5-3:5-2] = [2:3], so it will give the element from 2 indexing to 3(3-1 value) indexing
-# so this is the logic behind the negative indexing
+# so this is the main logic behind the negative indexing
 
