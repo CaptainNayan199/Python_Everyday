@@ -11,7 +11,7 @@ print(name[:-1]) # Python interpretor will add 0 automatically at the Left side 
 print(name[2:-1]) # the output will be: ya
 
 #Length of the strings: Length of the string can be calculated by using the len function
-# length = len(name)
-# print("Name is "+str(length)+" character long")
+length = len(name)
+print("Name is "+str(length)+" character long")
 
 
