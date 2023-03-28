@@ -26,5 +26,5 @@ print("Name is "+str(length)+" character long") # This will give output: Name is
 
 # so this is the main logic behind the negative indexing.
 
-# So, yeah this much for today 
+# So, yeah this much for today, there are still many things in string slicing which we will cover later on.. Dont worry, we'll cover almost everything.
 
