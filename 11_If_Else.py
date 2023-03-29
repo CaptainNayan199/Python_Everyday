@@ -17,3 +17,5 @@
 #Nested if else statement in python 
 
 a = int(input("Enter a number : "))
+
+if a>0:
