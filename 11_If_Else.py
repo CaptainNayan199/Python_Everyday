@@ -13,7 +13,7 @@ if a%2==0 and a!=0: #if this condition is met true, then get inside the print st
     print("Even")
 elif a%2==1: # this will be tested if the above condition is false.
     print("Odd")
-else : # this is the final statement, 
+else : # this is the final statement, if every statement are false, then this will be tested and executed
     print("Zero")
     
     
