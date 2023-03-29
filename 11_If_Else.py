@@ -27,3 +27,4 @@ if a>0:
         print("Ther number is greater than 20")
 elif a<0:
     print("Number is negative")
+elif a==0:
