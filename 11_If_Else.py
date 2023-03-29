@@ -22,3 +22,4 @@ if a>0:
     if a <=10:
         print("The number is betweeen 1 to 10")
     elif a >10 and a <=20:
+        print("The number is between 11-20")
