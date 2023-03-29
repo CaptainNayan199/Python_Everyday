@@ -8,13 +8,13 @@
 #conditional operator in python - they are used to see th relation between variables or any values.
 # <, >, >, <=, ==, !=
 
-# a = int(input("Enter a number : "))
-# if a%2==0 and a!=0:
-#     print("Even")
-# elif a%2==1:
-#     print("Odd")
-# else :
-#     print("Zero")
+a = int(input("Enter a number : "))
+if a%2==0 and a!=0: #if this condition is met true, then get inside the print statement.
+    print("Even")
+elif a%2==1: # this will be tested if the above condition is false
+    print("Odd")
+else :
+    print("Zero")
     
     
 #Nested if else statement in python 
