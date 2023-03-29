@@ -24,3 +24,4 @@ if a>0:
     elif a >10 and a <=20:
         print("The number is between 11-20")
     else :
+        print("Ther number is greater than 20")
