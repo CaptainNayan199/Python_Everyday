@@ -40,4 +40,4 @@ else:
 # we will cover more detail on this strucutre later on while building some logic and stuffs.. Dont worry, we'll cover almost everything.
 # Thank you!! Happy coding.
 
-# In tomorrow session we will do some exercise on if else structure(), and be more
+# In tomorrow session we will do some exercise on if else structure(), and be more familiar
