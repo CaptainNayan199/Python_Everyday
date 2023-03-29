@@ -17,7 +17,7 @@ else : # this is the final statement, if every statement are false, then this wi
     print("Zero")
     
     
-# Nested if else statement in python -
+# Nested if else statement in python - Nested if else means 
 
 a = int(input("Enter a number : "))
 
