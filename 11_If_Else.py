@@ -5,7 +5,7 @@
 # switch case statement are also there, we;ll see about them later on.
 
 
-#conditional operator in python
+#conditional operator in python - they are used to see th relation between variables or any values.
 # <, >, >, <=, ==, !=
 
 # a = int(input("Enter a number : "))
