@@ -2,6 +2,7 @@
 # few conditonal keywords are different in strucutres or else all are same.
 
 #if elif else are main 3 conditional controlling structuring statement in python
+# switch case statement are also there, we;ll see about them later on.
 
 
 #conditional operator in python
