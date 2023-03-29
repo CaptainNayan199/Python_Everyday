@@ -35,3 +35,5 @@ elif a==0:
 else:
     print("Incorrect number provided")
     
+
+# So, yeah this much for today, there are still many things in string slicing 
