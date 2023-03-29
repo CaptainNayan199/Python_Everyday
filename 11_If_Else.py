@@ -28,4 +28,5 @@ if a>0:
 elif a<0:
     print("Number is negative")
 elif a==0:
+    print("Number is zero")
     
