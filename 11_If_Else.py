@@ -17,7 +17,7 @@ else : # this is the final statement, if every statement are false, then this wi
     print("Zero")
     
     
-# Nested if else statement in python - Nested if else means the use of if else inside some if else statement
+# Nested if else statement in python - Nested if else means the use of if else inside some if else statement.
 
 a = int(input("Enter a number : "))
 
