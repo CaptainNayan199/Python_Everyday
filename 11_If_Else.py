@@ -20,3 +20,4 @@ a = int(input("Enter a number : "))
 
 if a>0:
     if a <=10:
+        print("The number is betweeen 1 to 10")
