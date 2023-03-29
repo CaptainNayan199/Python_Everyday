@@ -10,3 +10,4 @@
 #     print("Even")
 # elif a%2==1:
 #     print("Odd")
+# else :
