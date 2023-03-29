@@ -3,3 +3,4 @@
 
 
 #conditional operator in python
+# <, >, >, <=, ==, !=
