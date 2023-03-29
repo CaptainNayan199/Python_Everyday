@@ -36,4 +36,4 @@ else:
     print("Incorrect number provided")
     
 
-# So, yeah this much for today, there are still many things in if else statement, but this is the basic way on how to use this structure,
+# So, yeah this much for today, there are still many things in if else statement, but this is the basic way on how to use this structure.
