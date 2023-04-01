@@ -11,7 +11,7 @@ ampm = time.strftime("%p") # taking sm/pm information
 
 name = input("Enter your name : ")
 
-if (hours >= 4 and hours <= 12) and ampm == 'AM':
+if (hours >= 4 and hours <= 12) and ampm == 'AM': # using if conditions
     print("Hello ", name.capitalize(), "Good Morning.......")
 elif (hours <=8) and ampm == 'PM':
     print("Hello ", name.capitalize(), "Good Afternoon.......")
