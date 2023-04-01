@@ -6,8 +6,8 @@
 import time
 
 
-hours = int(time.strftime("%I"))
-ampm = time.strftime("%p")
+hours = int(time.strftime("%I"))  # taking current time (in hour format, and formating it to int)
+ampm = time.strftime("%p") # taking sm/pm information
 
 name = input("Enter your name : ")
 
