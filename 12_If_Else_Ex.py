@@ -10,3 +10,4 @@ if (hours >= 4 and hours <= 12) and ampm == 'AM':
 elif (hours <=8) and ampm == 'PM':
     print("Hello ", name.capitalize(), "Good Afternoon.......")
 else:
+    print("hello ", name.capitalize(), "Good night.......")
