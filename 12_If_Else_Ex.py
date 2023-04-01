@@ -1,6 +1,7 @@
 #in this exercise we are trying to greet user either good morning, good afernoon, or good night 
 # it will be decided as per the their inputs provided.
 # we are using time package here in this exercise
+# we are taking name as user input 
 import time
 
 
