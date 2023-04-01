@@ -16,4 +16,5 @@
 
 #### PS: If anyone wants to learn python everyday, then this can be very useful for them as I will be covering Python from the very beginning to the very advanced sections. 
 
-## Happy coding! 😊
+## Happy coding! 
+
