@@ -1,5 +1,5 @@
 #in this exercise we are trying to greet user either good morning, good afernoon, or good night 
-#
+# it will be decided as per the their inputs provided.
 import time
 
 
