@@ -7,10 +7,17 @@
 num = int(input("Give me a positive number : "))
 
 match num:
-    case "even":
-        print(" Number is Even ")
-    case "num%2!=0":
-        print("Number is odd")
+    case 1:
+        print(" Number is 1 ")
+    case 10:
+        print("Number is 10")
+    case 20:
+        print("Number is 20")
+    case 50:
+        print("Number is 50")
+    case 100:
+        print("Number is 100")
+        
     case _:
-        print("Number is zero ")
+        print(" ")
 
