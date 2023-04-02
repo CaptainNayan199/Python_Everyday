@@ -23,4 +23,4 @@ match week:
         
 # So this much for today class. Hope you got to know some new things today. 
 # Practice more, remember the more you practice the more perfect you are going to be
-# so yeah! See you in the next 
+# so yeah! Let's meet tomorrow.
