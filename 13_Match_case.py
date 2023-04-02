@@ -6,8 +6,6 @@
 
 num = int(input("Give me a positive number : "))
 
-even = num%2
-# odd = num%2
 match num:
     case "even":
         print(" Number is Even ")
