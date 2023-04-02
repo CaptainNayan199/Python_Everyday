@@ -8,4 +8,4 @@ match week:
     case 2:
         print("Today is Monday")
     case 3:
-        print()
+        print("Today is Tuesday")
