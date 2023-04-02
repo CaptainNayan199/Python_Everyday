@@ -19,3 +19,6 @@ match week:
         print("Today is Saturday")
     case _:
         print("Invalid number provided! Please be responsible and provide a valid number [1-7] ")
+        
+        
+# So this much for today class.
