@@ -3,6 +3,7 @@
 #Match case is a new feature added in python programming language. It was added after 3.10 version.
 #Match case is like switch case in other programming languages like C, Java, etc.
 #Match case is generally used for comparing values with the patterns
+# PS: there will be no break statement in python match case as like in other programming languages.
 
 num = int(input("Give me a positive number : "))
 
