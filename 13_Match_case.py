@@ -5,3 +5,8 @@
 #Match case is generally used for comparing values with the patterns
 
 num = int(input("Give me a number : "))
+
+match num:
+    case "num%2==0":
+        print(" ")
+
