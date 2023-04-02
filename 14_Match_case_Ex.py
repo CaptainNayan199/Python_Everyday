@@ -13,3 +13,5 @@ match week:
         print("Today is Wednesdays")
     case 5:
         print("Today is Thursday")
+    case 6:
+        
