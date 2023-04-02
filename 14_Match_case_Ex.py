@@ -7,4 +7,5 @@ match week:
         print("Today is Sunday")
     case 2:
         print("Today is Monday")
-    
+    case 3:
+        print()
