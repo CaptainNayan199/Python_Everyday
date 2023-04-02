@@ -4,4 +4,4 @@
 week = int(input("Please enter a number between 1 to 7 : "))
 match week:
     case 1:
-        print()
+        print("Today is Sunday")
