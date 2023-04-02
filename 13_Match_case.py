@@ -18,6 +18,6 @@ match num:
         print("Number is 50")
     case 100:
         print("Number is 100") 
-    case _:
+    case _:  # this works same as default keyword in switch case statement in other languages.
         print(" Other number provided ")
 
