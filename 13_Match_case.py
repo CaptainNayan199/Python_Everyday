@@ -19,5 +19,5 @@ match num:
         print("Number is 100")
         
     case _:
-        print(" ")
+        print(" Other number provided ")
 
