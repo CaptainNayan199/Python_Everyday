@@ -21,4 +21,4 @@ match week:
         print("Invalid number provided! Please be responsible and provide a valid number [1-7] ")
         
         
-# So this much for today class.
+# So this much for today class. Hope you got to know some new things today. 
