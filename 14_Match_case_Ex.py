@@ -18,4 +18,4 @@ match week:
     case 7:
         print("Today is Saturday")
     case _:
-        print("Invalid number provided! Please be responsible and provide a valid number ")
+        print("Invalid number provided! Please be responsible and provide a valid number [1-7] ")
