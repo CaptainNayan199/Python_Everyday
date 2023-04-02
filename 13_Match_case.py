@@ -16,8 +16,7 @@ match num:
     case 50:
         print("Number is 50")
     case 100:
-        print("Number is 100")
-        
+        print("Number is 100") 
     case _:
         print(" Other number provided ")
 
