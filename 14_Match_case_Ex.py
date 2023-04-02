@@ -15,3 +15,4 @@ match week:
         print("Today is Thursday")
     case 6:
         print("Today is Friday")
+    
