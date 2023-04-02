@@ -4,9 +4,15 @@
 #Match case is like switch case in other programming languages like C, Java, etc.
 #Match case is generally used for comparing values with the patterns
 
-num = int(input("Give me a number : "))
+num = int(input("Give me a positive number : "))
 
+even = num%2
+# odd = num%2
 match num:
-    case "num%2==0":
-        print(" ")
+    case "even":
+        print(" Number is Even ")
+    case "num%2!=0":
+        print("Number is odd")
+    case _:
+        print("Number is zero ")
 
