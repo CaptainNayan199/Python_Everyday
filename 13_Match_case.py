@@ -4,4 +4,4 @@
 #Match case is like switch case in other programming languages like C, Java, etc.
 #Match case is generally used for comparing values with the patterns
 
-
+num = int(input("Give me a number : "))
