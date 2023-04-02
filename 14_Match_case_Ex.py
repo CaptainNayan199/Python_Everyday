@@ -2,3 +2,6 @@
 # first of all we will take  integer user input and then determine on the basis of it
 
 week = int(input("Please enter a number between 1 to 7 : "))
+match week:
+    case 1:
+        print()
