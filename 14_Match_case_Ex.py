@@ -16,4 +16,4 @@ match week:
     case 6:
         print("Today is Friday")
     case 7:
-        print("")
+        print("Today is Saturday")
