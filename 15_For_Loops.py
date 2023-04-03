@@ -20,4 +20,4 @@
 number = int(input("Which number table do you want ? "))
 
 for i in range (number):
-    print(number, " X " , (i+1), " = ", number*(i+1)  )
+    print(number, " X " , (i+1), " = ", number*(i+1), "\n"  )
