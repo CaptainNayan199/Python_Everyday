@@ -37,7 +37,8 @@ list2 = {"Name":"Nayan",
          "Surname":"Pathak", 
          "Hobby":"Studying"}
 for j in list2.keys():
-    print(j,"\n")
+    print(j)
+print("\n")
 for i in list2.values():
     print(i)
 
