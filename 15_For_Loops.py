@@ -30,3 +30,5 @@
 #     print(i)
 
 list = ["Pilot", "Driver", "Airplane", "Flight"]
+for i in list:
+    print(i)
