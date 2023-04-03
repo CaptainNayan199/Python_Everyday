@@ -11,4 +11,6 @@ num = 10
 for i in range (num): # i is used as certain variable that is storing the values from 0 to provided number.
     print(i) # the number from 0 to num-1 is printed
 # but what if we want to print starting from 1 ?
-#just change inside
+#just change inside print
+
+    print(i+1)
