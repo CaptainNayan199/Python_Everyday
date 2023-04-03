@@ -36,5 +36,5 @@
 list2 = {"Name":"Nayan",
          "Surname":"Pathak", 
          "Hobby":"Studying"}
-for i in list2.values:
+for i in list2.values():
     print(i)
