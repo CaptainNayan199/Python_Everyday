@@ -3,3 +3,5 @@
 #For loop can iterate over a sequence of iterable objects in python
 
 #Numbers and strings/characters cn be printed in different way using for loops in python
+
+#Let's print numbers using For loop
