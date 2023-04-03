@@ -58,5 +58,6 @@ for i in range (1, 12, 3):
 
 # for example : the above code output will be :
 
-# 1 4 7 10 : 
+# 1 4 7 10 : The starting value is 1 and ending value is 12-1 = 11, but as per third parameter it should jump by 3
+
 
