@@ -9,4 +9,4 @@
 
 num = 10
 for i in range (num): # i is used as certain variable that is storing the values from 0 to provided number.
-    print(i)
+    print(i) # the number from 
