@@ -45,6 +45,12 @@
 # list3 = ("Nayan", "Santosh", "Roshan", "Tika")
 # for i in list3:
 #     print(i) #printing each content of tuples
+
+
+#Range function in python always takes 3 parameters
+
+for i in range (1, 12, 3):
+    print(i)
     
     
 
