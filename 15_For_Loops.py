@@ -16,3 +16,4 @@ for i in range (num): # i is used as certain variable that is storing the values
     print(i+1) #starts printing from 1
 
 # Likewise multiplication table can be also printed using for and range 
+
