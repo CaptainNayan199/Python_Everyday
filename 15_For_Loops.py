@@ -17,10 +17,11 @@
 
 # Likewise multiplication table can be also printed using for and range 
 
-number = int(input("Which number table do you want ? "))
+# number = int(input("Which number table do you want ? "))
 
-for i in range (0, 10):
-    print(number, " X " , (i+1), " = ", number*(i+1), "\n"  )
+# for i in range (0, 10):
+#     print(number, " X " , (i+1), " = ", number*(i+1), "\n"  )
     
 
 # Similaryl we can print charaters of a particular string using for loop as well
+
