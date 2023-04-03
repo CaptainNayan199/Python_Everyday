@@ -52,6 +52,6 @@
 for i in range (1, 12, 3):
     print(i)
     
-# the first parameter signifies
+# the first parameter signifies the starting values of the range
     
 
