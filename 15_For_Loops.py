@@ -13,4 +13,4 @@ for i in range (num): # i is used as certain variable that is storing the values
 # but what if we want to print starting from 1 ?
 #just change inside print
 
-    print(i+1)
+    print(i+1) #starts printing from 1
