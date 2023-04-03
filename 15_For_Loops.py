@@ -65,4 +65,5 @@ for i in range (1, 12, 3):
 
 #So yeah this much for today, PS: Practice more for loops in python as they are the most used loops in not only python but also in other programming language
 # So in tomorrow class we will talk about while loop in python
+# Thank you! Happy coding.
 
