@@ -26,4 +26,5 @@
 # Similaryl we can print charaters of a particular string using for loop as well
 
 name = "Nayan"
-for 
+for i in name:
+    print(i)
