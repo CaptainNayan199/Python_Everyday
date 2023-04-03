@@ -44,7 +44,7 @@
 
 # list3 = ("Nayan", "Santosh", "Roshan", "Tika")
 # for i in list3:
-#     print(i)
+#     print(i) #printing each content of tuples
     
     
 
