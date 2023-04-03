@@ -36,3 +36,5 @@
 list2 = {"Name":"Nayan",
          "Surname":"Pathak", 
          "Hobby":"Studying"}
+for i in list2:
+    print(i)
