@@ -8,5 +8,5 @@
 #We have to use range to print numbers in python
 
 num = 10
-for i in range (num): # i is used as certain variable that is storing the values from 0 to provided
+for i in range (num): # i is used as certain variable that is storing the values from 0 to provided number.
     print(i)
