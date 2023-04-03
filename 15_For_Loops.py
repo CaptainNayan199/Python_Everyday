@@ -29,6 +29,6 @@
 # for i in name:
 #     print(i)
 
-list = ["Pilot", "Driver", "Airplane", "Flight"]
-for i in list:
-    print(i)
+# list = ["Pilot", "Driver", "Airplane", "Flight"]
+# for i in list:
+#     print(i)
