@@ -54,5 +54,6 @@ for i in range (1, 12, 3):
     
 # the first parameter signifies the starting values of the range
 # the second parameter signifies the last/ending value of the range which is (n-1) or in our case(12-1)
+# the third parameter signifies the jumping value
     
 
