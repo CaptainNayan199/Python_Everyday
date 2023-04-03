@@ -32,3 +32,5 @@
 # list = ["Pilot", "Driver", "Airplane", "Flight"]
 # for i in list:
 #     print(i)
+
+list2 = {"Name":"Nayan", "Hobby":"Studying"}
