@@ -25,26 +25,26 @@
 
 # Similaryl we can print charaters of a particular string using for loop as well
 
-# name = "Nayan"
+# name = "Nayan" #printing characters in normal string
 # for i in name:
 #     print(i)
 
-# list = ["Pilot", "Driver", "Airplane", "Flight"]
-# for i in list:
+# list = ["Pilot", "Driver", "Airplane", "Flight"] #
+# for i in list: printing each value of list
 #     print(i)
 
 # list2 = {"Name":"Nayan",
 #          "Surname":"Pathak", 
 #          "Hobby":"Studying"}
 # for j in list2.keys():
-#     print(j)
+#     print(j) #printing each keys in provided dict
 # print("\n")
 # for i in list2.values():
-#     print(i)
+#     print(i) #printing the corresponding values of dict
 
-list3 = ("Nayan", "Santosh", "Roshan", "Tika")
-for i in list3:
-    print(i)
+# list3 = ("Nayan", "Santosh", "Roshan", "Tika")
+# for i in list3:
+#     print(i)
     
     
 
