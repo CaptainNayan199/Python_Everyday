@@ -5,3 +5,4 @@
 #Numbers and strings/characters cn be printed in different way using for loops in python
 
 #Let's print numbers using For loop
+#We have to use range to print numbers in python
