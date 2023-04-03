@@ -33,12 +33,18 @@
 # for i in list:
 #     print(i)
 
-list2 = {"Name":"Nayan",
-         "Surname":"Pathak", 
-         "Hobby":"Studying"}
-for j in list2.keys():
-    print(j)
-print("\n")
-for i in list2.values():
+# list2 = {"Name":"Nayan",
+#          "Surname":"Pathak", 
+#          "Hobby":"Studying"}
+# for j in list2.keys():
+#     print(j)
+# print("\n")
+# for i in list2.values():
+#     print(i)
+
+list3 = ("Nayan", "Santosh", "Roshan", "Tika")
+for i in list3:
     print(i)
+    
+    
 
