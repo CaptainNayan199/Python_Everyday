@@ -33,4 +33,6 @@
 # for i in list:
 #     print(i)
 
-list2 = {"Name":"Nayan", "Hobby":"Studying"}
+list2 = {"Name":"Nayan",
+         "Surname":"Pathak", 
+         "Hobby":"Studying"}
