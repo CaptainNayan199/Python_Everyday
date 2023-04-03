@@ -1,1 +1,1 @@
-#Loops are used for printing some sequence of codes 
+#Loops are used for printing some sequence of codes for some n number of times.
