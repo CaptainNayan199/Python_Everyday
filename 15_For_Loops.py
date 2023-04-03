@@ -33,14 +33,14 @@
 # for i in list: printing each value of list
 #     print(i)
 
-# list2 = {"Name":"Nayan",
-#          "Surname":"Pathak", 
-#          "Hobby":"Studying"}
-# for j in list2.keys():
-#     print(j) #printing each keys in provided dict
-# print("\n")
-# for i in list2.values():
-#     print(i) #printing the corresponding values of dict
+list2 = {"Name":"Nayan",
+         "Surname":"Pathak", 
+         "Hobby":"Studying"}
+for j in list2.keys():
+    print(j) #printing each keys in provided dict
+print("\n")
+for i in list2.values():
+    print(i) #printing the corresponding values of dict
 
 list3 = ("Nayan", "Santosh", "Roshan", "Tika")
 for i in list3:
