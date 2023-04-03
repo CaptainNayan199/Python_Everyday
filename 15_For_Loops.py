@@ -19,5 +19,5 @@
 
 number = int(input("Which number table do you want ? "))
 
-for i in range (number, 10):
+for i in range (number, 9):
     print(number, " X " , (i+1), " = ", number*(i+1), "\n"  )
