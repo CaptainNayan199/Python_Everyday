@@ -29,9 +29,9 @@
 # for i in name:
 #     print(i)
 
-# list = ["Pilot", "Driver", "Airplane", "Flight"] #
-# for i in list: printing each value of list
-#     print(i)
+list = ["Pilot", "Driver", "Airplane", "Flight"] #
+for i in list: #printing each value of list
+    print(i)
 
 list2 = {"Name":"Nayan",
          "Surname":"Pathak", 
