@@ -58,5 +58,5 @@ for i in range (1, 12, 3):
 
 # for example : the above code output will be :
 
-    
+# 1 4 7 10
 
