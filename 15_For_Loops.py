@@ -60,4 +60,5 @@ for i in range (1, 12, 3):
 
 # 1 4 7 10 : The starting value is 1 and ending value is 12-1 = 11, but as per third parameter it should jump by 3
 
+# so at first it will print 1, and them jump by 3 and then print 4 and then again jump by 3 and print
 
