@@ -42,9 +42,9 @@
 # for i in list2.values():
 #     print(i) #printing the corresponding values of dict
 
-# list3 = ("Nayan", "Santosh", "Roshan", "Tika")
-# for i in list3:
-#     print(i) #printing each content of tuples
+list3 = ("Nayan", "Santosh", "Roshan", "Tika")
+for i in list3:
+    print(i) #printing each content of tuples
 
 
 #Range function in python always takes 3 parameters
