@@ -18,3 +18,5 @@
 # Likewise multiplication table can be also printed using for and range 
 
 number = int(input("Which number table do you want ? "))
+
+for i in range (number)
