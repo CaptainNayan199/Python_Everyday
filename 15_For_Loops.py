@@ -25,9 +25,9 @@
 
 # Similaryl we can print charaters of a particular string using for loop as well
 
-# name = "Nayan" #printing characters in normal string
-# for i in name:
-#     print(i)
+name = "Nayan" #printing characters in normal string
+for i in name:
+    print(i)
 
 list = ["Pilot", "Driver", "Airplane", "Flight"] #
 for i in list: #printing each value of list
