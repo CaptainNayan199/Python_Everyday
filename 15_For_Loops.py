@@ -6,3 +6,7 @@
 
 #Let's print numbers using For loop
 #We have to use range to print numbers in python
+
+num = 10
+for i in range (num):
+    print()
