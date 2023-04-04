@@ -4,4 +4,4 @@ while (i<10):
     i = int(input("A number please : "))
     print(i)
     
-#until and unless the condition is true, while loops gets
+#until and unless the condition is true, while loops gets executed continuously
