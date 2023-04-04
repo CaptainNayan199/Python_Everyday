@@ -5,3 +5,5 @@ while (i<10):
     print(i)
     
 #until and unless the condition is true, while loops gets executed continuously
+
+#decrement while loop
