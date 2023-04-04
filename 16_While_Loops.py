@@ -13,5 +13,5 @@ while (c>0):
     c=c-1
 
 # Else with while loop
-
+num = int(input("ENter a number : "))
  
