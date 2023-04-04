@@ -7,3 +7,6 @@ while (i<10):
 #until and unless the condition is true, while loops gets executed continuously
 
 #decrement while loop
+c = 5
+
+ 
