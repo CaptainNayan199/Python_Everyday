@@ -17,5 +17,6 @@ num = int(input("ENter a number : "))
 while(num%2==0):
     print(num, "is a even number.")
     break # dont worry abt this break, we will see break statement in tomorrow class.
-else;
+else:
+    print(num, "is a odd number")
  
