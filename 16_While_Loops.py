@@ -19,4 +19,7 @@ while(num%2==0):
     break # dont worry abt this break, we will see break statement in tomorrow class.
 else:
     print(num, "is a odd number")
+    
+    
+# So yeah this much for today, i know today session has been a bit shorter than previous one, but i am not feeling well, i think i need to take rest
  
