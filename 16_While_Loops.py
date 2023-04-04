@@ -15,5 +15,5 @@ while (c>0):
 # Else with while loop
 num = int(input("ENter a number : "))
 while(num%2==0):
-    print(num, "is a even number")
+    print(num, "is a even number.")
  
