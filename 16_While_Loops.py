@@ -21,5 +21,6 @@ else:
     print(num, "is a odd number")
     
     
-# So yeah this much for today, i know today session has been a bit shorter than previous one, but i am not feeling well, i think i need to take rest
+# So yeah this much for today, i know today session has been a bit shorter than previous one, but i am not feeling well, i think i need to take rest.
+# So we'll meet tomorrow and we will see about break and continue statement in python
  
