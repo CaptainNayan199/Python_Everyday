@@ -8,5 +8,6 @@ while (i<10):
 
 #decrement while loop
 c = 5
-
+while (c>0):
+    print(c)
  
