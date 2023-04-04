@@ -3,3 +3,4 @@ i = int(input("A number please : "))
 while (i<10):
     i = int(input("A number please : "))
     print(i)
+    
