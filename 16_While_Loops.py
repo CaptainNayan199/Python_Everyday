@@ -1,0 +1,1 @@
+# while loop iss another type of loop that is used to execute certain code for multiple times
