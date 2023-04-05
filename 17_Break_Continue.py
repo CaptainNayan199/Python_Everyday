@@ -5,3 +5,5 @@
 for i in range (12):
     if(i>9):
         print("Value is greater than 10, SO I am out")
+        break
+    print("SOme random stuffs")
