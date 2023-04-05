@@ -18,7 +18,7 @@ for i in range (12):
 # Python has no do while loop but we can emulate it using while loop
 
 i = int(input("ENter a number : "))
-while True:
+while True: # this means 
     print(i)
     if(i%2==0):
         print("Even number")
