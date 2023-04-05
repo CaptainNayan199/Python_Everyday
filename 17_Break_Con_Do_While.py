@@ -15,3 +15,4 @@ for i in range (12):
     print("SOme random stuffs")
 
 # Emulating/Immitating do while loop in python
+# Python has no do while loop but we can emulate it using while loop
