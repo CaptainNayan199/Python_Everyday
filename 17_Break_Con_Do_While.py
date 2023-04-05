@@ -32,5 +32,5 @@ while True:
     if(num > 0):
         print("Positive number")
         break
-    else:
-        print("Negra")
+    if (num < 0):
+        print("Please provide positive number")
