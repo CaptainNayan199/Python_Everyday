@@ -37,3 +37,4 @@ while True:
 
 # So yeah this much for today, tomorrow we will be seeing abt functions in python , what do they do, what are their jobs and all those things, 
 # Stay focused; practice more
+# Thank you! Happy coding, C ya tomorrow.
