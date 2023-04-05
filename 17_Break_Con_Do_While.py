@@ -35,4 +35,5 @@ while True:
     if (num < 0):
         print("Please provide positive number")
 
-# So yeah this much for today
+# So yeah this much for today, tomorrow we will be seeing abt functions in python , what do they do, what are their jobs and all those things, 
+
