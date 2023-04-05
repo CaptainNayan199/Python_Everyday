@@ -1,1 +1,1 @@
-# Lopps in python run or work by each iteration and sometimes it can even 
+# Lopps in python run or work by each iteration and sometimes it can even rin for infinite times, and hence
