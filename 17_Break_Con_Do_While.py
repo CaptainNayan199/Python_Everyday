@@ -31,3 +31,6 @@ while True:
     num = int(input("Give me a number : "))
     if(num > 0):
         print("Positive number")
+        break
+    else:
+        print("Negra")
