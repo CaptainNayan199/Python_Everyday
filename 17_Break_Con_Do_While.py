@@ -26,3 +26,6 @@ while True: # this always runs, irrespective of whether the contdition is true o
     else:
         print("Odd number")
         break
+
+while True:
+    num = int(input("Give me a number : "))
