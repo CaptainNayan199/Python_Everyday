@@ -29,3 +29,5 @@ while True: # this always runs, irrespective of whether the contdition is true o
 
 while True:
     num = int(input("Give me a number : "))
+    if(num > 0):
+        print("Positive number")
