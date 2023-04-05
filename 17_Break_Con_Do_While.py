@@ -23,3 +23,5 @@ while True:
     if(i%2==0):
         print("Even number")
         break
+    else:
+        print("Odd number")
