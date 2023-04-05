@@ -14,3 +14,4 @@ for i in range (12):
         continue
     print("SOme random stuffs")
 
+# Emulating/Immitating
