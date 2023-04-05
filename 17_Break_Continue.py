@@ -13,3 +13,4 @@ for i in range (12):
         print("Value is 10")
         continue
     print("SOme random stuffs")
+
