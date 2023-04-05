@@ -8,4 +8,8 @@ for i in range (12):
         break
     print("SOme random stuffs")
 
-
+for i in range (12):
+    if (i==10):
+        print("Value is 10")
+        continue
+    print("SOme random stuffs")
