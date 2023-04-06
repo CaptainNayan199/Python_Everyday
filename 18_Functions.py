@@ -20,4 +20,4 @@ empty_function()
 # There are 2 types of function in python programming languages
 
 # 1. Built in functions - they are in build functions and are not required to invoke or create them. Eg : tuple(), hash(), set(), etc
-# 2. User defined functions - 
+# 2. User defined functions - they are those functions that are built by users/developers as per their need
