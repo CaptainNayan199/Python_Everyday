@@ -23,3 +23,4 @@ empty_function()
 # 2. User defined functions - they are those functions that are built by users/developers as per their need
 
 # So yeah this much for today! Tomorrow we will see functions with arguments, what type of arguments, and much things
+#Thank you! 
