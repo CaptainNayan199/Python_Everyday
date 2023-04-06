@@ -18,3 +18,5 @@ empty_function()
 
 
 # There are 2 types of function in python programming languages
+
+# 1. Built in functions - 
