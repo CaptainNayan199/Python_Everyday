@@ -7,3 +7,6 @@ def f_name(): # function in python is defined using keyword def, after def funct
 
 # in like other programming language, calling a function is needed to sucessfully execute that particular function, so just write the name of the function and the function is called
 f_name()
+
+
+# In python empty function does not gets executed, but there is a magical keyword called as 'pass'
