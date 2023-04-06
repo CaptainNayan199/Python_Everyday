@@ -5,4 +5,5 @@ def f_name(): # function in python is defined using keyword def, after def funct
     # Some block of lines
     print("Hello")
 
+
 f_name()
