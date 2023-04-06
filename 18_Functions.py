@@ -5,5 +5,5 @@ def f_name(): # function in python is defined using keyword def, after def funct
     # Some block of lines
     print("Hello")
 
-
+# in like other programming language, calling a function is needed to sucessfully execute that particular function
 f_name()
