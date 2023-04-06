@@ -17,3 +17,4 @@ def empty_function():
 empty_function()
 
 
+# There are 2 types of function in python programming languages
