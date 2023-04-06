@@ -1,1 +1,1 @@
-#functions in python are used to perform
+#functions in python are used to perform specific task whenever it is called
