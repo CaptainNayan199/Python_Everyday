@@ -9,4 +9,9 @@ def f_name(): # function in python is defined using keyword def, after def funct
 f_name()
 
 
-# In python empty function does not gets executed, but there is a magical keyword called as 'pass'
+# In python empty function does not gets executed, but there is a magical keyword called as 'pass', which lets us run the empty function
+
+def empty_function():
+    pass
+
+empty_function()
