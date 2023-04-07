@@ -20,3 +20,5 @@ def diff(a, b):
 diff(5, 4)
 
 # 4. Variable length arguments 
+def average(*abc): #no worries mate
+    print(type(abc))
