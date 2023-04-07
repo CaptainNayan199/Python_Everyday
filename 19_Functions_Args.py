@@ -61,7 +61,7 @@ abc()
 
 # So yeah this much for today, I think we learned many things today, we saw different styles of functions and their arguments, and much more.
 
-#From Tomorrow we will be looking at some important data types in python like sets, lists, tuples, and etc in details, so dont miss it, or else you gonna loose something very important in python
+#From Tomorrow we will be looking at some important data types in python like sets, lists, tuples, and etc in details, so dont miss it, or else you gonna loose something very important in python.
 
 # Thank you! Happy coding.
 
