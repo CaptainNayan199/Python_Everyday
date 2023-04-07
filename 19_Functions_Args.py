@@ -47,6 +47,6 @@ def aver(*avg):
 
 aver(1,2,3,4,5)
 
-# Return - it is like 
+# Return - it is just what function is returning, or throwing back. In the 
 
 
