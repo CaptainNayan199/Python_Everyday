@@ -5,4 +5,4 @@
 # 1. Default Argument 
 def sum (a=3, b=4):
     print("Sum is ", a+b)
-sum() # see it seems preety simple, 
+sum() # see it seems preety simple, which is btw, a sum function is made with 2 parameters a and b, and then sum is printed by calling the functions
