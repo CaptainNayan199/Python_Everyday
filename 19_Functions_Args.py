@@ -37,5 +37,14 @@ def average (**abc): # this works as dictionaries
 average(name="Nayan", caste="Bahun", college="MMC", country="Nepal") # just an example, we will see in depth about each things in their respective session in coming future.
 # PS: ** Works as Dictionaries, where data are provided in the form of key and their respective values
 
+def aver(*avg):
+    print(type(avg))
+    sum = 0
+    for i in avg:
+        sum = sum + i
+    averagee = sum / len(avg)
+    return averagee
+
+aver(1,2,3,4,5)
 
 
