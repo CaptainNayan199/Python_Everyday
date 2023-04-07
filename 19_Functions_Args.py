@@ -11,3 +11,5 @@ sum() # see it seems preety simple, which is btw, a sum function is made with 2 
 def name(fname, mname="Prasad", lname=""):
     print("Hey! ", fname, mname, lname)
 name("Nayan", lname="Pathak") # Nayan Prasad Pathak
+
+# 2. Keywords arguments - it is just a function with provided parameter
