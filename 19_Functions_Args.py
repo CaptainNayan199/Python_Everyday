@@ -49,4 +49,7 @@ aver(1,2,3,4,5)
 
 # Return - it is just what function is returning, or throwing back. In the above example the function is calculating the average and throwing it, remember it is not printing it.
 
+# What happens if multiple returns are provided inside a function ?
+# ==> The first return gets the top most priority and gets executed, rest others are just simply ignored as stepmom ignores her stepchildren(jk)
+
 
