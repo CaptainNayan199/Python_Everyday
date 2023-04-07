@@ -8,3 +8,6 @@ def sum (a=3, b=4):
 sum() # see it seems preety simple, which is btw, a sum function is made with 2 parameters a and b, and then sum is printed by calling the functions
 # But if we pass any values to the function while calling the function like sum(4,5), it will get the first priority, then the sum will be 9 not 7
 
+def name(fname, mname="Prasad", lname=""):
+    print("Hey! ", fname, mname, lname)
+name()
