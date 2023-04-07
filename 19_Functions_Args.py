@@ -23,7 +23,7 @@ diff(5, 4)
 def averagee(*abc): #no worries mate this works as tuples ,  * represents a tuples where we can give many parameters as we want
     print(type(abc)) 
     sum = 0
-    for i in range(abc):
+    for i in abc:
         sum=sum+i
     print("Average is ", sum/len(abc))
 
