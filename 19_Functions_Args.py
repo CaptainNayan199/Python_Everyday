@@ -16,5 +16,5 @@ name("Nayan", lname="Pathak") # Nayan Prasad Pathak
 
 # 3. Required arguments
 def diff(a, b):
-    print("Difeerence is ", a-b)
+    print("Difeerence is ", a-b) # In this the arguments must be provided, or else it will throw an error
 diff(5, 4)
