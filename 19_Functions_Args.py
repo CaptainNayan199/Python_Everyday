@@ -3,4 +3,5 @@
 #  Lets see the different types of arguments in python programming
 
 # 1. Default Argument 
-def sum
+def sum (a=3, b=4):
+    print("Sum is ", a+b)
