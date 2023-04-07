@@ -47,6 +47,6 @@ def aver(*avg):
 
 aver(1,2,3,4,5)
 
-# Return - it is just what function is returning, or throwing back. In the above example the function is calculating the average and throwing it, remember it is not printing it
+# Return - it is just what function is returning, or throwing back. In the above example the function is calculating the average and throwing it, remember it is not printing it.
 
 
