@@ -20,5 +20,5 @@ def diff(a, b):
 diff(5, 4)
 
 # 4. Variable length arguments 
-def average(*abc): #no worries mate
+def average(*abc): #no worries mate this works as tuples ,  * represents a tuples where we can give many parameters as we want
     print(type(abc))
