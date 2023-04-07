@@ -5,3 +5,4 @@
 # 1. Default Argument 
 def sum (a=3, b=4):
     print("Sum is ", a+b)
+sum()
