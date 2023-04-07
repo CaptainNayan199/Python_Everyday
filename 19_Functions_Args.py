@@ -50,6 +50,11 @@ aver(1,2,3,4,5)
 # Return - it is just what function is returning, or throwing back. In the above example the function is calculating the average and throwing it, remember it is not printing it.
 
 # What happens if multiple returns are provided inside a function ?
-# ==> The first return gets the top most priority and gets executed, rest others are just simply ignored as stepmom ignores her stepchildren(jk)
+# ==> The first return gets the top most priority and gets executed, rest others are just simply ignored by the interpreter as stepmom ignores her stepchildren(jk)
 
-
+def abc():
+    dif = 5-2
+    return "First Return"
+    return diff
+abc()
+# The first return gets executed.
