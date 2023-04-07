@@ -12,4 +12,4 @@ def name(fname, mname="Prasad", lname=""):
     print("Hey! ", fname, mname, lname)
 name("Nayan", lname="Pathak") # Nayan Prasad Pathak
 
-# 2. Keywords arguments - it is just a function with provided parameter
+# 2. Keywords arguments - it is just a function with provided parameter, eg : sum(b=5, a=3)
