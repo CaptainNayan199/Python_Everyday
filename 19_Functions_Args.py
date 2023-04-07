@@ -20,13 +20,22 @@ def diff(a, b):
 diff(5, 4)
 
 # 4. Variable length arguments 
-def average(*abc): #no worries mate this works as tuples ,  * represents a tuples where we can give many parameters as we want
+def averagee(*abc): #no worries mate this works as tuples ,  * represents a tuples where we can give many parameters as we want
     print(type(abc)) 
     sum = 0
     for i in range(abc):
         sum=sum+i
     print("Average is ", sum/len(abc))
 
-average(1,2,3,4,5)
+averagee(1,2,3,4,5)
+# PS: * Works as a Tuples, it represent a tuples
+
+def average (**abc): # this works as dictionaries
+    print(type(abc))
+    print("I am" ,abc['name'], ". My college name is ", abc['college'], ". I am from ", abc['country']  )
+
+average(name="Nayan", caste="Bahun", college="MMC", country="Nepal") # just an example, we will see in depth about each things in their respective session in coming future.
+# PS: ** Works as Dictionaries, where data are provided in the form of key and their respective values
+
 
 
