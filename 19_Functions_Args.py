@@ -21,4 +21,12 @@ diff(5, 4)
 
 # 4. Variable length arguments 
 def average(*abc): #no worries mate this works as tuples ,  * represents a tuples where we can give many parameters as we want
-    print(type(abc))
+    print(type(abc)) 
+    sum = 0
+    for i in range(abc):
+        sum=sum+i
+    print("Average is ", sum/len(abc))
+
+average(1,2,3,4,5)
+
+
