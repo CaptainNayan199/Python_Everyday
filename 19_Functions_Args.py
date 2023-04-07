@@ -14,4 +14,7 @@ name("Nayan", lname="Pathak") # Nayan Prasad Pathak
 
 # 2. Keywords arguments - it is just a function with provided parameter, eg : sum(b=5, a=3)
 
-# 3. 
+# 3. Required arguments
+def diff(a, b):
+    print("Difeerence is ", a-b)
+diff(5, 4)
