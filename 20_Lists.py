@@ -55,8 +55,3 @@ print(li3)
 # so the output will be [0, 5, 10, 15, 20, 25, 30, 35, 40, 45]
 
 # We can even calculate multiplication table by constructing a new list
-
-
-table = [k+1 for k in range(10)]
-for i+1 in range(10):
-   print(table[0], " X ", " i ", " = ", table[0]*i )
