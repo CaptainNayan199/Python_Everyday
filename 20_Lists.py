@@ -58,4 +58,5 @@ print(li3)
 
 
 table = [k+1 for k in range(10)]
-print(table[0], "")
+for i+1 in range(10):
+   print(table[0], " X ", " i ", " = ", table[0]*i )
