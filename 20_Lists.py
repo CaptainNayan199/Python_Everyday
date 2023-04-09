@@ -10,3 +10,5 @@ listt = ["Nayan", "Pathak", 20, "BTM", False] #this is a list whose name is list
 print(type(listt)) # prints the data types of the list
 
 # Adding more values inside a particular list the use of append method
+
+listt.append("Pokhara") #adds
