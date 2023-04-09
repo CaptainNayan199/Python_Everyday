@@ -42,4 +42,5 @@ lis2 = [k for k in range(10)]
 print(lis2) # it will make a new list, where K is a random variable, and then for loop is started till the range of 10, so it will give a output of :
 # [0,1,2,3,4,5,6,7,8,9], 10 will not be printed as it will range-1
 
-# But what 
+# But what if we want to print 1 to 10
+# we can just increment the value of random variable by 1
