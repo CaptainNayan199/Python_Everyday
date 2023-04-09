@@ -7,4 +7,4 @@
 # Data inside a list can be of any types
 
 listt = ["Nayan", "Pathak", 20, "BTM", False] #this is a list whose name is listt, and has multiple values with multiples data types
-print(type(listt)) # ptints the data types of the list
+print(type(listt)) # prints the data types of the list
