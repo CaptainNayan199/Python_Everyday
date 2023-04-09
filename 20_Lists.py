@@ -53,4 +53,3 @@ print(li3)
 
 # So range has been decided as 50 and a conditon is given if k modulus 5 == 0 (multiples of 5), then print it
 # so the output will be [0, 5, 10, 15, 20, 25, 30, 35, 40, 45]
-
