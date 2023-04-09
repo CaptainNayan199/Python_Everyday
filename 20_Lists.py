@@ -16,3 +16,10 @@ listt.append("Pokhara") #adds pokhara at the end of the list, and hence the new 
 
 # List values indexing - the elements of the list are typically indexed starting from 0
  
+lis = [1,2,3,4,5,6,7,8]
+print(lis[0]) # 1
+print(lis[1]) # 2
+print(lis[6]) #7
+print(lis[-2]) #7 - you can start negative indexing from the last
+
+# finding certain elements in the list - 
