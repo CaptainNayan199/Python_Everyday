@@ -6,5 +6,5 @@
 # There is a method called as 'append' which is used to add more elements to the lists
 # Data inside a list can be of any types
 
-listt = ["Nayan", "Pathak", 20, "BTM", False]
+listt = ["Nayan", "Pathak", 20, "BTM", False] #this is a list whose name is listt, and has multiple values with multiples data types
 print(type(listt))
