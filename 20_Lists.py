@@ -43,4 +43,14 @@ print(lis2) # it will make a new list, where K is a random variable, and then fo
 # [0,1,2,3,4,5,6,7,8,9], 10 will not be printed as it will range-1
 
 # But what if we want to print 1 to 10
-# we can just increment the value of random variable by 1
+# we can just increment the value of random variable by 1, Eg : 
+
+new = [a+1 for a in range(10)]
+print(new) #[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+li3 = [k for k in range(50) if k%5==0]
+print(li3)
+
+# So range has been decided as 50 and a conditon is given if k modulus 5 == 0 (multiples of 5), then print it
+# so the output will be [0, 5, 10, 15, 20, 25, 30, 35, 40, 45]
+
