@@ -58,4 +58,4 @@ print(li3)
 
 
 table = [k+1 for k in range(10)]
-print()
+print(table[0], "")
