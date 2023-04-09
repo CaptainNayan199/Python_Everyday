@@ -11,4 +11,8 @@ print(type(listt)) # prints the data types of the list
 
 # Adding more values inside a particular list the use of append method
 
-listt.append("Pokhara") #adds
+listt.append("Pokhara") #adds pokhara at the end of the list, and hence the new list will be : 
+    #   listt = ['Nayan', 'Pathak', 20, 'BTM', False, 'Pokhara']
+
+# List values indexing - the elements of the list are typically indexed starting from 0
+ 
