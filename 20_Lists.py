@@ -57,5 +57,5 @@ print(li3)
 # We can even calculate multiplication table by constructing a new list
 
 
-table = [k for k in range(10)]
+table = [k+1 for k in range(10)]
 print()
