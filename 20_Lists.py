@@ -8,3 +8,5 @@
 
 listt = ["Nayan", "Pathak", 20, "BTM", False] #this is a list whose name is listt, and has multiple values with multiples data types
 print(type(listt)) # prints the data types of the list
+
+# Adding more values inside a particular list the use of append method
