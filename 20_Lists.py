@@ -5,3 +5,6 @@
 # PS : Lists are mutable - i.e they can be changed later, are changeable and eidtableFiles Updated.
 # There is a method called as 'append' which is used to add more elements to the lists
 # Data inside a list can be of any types
+
+listt = ["Nayan", "Pathak", 20, "BTM", False]
+print(type(listt))
