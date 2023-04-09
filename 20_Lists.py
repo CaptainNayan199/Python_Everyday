@@ -28,3 +28,4 @@ if 10 in lis:
 else:
     print("False") # the output will be false as 10 is not inside the list
 
+# List slicing : S
