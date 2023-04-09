@@ -22,4 +22,9 @@ print(lis[1]) # 2
 print(lis[6]) #7
 print(lis[-2]) #7 - you can start negative indexing from the last
 
-# finding certain elements in the list - 
+# finding certain elements in the list - we can find the presence of certain elements inside a list by using a if condition : 
+if 10 in lis:
+    print("True")
+else:
+    print("False") # the output will be false as 10 is not inside the list
+
