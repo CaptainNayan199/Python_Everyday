@@ -28,4 +28,9 @@ if 10 in lis:
 else:
     print("False") # the output will be false as 10 is not inside the list
 
-# List slicing : S
+# List slicing : List slicing is as same as string slicing
+
+print(lis[1:5]) # [2,3,4,5] will be the output 
+
+# PS : If you dont know the slicing operations and the way to do slicing, please refer to past session where i have talked about slicing in very details.
+
