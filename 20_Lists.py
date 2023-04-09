@@ -34,3 +34,9 @@ print(lis[1:5]) # [2,3,4,5] will be the output
 
 # PS : If you dont know the slicing operations and the way to do slicing, please refer to past session where i have talked about slicing in very details.
 
+
+
+# List comphrehension : This is the process of making a new list
+
+lis2 = [k for k in range(10)]
+print(lis2) # 
