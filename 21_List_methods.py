@@ -38,4 +38,6 @@ print(list4)
 new_list = list4 + list5 #creating a new list and adding the other list value to concatenate and make a single list, in this the previous list elements will not get erased.
 print(new_list)
 
-# LIke wise there are many list operations and methods in pythons, but these are few that are very important, and one must be familiar with these
+# LIke wise there are many list operations and methods in pythons, but these are few that are very important, and one must be familiar with these methods.
+
+# So yeah this much for today session
