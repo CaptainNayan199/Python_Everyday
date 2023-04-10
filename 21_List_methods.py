@@ -15,3 +15,4 @@ print(list2)
 
 list2.sort(reverse=True) #sorts the data in descending order
 print(list2)
+
