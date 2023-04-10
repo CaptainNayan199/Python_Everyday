@@ -5,3 +5,5 @@ list1 = [1,2,3,4,5,6]
 print(list1)
 list1.append(7) #append methods adds elements in the list to the last.
 print(list1)
+
+#
