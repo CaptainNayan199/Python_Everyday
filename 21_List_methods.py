@@ -13,4 +13,5 @@ print(list2)
 
 # But what if we want to print the elements of the list in reverse order
 
-list2.sort(reverse=True) #
+list2.sort(reverse=True) #sorts the data in descending order
+print(list2)
