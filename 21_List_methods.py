@@ -30,3 +30,6 @@ list5 = [6,7,8,9,10]
 list4.extend(list5) #extends(concatenate)/ add another list elements to the end of the list
 print(list4)
 # But the previous list value will be now changed as we have added some more elements by concatenating other list
+
+# What if we want to keep the previous list values and concatenate
+# 
