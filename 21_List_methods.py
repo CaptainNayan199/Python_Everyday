@@ -33,3 +33,7 @@ print(list4)
 
 # What if we want to keep the previous list values and concatenate
 # Simply creating a new list and adding the value of two list, in that particular list, this will not hamper the original list elements
+
+# Eg:   
+new_list = list4 + list5
+print(new_list)
