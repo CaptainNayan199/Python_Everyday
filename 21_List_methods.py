@@ -1,1 +1,1 @@
-# Lists methods - here in this session we will be looking at some of the important lists methods 
+# Lists methods - here in this session we will be looking at some of the important lists methods that are very useful in manipulating certain lists
