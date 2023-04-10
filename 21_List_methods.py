@@ -41,4 +41,4 @@ print(new_list)
 # LIke wise there are many list operations and methods in pythons, but these are few that are very important, and one must be familiar with these methods.
 
 # So yeah this much for today session.
-# We will be talking about tuples in tomorrow session in details, so practice everyday, give 1 hour a day for python everyday
+# We will be talking about tuples in tomorrow session in details, so practice everyday, give 1 hour a day for python everyday, we gonna be an successful coder everyday.
