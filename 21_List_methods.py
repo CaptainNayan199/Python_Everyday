@@ -8,4 +8,4 @@ print(list1)
 
 
 list2=[45,325,2,12,5,435,1]
-list2.sort() # 
+list2.sort() # sorts the elements of the list in ascending order
