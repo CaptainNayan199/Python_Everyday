@@ -35,5 +35,5 @@ print(list4)
 # Simply creating a new list and adding the value of two list, in that particular list, this will not hamper the original list elements
 
 # Eg:   
-new_list = list4 + list5 #creating a new list and adding the other list value to concatenate and make a single list, in this 
+new_list = list4 + list5 #creating a new list and adding the other list value to concatenate and make a single list, in this the previous list elements will not get erased.
 print(new_list)
