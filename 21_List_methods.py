@@ -19,3 +19,4 @@ print(list2)
 list3 = [1,3,45,6,2,56]
 print(list3,index(2)) #gives the indexing of the element 2 which is non other than 4
 
+list3 = [1,3,5,6,7,8,1,1,12]
