@@ -42,3 +42,5 @@ print(new_list)
 
 # So yeah this much for today session.
 # We will be talking about tuples in tomorrow session in details, so practice everyday, give 1 hour a day for python everyday, we gonna be an successful coder oneday.
+
+# Thank you! Happy coding.
