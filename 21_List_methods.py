@@ -28,3 +28,4 @@ print(list4)
 
 list5 = [6,7,8,9,10]
 list4.extend(list5) #extends(concatenate)/ add another list elements to the end of the list
+print(list4)
