@@ -22,3 +22,4 @@ print(list3,index(2)) #gives the indexing of the element 2 which is non other th
 list3 = [1,3,5,6,7,8,1,1,12]
 print(list3.count(1)) #counts the repeatation of the certain elements. Eg : 1 has occured 3 times so it will give output 3.
 
+list_A = [1,2,3,4,5]
