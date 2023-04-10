@@ -16,3 +16,4 @@ print(list2)
 list2.sort(reverse=True) #sorts the data in descending order
 print(list2)
 
+list3 = [1,3,45,6,2,56]
