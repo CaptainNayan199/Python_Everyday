@@ -32,4 +32,4 @@ print(list4)
 # But the previous list value will be now changed as we have added some more elements by concatenating other list
 
 # What if we want to keep the previous list values and concatenate
-# 
+# Simply creating a new list and adding the value of two list, in that particular list, this will not hamper the original list elements
