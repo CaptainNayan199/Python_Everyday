@@ -25,3 +25,5 @@ print(list3.count(1)) #counts the repeatation of the certain elements. Eg : 1 ha
 list4 = [1,2,3,4,5]
 list4.insert(1,2) #inserts the new values to the provided destination, has two parameters: destination, new values
 print(list4)
+
+list5 = [6,7,8,9,10]
