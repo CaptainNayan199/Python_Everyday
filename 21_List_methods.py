@@ -27,3 +27,4 @@ list4.insert(1,2) #inserts the new values to the provided destination, has two p
 print(list4)
 
 list5 = [6,7,8,9,10]
+list4.extend(list5) #
