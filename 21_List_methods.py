@@ -12,3 +12,5 @@ list2.sort() # sorts the elements of the list in ascending order
 print(list2)
 
 # But what if we want to print the elements of the list in reverse order
+
+list2.sort(reverse=True) #
