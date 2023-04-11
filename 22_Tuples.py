@@ -71,3 +71,4 @@ if True and False in tu:
 else:
     print("No")
 # This will give output, Yes as True and False both are present in the provided tuples
+
