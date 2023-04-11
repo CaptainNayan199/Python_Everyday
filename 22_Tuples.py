@@ -8,3 +8,6 @@
 # Once a Tuple is created, it cannot be modified or changed further.
 
 # eg : 
+tuples1 = ("nayan", 1, 34, "pathak")
+print(tuples1)
+print(type(tuples1))
