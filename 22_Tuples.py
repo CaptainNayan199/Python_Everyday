@@ -16,3 +16,5 @@ tup = (1)
 print(tup)
 print(type(tup)) # it will say it is int, because it is just a single value, if we want to create a tuple of single value than it is necessary to add a commaa after that value
 # Eg :
+
+tup = (1,) # now this is a tuple with one value
