@@ -33,6 +33,5 @@ print(newtup, type(newtup))
 
 print(newtup[0])
 print(newtup[1])
-print(newtup[2])
 
 
