@@ -47,4 +47,9 @@ print(newtup[-2]) #this will give output = len(newtup) - 2 = 7, so it will give 
 
 # checking if particular value is in the given list or not
 
+tt = (1,2,3,4,5,6,"nayan", "baby")
 
+if 30 in tt:
+    print("Yes it is there")
+else :
+    print("Sorry! not found")
