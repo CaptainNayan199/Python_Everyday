@@ -19,4 +19,5 @@ print(type(tup)) # it will say it is int, because it is just a single value, if 
 
 tupp = (1,) # now this is a tuple with one value
 
-
+newtup = (1,2,3,4,6,7)
+print(newtup)
