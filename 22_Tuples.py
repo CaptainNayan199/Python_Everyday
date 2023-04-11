@@ -61,3 +61,13 @@ if "nayan" in tt:
     print("Yes")
 else:
     print("No") #it will print yes as nayan is in the tuples
+
+# Same goes for boolean values as well
+
+tu = (True, 34, "nayan", False)
+
+if True and False in tu:
+    print("Yes")
+else:
+    print("No")
+# This will give output, Yes as True and False both are present in the provided tuples
