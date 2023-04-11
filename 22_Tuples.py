@@ -24,3 +24,4 @@ print(newtup)
 newtup[3] = 88 #this will throw a error as we have discussed earlier that tuples after creating once cannot be changed further
 print(newtup) #it will throw error
 
+# If we want to create a list of elements that should not be changed for lifetime, then we should make a tuples in that case
