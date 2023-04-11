@@ -39,5 +39,7 @@ print(newtup[4])
 print(newtup[5])
 print(newtup[6])
 
+print(newtup[30]) #
+
 
 
