@@ -39,7 +39,7 @@ print(newtup[4])
 print(newtup[5])
 print(newtup[6])
 
-print(newtup[30]) #
+print(newtup[30]) # this will throw error as value at index 30 is not there in the tuples
 
 
 
