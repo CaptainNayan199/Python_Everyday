@@ -36,4 +36,3 @@ print(newtup[1])
 print(newtup[2])
 
 
-
