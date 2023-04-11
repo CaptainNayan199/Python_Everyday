@@ -60,4 +60,4 @@ else :
 if "nayan" in tt:
     print("Yes")
 else:
-    print("No")
+    print("No") #it will print yes as nayan is in the tuples
