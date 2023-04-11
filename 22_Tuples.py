@@ -80,3 +80,8 @@ tuple10 = (1,2,3,4,5,6,7,8,9)
 tuy = tuple10[2:7]
 print(tuple10)
 print(tuy)
+
+
+# SO yeah this much for today, today we talked about Tuples, remember that lists can be changed but tuples cannot be changed,
+# Tomorrow we will be talking about various methods available in tuples
+# Thank you ! Happy coding ! 
