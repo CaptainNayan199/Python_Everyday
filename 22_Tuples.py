@@ -30,6 +30,14 @@ print(newtup) #it will throw error
 
 newtupp = (1,2,3,4,6,7,"Nayan", "pathak", True)
 print(newtup, type(newtup))
+# Index values can also be printed in below fashion, it is same as that in lists
+print(newtup[0])
+print(newtup[1])
+print(newtup[2])
+print(newtup[3])
+print(newtup[4])
+print(newtup[5])
+print(newtup[6])
 
 
 
