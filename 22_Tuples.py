@@ -23,3 +23,4 @@ newtup = (1,2,3,4,6,7)
 print(newtup)
 newtup[3] = 88 #this will throw a error as we have discussed earlier that tuples after creating once cannot be changed further
 print(newtup) #it will throw error
+
