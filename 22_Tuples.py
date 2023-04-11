@@ -4,3 +4,4 @@
 # PS : Lists are enclosed inside a square brakcets, and TUples are enclosed inside a small brakets.
 
 # PS : Tuples are immutable data types in python.
+# That means once they are created, they cannot be changed or modified further
