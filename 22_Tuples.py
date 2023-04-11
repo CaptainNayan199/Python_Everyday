@@ -77,4 +77,5 @@ else:
 
 tuple10 = (1,2,3,4,5,6,7,8,9)
 
-tuy = tuple10[2
+tuy = tuple10[2:7]
+print(tuple10)
