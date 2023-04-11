@@ -72,3 +72,5 @@ else:
     print("No")
 # This will give output, Yes as True and False both are present in the provided tuples
 
+# Slicing also is possible in tuples but will give us a new sliced tuples
+# Lets 
