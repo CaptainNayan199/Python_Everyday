@@ -41,5 +41,7 @@ print(newtup[6])
 
 print(newtup[30]) # this will throw error as value at index 30 is not there in the tuples
 
+# Negative indexing is alos same as that in lists, and strings
+
 
 
