@@ -31,6 +31,5 @@ print(newtup) #it will throw error
 newtupp = (1,2,3,4,6,7,"Nayan", "pathak", True)
 print(newtup, type(newtup))
 
-print(newtup[0])
 
 
