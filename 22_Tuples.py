@@ -12,5 +12,6 @@ tuples1 = ("nayan", 1, 34, "pathak")
 print(tuples1)
 print(type(tuples1))
 
-tup = (1,)
+tup = (1)
 print(type(tup))
+print(tup)
