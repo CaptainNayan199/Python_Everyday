@@ -27,3 +27,6 @@ print(newtup) #it will throw error
 # If we want to create a list of elements that should not be changed for lifetime, then we should make a tuples in that case
 
 # ELements in the tuple can be anything like int, string, bool and etc
+
+newtupp = (1,2,3,4,6,7,"Nayan", "pathak", True)
+print(newtup, type(newtup))
