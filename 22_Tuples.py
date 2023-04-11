@@ -45,4 +45,6 @@ print(newtup[30]) # this will throw error as value at index 30 is not there in t
 
 print(newtup[-2]) #this will give output = len(newtup) - 2 = 7, so it will give the value at 7 position  which is Pathak
 
+# checking if particular value is in the given list or not
+
 
