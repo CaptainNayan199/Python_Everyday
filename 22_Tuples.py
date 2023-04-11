@@ -53,3 +53,11 @@ if 30 in tt:
     print("Yes it is there")
 else :
     print("Sorry! not found")
+# it will say sorry as 30 is not in the provided tuples
+
+# Same goes for some string too
+
+if "nayan" in tt:
+    print("Yes")
+else:
+    print("No")
