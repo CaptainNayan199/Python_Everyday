@@ -29,5 +29,4 @@ print(newtup) #it will throw error
 # ELements in the tuple can be anything like int, string, bool and etc
 
 newtupp = (1,2,3,4,6,7,"Nayan", "pathak", True)
-
 print(newtup, type(newtup))
