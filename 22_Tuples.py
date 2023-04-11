@@ -13,5 +13,5 @@ print(tuples1)
 print(type(tuples1))
 
 tup = (1)
-print(type(tup))
 print(tup)
+print(type(tup)) # it will say it is int
