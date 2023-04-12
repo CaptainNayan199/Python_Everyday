@@ -30,3 +30,11 @@ print(f"The value of PI is {pi:.2f}") # here, i have specified to keep upto 2 de
 
 print(f"{3*5}") # this is how we can compute, but remember it is in string format, if you want to use it later, you can do it by parsing it.
 print(type(f"{3*5}")) # this says it is string
+
+name = "Nayan"
+age = 20
+color = "Red"
+study = "BCA"
+
+print(f"Hey we are using f-string as {{name}}")
+
