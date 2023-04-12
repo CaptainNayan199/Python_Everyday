@@ -46,3 +46,7 @@ print(tup.index(2)) #this methods returns the first index of the respected eleme
 print(tup(2, 0, 7))  #this methods takes 3 arguements, the first one is the elements to search its index, and the other 2 arguments are the range for slicing
 
 # we can even print the length of the tuples using len methods.
+print(len(tup))
+
+# So yeah this much for today, we will meet up in tomorrows session.
+# Thank you ! Happy coding.
