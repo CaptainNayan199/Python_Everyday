@@ -28,4 +28,4 @@ print(f"The value of PI is {pi:.2f}") # here, i have specified to keep upto 2 de
 
 # we can even calculate the certain value inside of the f string 
 
-print(f"{3*5}")
+print(f"{3*5}") # this is how we can
