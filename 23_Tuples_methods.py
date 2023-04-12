@@ -38,4 +38,5 @@ print(tup3)
 tup = (1,2,3,4,5,6,2,7,8,1,1,1)
 print(tup.count(1)) # this methods counts particular elements in the tuples, so 1 has appeared 4 times in the tuples.
 
-print(tup.index(2)) #this methods 
+print(tup.index(2)) #this methods returns the first index of the respected elements. Remember I said first index, even if the element has appeared multiple times, it will return only the first index. 
+# So here, it will 
