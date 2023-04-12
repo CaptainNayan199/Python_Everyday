@@ -25,3 +25,4 @@ pi = 3.1415148796235892
 # so here i have the value of PI, i can print it using simple print function, but what if i want to keep certain values after decimal, we can do it using f string
 
 print(f"The value of PI is {pi:.2f}") # here, i have specified to keep upto 2 decimal places. So, yeah this is that simple.
+
