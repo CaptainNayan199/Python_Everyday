@@ -39,4 +39,8 @@ tup = (1,2,3,4,5,6,2,7,8,1,1,1)
 print(tup.count(1)) # this methods counts particular elements in the tuples, so 1 has appeared 4 times in the tuples.
 
 print(tup.index(2)) #this methods returns the first index of the respected elements. Remember I said first index, even if the element has appeared multiple times, it will return only the first index. 
-# So here, it will 
+# So here, it will say the index of 2 is 1
+
+# We can even find the index of certain elements by slicing the tuples.
+
+print(tup(2, 0, 7))  #this methods takes 3 arguements, the first one is the elements to search its index, and the other 2 arguments are the range for slicing
