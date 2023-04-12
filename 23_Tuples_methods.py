@@ -26,3 +26,10 @@ list1[1] = "Nayan" #replacing nayan in index 1
 tuple1 = tuple(list1) #further changing list into tuples.
 print(tuple1)
 
+# As list or string concatenation, we can also concatenate two tuples, and make 3rd tuples.
+
+tup1 = ("Nayan", "Pathak")
+tup2 = ("Ujjwal", "Dhakal")
+tup3 = tup1 + tup2
+print(tup3)
+
