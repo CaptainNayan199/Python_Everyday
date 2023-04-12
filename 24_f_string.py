@@ -36,5 +36,5 @@ age = 20
 color = "Red"
 study = "BCA"
 
-print(f"Hey we are using f-string as {{name}}")
+print(f"Hey we are using f-string as {{name}}") #if we use double curly braces then 
 
