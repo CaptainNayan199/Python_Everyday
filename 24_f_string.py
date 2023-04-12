@@ -20,3 +20,6 @@ print("My name is ", name, " and I am ", age, " years old. My favorite color is 
 print(f"My name is {name} and I am {age} years old. My favorite color is {color} and currently I am studying {study}") # this seems bit clear and easy to operate upon. 
 # Hence, this is string formattting, its that simple
 
+pi = 3.1415148796235892
+
+# so here i have the value of PI, i can print it using 
