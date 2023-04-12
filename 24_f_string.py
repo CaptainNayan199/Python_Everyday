@@ -27,3 +27,5 @@ pi = 3.1415148796235892
 print(f"The value of PI is {pi:.2f}") # here, i have specified to keep upto 2 decimal places. So, yeah this is that simple.
 
 # we can even calculate the certain value inside of the f string 
+
+print(f"{3*5}")
