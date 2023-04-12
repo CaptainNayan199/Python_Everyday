@@ -38,3 +38,5 @@ print(tup3)
 tup = (1,2,3,4,5,6,7,8,1,1,1)
 print(tup.count(1)) # this methods counts particular elements in the tuples, so 1 has appeared 4 times in the tuples.
 
+
+
