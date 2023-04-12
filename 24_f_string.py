@@ -22,4 +22,4 @@ print(f"My name is {name} and I am {age} years old. My favorite color is {color}
 
 pi = 3.1415148796235892
 
-# so here i have the value of PI, i can print it using 
+# so here i have the value of PI, i can print it using simple print function, but what if i want to keep certain values after decimal, we can do it using f string
