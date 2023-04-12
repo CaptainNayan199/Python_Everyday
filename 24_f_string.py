@@ -18,4 +18,5 @@ print("My name is ", name, " and I am ", age, " years old. My favorite color is 
 # But what if we can write it in better way, lets see
 
 print(f"My name is {name} and I am {age} years old. My favorite color is {color} and currently I am studying {study}") # this seems bit clear and easy to operate upon. 
-# Hence, this is string formattting
+# Hence, this is string formattting, its that simple
+
