@@ -26,3 +26,6 @@ print(sum.__doc__) #this will return a none output
 
 # Zen of python - this is a poem(kind of ester eggs in python) by tim peterson. you can read this by using import this statements in your python code
 import this
+
+# SO yeah this much for today, we will meet tomorrow, we will talk about recursion function in python.
+# Thank you! Happy coding.
