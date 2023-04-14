@@ -21,3 +21,5 @@ def sum (n):
 sum(2)
 # so if you want to print the docstring now, it wont be printed.
 print(sum.__doc__) #this will return a none output
+
+# PEP-8 - PEP 8 (Python Enhancement Proposals) is a document written in 2001 by Guido van Rossum, Barry Warsaw, and Nick Coghlan that provides guidelines and best practices on how to improve the readability and consistency of Python code.
