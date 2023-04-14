@@ -1,2 +1,2 @@
 # Recursion is the method of repeating some task for n number of times, until the required or desired output is calculated.
-# Recursion function are those types of function in python that keeps on calling itsefl until the desired output is met.
+# Recursion function are those types of function in python that keeps on calling itsefl until the desired output is met. So is done by calling the function 
