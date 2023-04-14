@@ -8,5 +8,7 @@ def factorial (n):
     else:
         return n * factorial(n-1) # here the function is calling itself, so it is recursion
 
-print(factorial(5))
+print(factorial(5)) #gives 120
+print(factorial(1)) #gives 1 
     
+
