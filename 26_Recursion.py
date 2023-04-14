@@ -11,4 +11,10 @@ def factorial (n):
 print(factorial(5)) #gives 120
 print(factorial(1)) #gives 1 
     
-
+# How it works : 
+# 5 * factorial(4)
+# 5 * 4 * factorial(3)
+# 5 * 4 * 3 * factorial(2)
+# 5 * 4 * 3 * 2 * factorial(1)
+# 5 * 4 * 3 * 2 * 1 
+# So this is how it works
