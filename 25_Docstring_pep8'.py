@@ -25,3 +25,4 @@ print(sum.__doc__) #this will return a none output
 # PEP-8 - PEP 8 (Python Enhancement Proposals) is a document written in 2001 by Guido van Rossum, Barry Warsaw, and Nick Coghlan that provides guidelines and best practices on how to improve the readability and consistency of Python code.
 
 # Zen of python - this is a poem(kind of ester eggs in python) by tim peterson. you can read this by using import this statements in your python code
+import this
