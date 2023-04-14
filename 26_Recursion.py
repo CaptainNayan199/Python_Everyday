@@ -2,4 +2,11 @@
 # Recursion function are those types of function in python that keeps on calling itsefl until the desired output is met. So is done by calling the function.
 # A recursive function should be able to call itself, have a proper stoppinfg condition or it will run infintely.
 
-def factorial (n)
+def factorial (n):
+    if n==1 or n==0:
+        return 1
+    else:
+        return n * factorial(n-1) # here the function is calling itself, so it is recursion
+
+print(factorial(5))
+    
