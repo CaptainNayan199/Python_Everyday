@@ -11,3 +11,13 @@ print(cube.__doc__) #remember in function docstring must be defined before the b
 
 # Docstring are not like comment, btw they are given special treatment by the interpreter.
 # Docstring are written just above the function body and it is used generally to document you code, and used with the use of doc attribute.
+# PS : remember they are not comment.
+
+def sum (n):
+    print(n)
+    '''Now this is not a docstring as it is not exactly above the function body'''
+    print(n+n)
+
+sum(2)
+# so if you want to print the docstring now, it wont be printed.
+print(sum.__doc__) #this will return a none output
