@@ -9,4 +9,5 @@ def cube (n):
 cube(3)
 print(cube.__doc__) #remember in function docstring must be defined before the body, and we can call the docstring using the method : function_name.__doc__ 
 
-# Docstring are not like comment, btw, they are given special treatment by the interpreter.
+# Docstring are not like comment, btw they are given special treatment by the interpreter.
+# Docstring are written just above the function body and it is used generally to document you code, and used with the use of doc attribute.
