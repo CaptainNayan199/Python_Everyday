@@ -30,3 +30,6 @@ def fib(n):
         return fib(n-1) + fib(n-2)
 
 print(fib(5))
+
+# SO yeah this much for today, we will meet tomorrow, we will talk about recursion function in python.
+# Thank you! Happy coding.
