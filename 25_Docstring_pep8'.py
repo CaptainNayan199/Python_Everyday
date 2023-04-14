@@ -7,3 +7,4 @@ def cube (n):
     print(n*n*n)
 
 cube(3)
+print(cube.__doc__) #
