@@ -7,4 +7,4 @@ def cube (n):
     print(n*n*n)
 
 cube(3)
-print(cube.__doc__) #remember in function docstring must be defined before the body, and we can call the docstring using the method : function_name.__doc__ inside a print statement.
+print(cube.__doc__) #remember in function docstring must be defined before the body, and we can call the docstring using the method : function_name.__doc__ 
