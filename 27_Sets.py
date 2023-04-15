@@ -10,7 +10,7 @@ print(set1)
 
 set2 = {"Nayan", "23", "value", "this is set", False}
 print(set2)
-# set ignores the order.
+# set ignores the order, prints random values everytime.
 
 # PS : We cannot access the values of the set by the use of indexing methods.
 
