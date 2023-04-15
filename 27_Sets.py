@@ -28,6 +28,8 @@ set5 = {1,2,3,4,5,6,7,8,9,"Nayan"}
 for i in set5:
     print(i)
 
+# SO yeah this much for today, tomorrow we will be looking at some of the popular and important sets methods.
+
 
 
 
