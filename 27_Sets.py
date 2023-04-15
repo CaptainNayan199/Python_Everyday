@@ -17,3 +17,8 @@ print(set1[1]) # throws error
 
 empty = {}
 print(type(empty)) # this will give a dict data types, not set, it is a dictionary
+
+# we can create an empty set by using a keyword set
+
+empty_set = set() #remember not a curly braces
+print(type(empty_set)) # this will give us a 
