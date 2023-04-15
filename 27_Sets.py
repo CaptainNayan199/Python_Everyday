@@ -23,8 +23,11 @@ print(type(empty)) # this will give a dict data types, not set, it is a dictiona
 empty_set = set() #remember not a curly braces
 print(type(empty_set)) # this will give us a set data types
 
+# Accessing sets elements using for loops
 set5 = {1,2,3,4,5,6,7,8,9,"Nayan"}
 for i in set5:
     print(i)
+
+
 
 
