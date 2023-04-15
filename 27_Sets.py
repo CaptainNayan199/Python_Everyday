@@ -8,3 +8,8 @@
 set1 = {2,5,8,9}
 print(set1)
 
+set2 = {"Nayan", "23", "value", "this is set", False}
+print(set2)
+# set ignores the order.
+
+
