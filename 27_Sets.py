@@ -12,4 +12,5 @@ set2 = {"Nayan", "23", "value", "this is set", False}
 print(set2)
 # set ignores the order.
 
+# PS : We cannot access the values of the set by the use of indexing methods.
 
