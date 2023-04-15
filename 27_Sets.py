@@ -29,6 +29,7 @@ for i in set5:
     print(i)
 
 # SO yeah this much for today, tomorrow we will be looking at some of the popular and important sets methods.
+# Thank you! Happy coding
 
 
 
