@@ -15,3 +15,5 @@ print(set2)
 print(set1[1]) # throws error
 # PS : We cannot access the values of the set by the use of indexing methods.
 
+empty = {}
+print(type(empty)) # this will give a dict data types, not set, it is a dictionary
