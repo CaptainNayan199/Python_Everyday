@@ -46,5 +46,9 @@ s2 = {"Tika", "Prateek", "Kushal", "Messi"}
 print(s1.symmetric_difference(s2))
 
 
-# PS : difference gives us the remaining elements from the set that we are calulating the difference of; for eg : A-B , here only remaining elements from A will be printed
+# PS : difference gives us the remaining elements from the set that we are calulating the difference of; for eg : A-B , here only remaining elements from A will be printed, but in symmetric, A-B; all the remaining elements of both A and B will be printed.
+
+s1 = {2,4,5,6,7}
+s2 = {2,4,6,7,8,9}
+print(s1.symmetric_difference(s2)) #gives us 5, 8, 9
 
