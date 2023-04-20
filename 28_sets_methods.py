@@ -20,3 +20,5 @@ s1.update(s2) #this does adding unique values from s2 to s1.
 # PS: Dont get confused in between union and update, update does changes the previous values, but union does not, if referenced using  3rd variable then it can but usually inside a print statement, it does not
 
 print(s1,"\n", s2)
+
+
