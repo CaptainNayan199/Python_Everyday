@@ -1,4 +1,5 @@
 # In previous session we talked about sets, and today we are going to see about some important sets methods.
+#they work in same ways as sets in mathematics.
 
 set1 = {1,2,3,4,5}
 set2 = {5,6,7,8}
