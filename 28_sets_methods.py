@@ -29,5 +29,6 @@ print(s1.symmetric_difference(s2)) # so basically it deletes the same values fro
 
 # PS : Dont worry about orders, set does not care about Orders, kinda like bad boy(hehe)
 
-# Difference 
+# Difference : The difference of two sets, written A - B is the set of all elements of A that are not elements of B.
+
 
