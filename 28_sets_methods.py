@@ -5,6 +5,7 @@ set1 = {1,2,3,4,5}
 set2 = {5,6,7,8}
 print(set1+set2) # this is not the way to perform set operations
 # well lets see some of the operations that can be performed in the set like union, intersection, etc.
+#union
 print(set1.union(set2)) #this gives the union of two sets.
 
 print(set1.intersection(set2)) #this gives intersection of two sets.
