@@ -15,6 +15,6 @@ print(set1)
 
 s1 = {"Nayan", "Ujjwal", "Roshan", "Santosh", "Tika"}
 s2 = {"Tika", "Prateek", "Kushal", "Messi"}
-print(s1.union(s2))
+print(s1.union(s2)) #this does union operations
 s1.update(s2)
 print(s1,"\n", s2)
