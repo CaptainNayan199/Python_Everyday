@@ -28,3 +28,6 @@ s2 = {"Tika", "Prateek", "Kushal", "Messi"}
 print(s1.symmetric_difference(s2)) # so basically it deletes the same values from two sets, i.e in s1 and s2; Tika, and Prateek are identical so hence it deletes those values and prints the remaining elements from both the sets. Hence, our final output will be : Nayan, Roshan, Santosh,Kushal, Messi.
 
 # PS : Dont worry about orders, set does not care about Orders, kinda like bad boy(hehe)
+
+# Difference 
+
