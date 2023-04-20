@@ -37,6 +37,12 @@ print(a.difference(b)) # so this deletes all the repeated values from two sets a
 
 s1 = {"Nayan", "Prateek", "Roshan", "Santosh", "Tika"}
 s2 = {"Tika", "Prateek", "Kushal", "Messi"}
-print(s1.difference(s2)) #So this gives us output; Nayan, ROshan, Santosh, as other elements in s1 are also present in s2
+print(s1.difference(s2)) 
+
+#Symmetric difference : 
+
+s1 = {"Nayan", "Prateek", "Roshan", "Santosh", "Tika"}
+s2 = {"Tika", "Prateek", "Kushal", "Messi"}
+print(s1.symmetric_difference(s2))
 
 
