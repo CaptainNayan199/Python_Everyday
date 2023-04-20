@@ -21,4 +21,4 @@ s1.update(s2) #this does adding unique values from s2 to s1.
 
 print(s1,"\n", s2)
 
-
+# Symmetric difference : 
