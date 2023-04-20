@@ -25,4 +25,4 @@ print(s1,"\n", s2)
 
 s1 = {"Nayan", "Prateek", "Roshan", "Santosh", "Tika"}
 s2 = {"Tika", "Prateek", "Kushal", "Messi"}
-print(s1.symmetric_difference(s2)) # so basically it deletes the same values from two sets, i.e
+print(s1.symmetric_difference(s2)) # so basically it deletes the same values from two sets, i.e in s1 and s2; 
