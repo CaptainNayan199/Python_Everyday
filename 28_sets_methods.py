@@ -21,4 +21,8 @@ s1.update(s2) #this does adding unique values from s2 to s1.
 
 print(s1,"\n", s2)
 
-# Symmetric difference : 
+# Symmetric difference : this is deleting the intersection/ or the same values from two sets.
+
+s1 = {"Nayan", "Prateek", "Roshan", "Santosh", "Tika"}
+s2 = {"Tika", "Prateek", "Kushal", "Messi"}
+print(s1.symmetric_difference(s2))
