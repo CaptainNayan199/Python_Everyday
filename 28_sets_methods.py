@@ -6,4 +6,4 @@ print(set1+set2) # this is not the way to perform set operations
 # well lets see some of the operations that can be performed in the set like union, intersection, etc.
 print(set1.union(set2)) #this gives the union of two sets.
 
-
+print(set1.intersection(set2)) #this gives intersection
