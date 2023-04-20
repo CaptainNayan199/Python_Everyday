@@ -35,4 +35,8 @@ a = {2,4,6,8,10}
 b = {2,4,6,8}
 print(a.difference(b)) # so this deletes all the repeated values from two sets and prints the remaining elements, so our output will be 10
 
+s1 = {"Nayan", "Prateek", "Roshan", "Santosh", "Tika"}
+s2 = {"Tika", "Prateek", "Kushal", "Messi"}
+print(s1.difference(s2)) #
+
 
