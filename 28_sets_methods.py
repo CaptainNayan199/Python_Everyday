@@ -39,7 +39,7 @@ s1 = {"Nayan", "Prateek", "Roshan", "Santosh", "Tika"}
 s2 = {"Tika", "Prateek", "Kushal", "Messi"}
 print(s1.difference(s2)) 
 
-#Symmetric difference : Symmetric difference is simple; first it calculates the 
+#Symmetric difference : Symmetric difference is simple; first it calculates the difference between two sets, and then gives out the 
 
 s1 = {"Nayan", "Prateek", "Roshan", "Santosh", "Tika"}
 s2 = {"Tika", "Prateek", "Kushal", "Messi"}
