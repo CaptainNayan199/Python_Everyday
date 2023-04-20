@@ -31,4 +31,8 @@ print(s1.symmetric_difference(s2)) # so basically it deletes the same values fro
 
 # Difference : The difference of two sets, written A - B is the set of all elements of A that are not elements of B.
 
+a = {2,4,6,8,10}
+b = {2,4,6,8}
+print(a.difference(b)) # so this deletes all the repeated values from two sets and
+
 
