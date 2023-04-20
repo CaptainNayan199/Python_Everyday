@@ -17,4 +17,6 @@ s1 = {"Nayan", "Ujjwal", "Roshan", "Santosh", "Tika"}
 s2 = {"Tika", "Prateek", "Kushal", "Messi"}
 print(s1.union(s2)) #this does union operations
 s1.update(s2) #this does adding unique values from s2 to s1.
+# PS: Remember 
+
 print(s1,"\n", s2)
