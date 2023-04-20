@@ -12,3 +12,9 @@ print(set1.intersection(set2)) #this gives intersection of two sets.
 
 (set1.update(set2)) # this method is saying that update the value of set1 i.e put every unique values of set2 in set1. SO our output will be: 1,2,3,4,5,6,7,8
 print(set1)
+
+s1 = {"Nayan", "Ujjwal", "Roshan", "Santosh", "Tika"}
+s2 = {"Tika", "Prateek", "Kushal", "Messi"}
+print(s1.union(s2))
+s1.update(s2)
+print(s1,"\n", s2)
