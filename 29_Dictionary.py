@@ -49,9 +49,11 @@ dic1 = {
     "College": "TU",
     "isMarried": False
 }
-# a = (dic1.keys())
-# for i in a:
-#     print(f"The value of key {i} are : {dic1[i]}")
+a = (dic1.keys())
+for i in a:
+    print(f"The value of key {i} are : {dic1[i]}")
+
+#Now this gives the corresponding values of the keys
 
 
 
