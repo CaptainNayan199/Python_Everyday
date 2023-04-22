@@ -136,7 +136,7 @@ print(s1)
 s1 = {"Nayan", "Tika","Nishan", "Roshan", "Santosh"}
 print(s1)
 del s1
-print(s1) #this will throw an error.
+print(s1) #this will throw an error saying s1 has not been defined.
 
 
 
