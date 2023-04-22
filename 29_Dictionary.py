@@ -2,3 +2,4 @@
 # They are ordered collection of data.
 # It is the combination of key value pairs.
 # It is enclosed inside a curly braces as like set
+# We can create a mapped data/elements in the dictionary.
