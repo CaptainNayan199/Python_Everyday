@@ -122,7 +122,15 @@ print(s1) #this will not throw error, if matching elements is found then it remo
 s1.remove(100)
 print(s1)  #this will throw error, if matching element is found then it will remove it, else it will throw error.
 
-#pop() methods - thie methods pops the random 
+#pop() methods - thie methods pops the random elements from the set, we can retrieve that element by storing it in a random variable.
+
+s1 = {"Nayan", "Tika","Nishan", "Roshan", "Santosh"}
+s2 = s1.pop()
+print(s2)
+print(s1)
+
+# as set does not care about order, there is equal chance where the element that gets popped in first does not get popped in second.
+
 
 
 
