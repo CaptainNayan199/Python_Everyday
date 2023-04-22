@@ -145,7 +145,7 @@ s1.clear()
 print(s1) #returns set()- as it has become an empty set now.
 
 
-
+# checking whether certain values is present in set or not? - We can do it by the use of `in` keyword.
 
 
 
