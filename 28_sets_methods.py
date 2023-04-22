@@ -65,5 +65,5 @@ print('A =', A)
 
 # Output: A = {2, 3, 4}
 
-#Symmetric_difference_update: this
+#Symmetric_difference_update: this method assigns/update the given sets with the new value
 
