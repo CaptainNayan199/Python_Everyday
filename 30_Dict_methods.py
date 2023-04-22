@@ -10,13 +10,3 @@ dic = {
 }
 
 
-
-#Here i have one dictionary holding 
-dic = {
-    "Name": "Nayan",
-    "Aim": "Pilot",
-    "Age":20,
-    "isMarried": True,
-    "Friend": "Suman"
-}
-
