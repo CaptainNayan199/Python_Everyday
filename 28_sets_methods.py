@@ -142,7 +142,9 @@ print(s1) #this will throw an error saying s1 has not been defined.
 
 s1 = {"Nayan", "Tika","Nishan", "Roshan", "Santosh"}
 s1.clear()
-print(s1) #returns set()- as it has become an empty set now
+print(s1) #returns set()- as it has become an empty set now.
+
+
 
 
 
