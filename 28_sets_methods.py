@@ -82,6 +82,8 @@ s1 = {1,2,3,4,5,6}
 s2 = {8,9,10}
 print(s1.isdisjoint(s2)) # returns True as there are no any elements common in both the set.
 
-
+s1 = {1,2,3,4,5,6}
+s2 = {3,4,}
+print(s1.issuperset(s2)) #
 
 
