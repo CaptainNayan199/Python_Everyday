@@ -44,7 +44,11 @@ del dic["Nayan"] # deletes only the key Nayan with its value, not the entire dic
 del dic # deletes the entire dictionary
 print(dic) # throws error.
 
+# So yeah this much for today, there are many many and many methods, which i cannot cover all in a single file, you can visit python language documentation and read them, python docs are very very friendly
 
+# Tomorrow we wil see about forloop with else in python
+
+# Thank you! Happy coding!
 
 
 
