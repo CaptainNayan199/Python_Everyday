@@ -96,4 +96,7 @@ s1 = {1,2,3,4,5,6}
 s2 = {3,4,}
 (s1.add("Nayan"))
 print(s1) #this methods add the new elements, in the set
+#PS: add methods allows adding only single items at a time.
+
+#update methods - 
 
