@@ -52,3 +52,6 @@ s1 = {2,4,5,6,7}
 s2 = {2,4,6,7,8,9}
 print(s1.symmetric_difference(s2)) #gives us 5, 8, 9
 
+
+# The intersection_update() finds the intersection of different sets and updates it to the set that calls the method.
+
