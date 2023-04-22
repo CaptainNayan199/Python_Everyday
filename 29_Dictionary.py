@@ -15,4 +15,4 @@ dic1 = {
 # so this is my simple dictionary with some key and its respective values.
 # now i can access those by referencing theirs keys
 
-print(dic1)
+print(dic1) #this prints all the elements with keys as well as values.
