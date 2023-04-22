@@ -15,8 +15,13 @@ dic2 = {
 }
 
 # Now what if i want to update my dictionary
+print(dic)
+(dic.update(dic2)) # this will add all the key value pairs to the `dic` dictionary
+print(dic)
 
-print(dic.update(dic2))
+# clear() - it is used in clearing all the dictionary
+
+print(dic.clear()) #returns None value as the dict has become empty now.
 
 
 
