@@ -27,3 +27,8 @@ while i<10:
         break
 else:
     print("Hehehehe")
+
+
+# So yeah this much for today, we learned small things today, but this small things is going to make a huge difference in future .
+
+# Thank you! Happy coding! 
