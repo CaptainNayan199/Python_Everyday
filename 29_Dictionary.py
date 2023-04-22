@@ -65,7 +65,7 @@ dic1 = {
     "isMarried": False
 }
 for key, value in dic1.items():
-    print(f"The value of key {key} are : {value}")
+    print(f"The value of key {key} are : {value}") #can be accessed in this manner as well.
 
 
 
