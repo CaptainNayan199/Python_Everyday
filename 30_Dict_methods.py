@@ -23,5 +23,19 @@ print(dic)
 
 print(dic.clear()) #returns None value as the dict has become empty now.
 
+#creating empty dict : 
+
+empty = {}
+print(empty) #empty dict
+
+# pop() - retrieves a single key value pair
+
+print(dic)
+dic.pop("Name") #pops out the Name key with its value.
+print(dic)
+
+dic.popitem()
+print(dic) # this method pops out the last key value pair
+
 
 
