@@ -43,6 +43,16 @@ for key in dic1.keys():
     print(dic1[key])
 # we can also print in this manner as well.
 
+dic1 = {
+    "Name": "Nayan",
+    "Age" : 20,
+    "College": "TU",
+    "isMarried": False
+}
+# a = (dic1.keys())
+# for i in a:
+#     print(f"The value of key {i} are : {dic1[i]}")
+
 
 
 
