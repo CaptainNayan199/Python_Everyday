@@ -36,8 +36,8 @@ print(dic1.get("Nameee")) # returns None if key is not found, does not throw the
 dic1 = {"Name": "Nayan", "Age" : 20, "College": "TU", "isMarried": False
 }
 
-print(dict1.keys) # this returns all the keys present in the dictionary
-print(dict1.values) #this returns all the values present in the dictionary
+print(dict1.keys()) # this returns all the keys present in the dictionary
+print(dict1.values()) #this returns all the values present in the dictionary
 
 
 
