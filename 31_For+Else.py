@@ -15,3 +15,15 @@ else:
     print("Hehehehe")
 
 # Now we used break in for loop, hence the loop is getting break, but else does not gets executed, because else only gets executed if the loop gets successfully, if loop gets break without finishing then the else statement does not gets gets executed.
+
+
+# Same is the condition with other loops as well
+
+i = 0
+while i<10:
+    print(i)
+    i=i+1
+    if i==4:
+        break
+else:
+    print("Hehehehe")
