@@ -116,6 +116,12 @@ print(s1)
 
 #PS: remove and discard same as well as not same also in python, if we try removing the element that is not in set, then it will throw error, but if we try discarding element that is not present in set then it will not throw error.
 
+s1 = {1,2,3,4,5,6}
+s1.discard(100)
+print(s1) #this will not throw error, if matching elements is found then it removes or else it continues.
+s1.remove(100)
+print(s1) 
+
 
 
 
