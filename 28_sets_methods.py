@@ -120,7 +120,7 @@ s1 = {1,2,3,4,5,6}
 s1.discard(100)
 print(s1) #this will not throw error, if matching elements is found then it removes or else it continues.
 s1.remove(100)
-print(s1) 
+print(s1)  #this will throw error, if matching element is found then it will remove it, else it will throw error.
 
 
 
