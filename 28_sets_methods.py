@@ -73,3 +73,6 @@ print(s1.symmetric_difference(s2)) #this will give symmetric difference
 s1.symmetric_difference_update(s2)
 print(s1) #this will also calculate the symmetric difference but modifies/update the values of s1 with the new symmetric difference value
 
+
+
+
