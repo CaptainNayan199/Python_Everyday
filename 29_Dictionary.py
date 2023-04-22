@@ -55,7 +55,7 @@ for i in a:
 
 #Now this gives the corresponding values of the keys
 
-
+print(dic1.items()) # this will return all the keys and their corresponding values.
 
 
 
