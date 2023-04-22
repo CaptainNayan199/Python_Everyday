@@ -16,3 +16,9 @@ dic1 = {
 # now i can access those by referencing theirs keys
 
 print(dic1) #this prints all the elements with keys as well as values.
+
+dic1 = {
+    "Name": "Nayan",
+    "Age" : 20,
+    "College": "TU",
+    "isMarried": 
