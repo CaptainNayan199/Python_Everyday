@@ -13,3 +13,6 @@ dic1 = {
     "isMarried": False
 }
 # so this is my simple dictionary with some key and its respective values.
+# now i can access those by referencing theirs keys
+
+print(dic1[Name, Age, College, isMarried])
