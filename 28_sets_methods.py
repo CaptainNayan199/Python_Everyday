@@ -114,7 +114,7 @@ s2 = {3,4,}
 s1.discard(1) # discards 1 from the set
 print(s1)
 
-#PS: remove and discard same as well as not same also in python, if we try removing the 
+#PS: remove and discard same as well as not same also in python, if we try removing the element that is not in set, then it will throw error, but if we try discarding element that is not present in set then it will not throw error.
 
 
 
