@@ -78,4 +78,8 @@ print(s1) #this will also calculate the symmetric difference but modifies/update
 
 #superset and disjoints
 
+s1 = {1,2,3,4,5,6}
+s2 = {8,9,10}
+print(s1.isdisjoint(s2)) #this gives output as 
+
 
