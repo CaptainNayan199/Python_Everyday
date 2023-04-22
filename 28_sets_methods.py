@@ -98,6 +98,7 @@ s2 = {3,4,}
 print(s1) #this methods add the new elements, in the set
 #PS: add methods allows adding only single items at a time.
 
+#PS : if we want to add multiple value then we can use the update method which we have discussed earlier.
 
 
 
