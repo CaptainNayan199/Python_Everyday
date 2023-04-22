@@ -39,6 +39,10 @@ dic1 = {"Name": "Nayan", "Age" : 20, "College": "TU", "isMarried": False
 print(dict1.keys()) # this returns all the keys present in the dictionary
 print(dict1.values()) #this returns all the values present in the dictionary
 
+for key in dic1.keys():
+    print(dic1[key])
+# we can also print in this manner as well.
+
 
 
 
