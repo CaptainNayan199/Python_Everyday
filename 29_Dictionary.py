@@ -58,6 +58,18 @@ for i in a:
 print(dic1.items()) # this will return all the keys and their corresponding values.
 
 
+dic1 = {
+    "Name": "Nayan",
+    "Age" : 20,
+    "College": "TU",
+    "isMarried": False
+}
+for key, value in dic1.items():
+    print(f"The value of key {key} are : {value}")
+
+
+
+
 
 
 
