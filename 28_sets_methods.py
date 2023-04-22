@@ -76,4 +76,6 @@ print(s1) #this will also calculate the symmetric difference but modifies/update
 
 #Some in build methods in sets in python
 
+#superset and disjoints
+
 
