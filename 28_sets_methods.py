@@ -67,3 +67,9 @@ print('A =', A)
 
 #Symmetric_difference_update: this method assigns/update the given sets with the new value
 
+s1 = {"Nayan", "Prateek", "Roshan", "Santosh", "Tika"}
+s2 = {"Tika", "Prateek", "Kushal", "Messi"}
+print(s1.symmetric_difference(s2)) #this will give symmetric difference
+s1.symmetric_difference_update(s2)
+print(s1)
+
