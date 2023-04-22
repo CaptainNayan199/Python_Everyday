@@ -111,8 +111,10 @@ print(s1)
 
 s1 = {1,2,3,4,5,6}
 s2 = {3,4,}
-s1.discard(1) #
+s1.discard(1) # discards 1 from the set
 print(s1)
+
+#PS: remove and discard are not same method in 
 
 
 
