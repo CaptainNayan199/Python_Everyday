@@ -155,5 +155,8 @@ else:
 #returns Nayan is there, as Nayan is present in the set.
 
 
+# So yeah this much for today yrrrrr! Today we learned about some important set methods,
+
+
 
 
