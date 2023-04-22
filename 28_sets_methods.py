@@ -131,6 +131,13 @@ print(s1)
 
 # as set does not care about order, there is equal chance where the element that gets popped in first does not get popped in second.
 
+#del() - it is basically a keyword, not a method in set, it can be used to delete a set.
+
+s1 = {"Nayan", "Tika","Nishan", "Roshan", "Santosh"}
+print(s1)
+del s1
+print(s1) #this will throw an error.
+
 
 
 
