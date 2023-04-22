@@ -6,3 +6,8 @@
 # they store multiple items in a single variable.
 # previously dict was unordered, but now they made this ordered.
 
+dic1 = {
+    "Name": "Nayan",
+    "Age" : 20,
+    "College": "Tribuh"
+}
