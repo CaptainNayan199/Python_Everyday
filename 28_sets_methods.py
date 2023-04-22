@@ -90,3 +90,10 @@ print(s1.issuperset(s2)) # return True as elements of s2 falls under s1, so s1 i
 print(s2.issubset(s1)) #returns true as s2 is a subset of s1, as every elements of s2 are in s1.
 
 
+#add() methods - adding single items in sets
+
+s1 = {1,2,3,4,5,6}
+s2 = {3,4,}
+(s1.add("Nayan"))
+print(s1)
+
