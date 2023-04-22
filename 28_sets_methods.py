@@ -95,5 +95,5 @@ print(s2.issubset(s1)) #returns true as s2 is a subset of s1, as every elements 
 s1 = {1,2,3,4,5,6}
 s2 = {3,4,}
 (s1.add("Nayan"))
-print(s1)
+print(s1) #this methods add the new elements, in the set
 
