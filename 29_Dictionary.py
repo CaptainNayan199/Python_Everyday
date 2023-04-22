@@ -12,3 +12,4 @@ dic1 = {
     "College": "TU",
     "isMarried": False
 }
+# so this is my simple dictionary with some key and its respective values.
