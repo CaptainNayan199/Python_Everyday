@@ -37,5 +37,16 @@ print(dic)
 dic.popitem()
 print(dic) # this method pops out the last key value pair
 
+# del - deletes the entire dict.
+
+del dic["Nayan"] # deletes only the key Nayan with its value, not the entire dictionary
+
+del dic # deletes the entire dictionary
+print(dic) # throws error.
+
+
+
+
+
 
 
