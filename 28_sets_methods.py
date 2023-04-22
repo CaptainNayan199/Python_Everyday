@@ -100,6 +100,15 @@ print(s1) #this methods add the new elements, in the set
 
 #PS : if we want to add multiple value then we can use the update method which we have discussed earlier.
 
+#remove and discard method()
+
+s1 = {1,2,3,4,5,6}
+s2 = {3,4,}
+(s1.add("Nayan"))
+print(s1)
+s1.remove("Nayan") #this methods removes Nayan from the set
+print(s1)
+
 
 
 
