@@ -84,6 +84,6 @@ print(s1.isdisjoint(s2)) # returns True as there are no any elements common in b
 
 s1 = {1,2,3,4,5,6}
 s2 = {3,4,}
-print(s1.issuperset(s2)) #
+print(s1.issuperset(s2)) # return True as elements of s2 falls under s1, so s1 is a subset of s2.
 
 
