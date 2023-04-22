@@ -68,6 +68,13 @@ for key, value in dic1.items():
     print(f"The value of key {key} are : {value}") #can be accessed in this manner as well.
 
 
+# So yeah this much for today, today we learned about some basic about dictionary.
+
+# Tomorrow we will learn about some methods in dictionary
+
+# Thank you! Happy coding !
+
+
 
 
 
