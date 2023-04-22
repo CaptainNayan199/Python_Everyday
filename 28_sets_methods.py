@@ -155,7 +155,9 @@ else:
 #returns Nayan is there, as Nayan is present in the set.
 
 
-# So yeah this much for today yrrrrr! Today we learned about some important set methods,
+# So yeah this much for today yrrrrr! Today we learned about some important set methods in python. 
+# Tomorrow we will see about an important data types in python that is dictionary.
+# Thank you! Happy coding !
 
 
 
