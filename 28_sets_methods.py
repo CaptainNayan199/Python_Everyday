@@ -55,3 +55,13 @@ print(s1.symmetric_difference(s2)) #gives us 5, 8, 9
 
 # The intersection_update() finds the intersection of different sets and updates it to the set that calls the method.
 
+A = {1, 2, 3, 4}
+B = {2, 3, 4, 5}
+
+# updates set A with the items common to both sets A and B
+A.intersection_update(B)
+
+print('A =', A)
+
+# Output: A = {2, 3, 4}
+
