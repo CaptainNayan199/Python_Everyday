@@ -122,6 +122,8 @@ print(s1) #this will not throw error, if matching elements is found then it remo
 s1.remove(100)
 print(s1)  #this will throw error, if matching element is found then it will remove it, else it will throw error.
 
+#pop() methods - thie methods pops the random 
+
 
 
 
