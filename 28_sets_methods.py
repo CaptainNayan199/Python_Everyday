@@ -109,6 +109,11 @@ print(s1)
 s1.remove("Nayan") #this methods removes Nayan from the set
 print(s1)
 
+s1 = {1,2,3,4,5,6}
+s2 = {3,4,}
+s1.discard(1) #
+print(s1)
+
 
 
 
