@@ -138,6 +138,11 @@ print(s1)
 del s1
 print(s1) #this will throw an error saying s1 has not been defined.
 
+#clear()- this methods deletes the entire elements of the set, i.e it makes the set empty.
+
+s1 = {"Nayan", "Tika","Nishan", "Roshan", "Santosh"}
+s1.clear()
+print(s1) #returns set()- as it has become an empty set now
 
 
 
