@@ -9,5 +9,6 @@
 dic1 = {
     "Name": "Nayan",
     "Age" : 20,
-    "College": "Tribuh"
+    "College": "TU",
+    "isMarried": False
 }
