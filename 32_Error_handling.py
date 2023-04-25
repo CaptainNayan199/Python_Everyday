@@ -45,3 +45,4 @@ except IndexError:
 
 
 # so this is how exception is handled in python programming language
+# there are many other specific errors, that can be handled
