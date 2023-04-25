@@ -16,11 +16,11 @@ print("Other code")
 # but if any errors can be occured in future, we can provide it in try and exception block
 # lets see this : let us run my program, but if any errors are to arised, dont hault the program, run other lines of code
 
-a = int(input("A number please: "))
-print(f"Multiplication table of {a} is : \n")
+
 try:
+    a = int(input("A number please: "))
+    print(f"Multiplication table of {a} is : \n")
     for i in range(1,11):
         print(f"{a} X {i} = {a*i}")
-except Exception(e):
-    print("table has been printed")
-    print(e)
+except Exception as e:
+    print("You have this error in your code : ", e)
