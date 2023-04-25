@@ -47,4 +47,4 @@ except IndexError:
 # so this is how exception is handled in python programming language
 # there are many other specific errors, that can be handled
 
-# so yeah this much for today, today we talked about try and except in python, just remember 
+# so yeah this much for today, today we talked about try and except in python, just remember whatever error comes in try block, the program immediately runs into
