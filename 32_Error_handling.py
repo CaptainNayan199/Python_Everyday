@@ -44,4 +44,4 @@ except IndexError:
     print("")
 
 
-# so this is how exception is handled
+# so this is how exception is handled in python programming language
