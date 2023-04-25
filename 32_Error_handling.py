@@ -10,4 +10,4 @@ for i in range(1,11):
     print(f"{a} X {i} = {a*i}")
 
 # so this is a simple program to generate multiplication table for any number in python
-# there are no errors in 
+# there are no errors in the above program
