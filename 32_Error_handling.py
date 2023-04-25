@@ -15,6 +15,8 @@ print("Other code")
 # there are no errors in the above program
 # but if any errors can be occured in future, we can provide it in try and exception block
 # lets see this : let us run my program, but if any errors are to arised, dont hault the program, run other lines of code
+# Exception handling is the process of responding to the unwanted or expected events, where the program gets run
+# exception  handling helps us deal with this types
 
 
 try:
