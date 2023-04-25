@@ -50,3 +50,5 @@ except IndexError:
 # so yeah this much for today, today we talked about try and except in python, just remember whatever error comes in try block, the program immediately runs into except block
 
 # Tomorrow we will see about finally keyword in python
+
+# Thank you! Happy coding!
