@@ -8,3 +8,5 @@ a = int(input("A number please: "))
 print(f"Multiplication table of {a} is : \n")
 for i in range(1,11):
     print(f"{a} X {i} = {a*i}")
+
+# so this is a simple program to generate multiplication table for any number in python
