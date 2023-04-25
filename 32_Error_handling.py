@@ -31,3 +31,17 @@ except Exception as e:
 # Even if errors appear in try block, this will not stop the program, rather if goes inside the except block as like in above program
 
 
+# Handling specific errors : 
+
+try: 
+    #try block code here
+    print("")
+except ValueError:
+     #handling value error
+    print("")
+except IndexError:
+     #handling indexingf error
+    print("")
+
+
+# so this is
