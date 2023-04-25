@@ -11,3 +11,4 @@ for i in range(1,11):
 
 # so this is a simple program to generate multiplication table for any number in python
 # there are no errors in the above program
+# but if any errors can be occured in future, we can provide it in try and exceptionblock
