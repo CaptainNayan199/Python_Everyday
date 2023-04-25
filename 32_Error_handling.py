@@ -26,3 +26,6 @@ try:
         print(f"{a} X {i} = {a*i}")
 except Exception as e:
     print("You have this error in your code : ", e)
+
+
+# Even if errors appear in try block, this will not stop the program, rather if goes inside the except block as like in above program
