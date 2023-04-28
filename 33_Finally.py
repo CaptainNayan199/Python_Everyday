@@ -46,3 +46,5 @@ print(value)
 
 # So yeah this much for today! Today we learned about finally keyword in python, and it is very important topic in python
 
+# Tomorrow we will be learning about raising custom (own desired errors)
+
