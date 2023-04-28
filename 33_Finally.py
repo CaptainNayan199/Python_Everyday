@@ -12,3 +12,4 @@ finally:
 
 # Here we have error in our code, and the error is we are dividing a number by 0, which is practically impossible, hence it throws error, but the finally statement always runs despite of error
 
+#
