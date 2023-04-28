@@ -42,5 +42,5 @@ def function1():
 value = function1()
 print(value)
 
-# Try un
+# Try understanding the above code output and the flow of the try, except, and finally keyword
 
