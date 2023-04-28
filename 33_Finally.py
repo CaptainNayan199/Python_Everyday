@@ -15,3 +15,6 @@ finally:
 # A finally clause is always executed before leaving the try statement, whether an exception has occurred or not. When an exception has occurred in the try clause and has not been handled by an except clause (or it has occurred in a except or else clause), it is re-raised after the finally clause has been executed. - REMEMBER THIS STATEMENT  
 
 # Execution flow of try, except and finally in python : 
+
+# 1. Execute statements in try block
+# 2. 
