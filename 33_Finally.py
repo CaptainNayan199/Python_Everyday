@@ -1,1 +1,1 @@
-# So t
+# Previously we talked about error handlign by the use of try and except block
