@@ -17,4 +17,5 @@ finally:
 # Execution flow of try, except and finally in python : 
 
 # 1. Execute statements in try block
-# 2. 
+# 2. If ( error in try block):
+# 3. Execute statements in except block
