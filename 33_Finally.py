@@ -28,4 +28,19 @@ finally:
 # 3. Execute and return value from finally block
 # 4. Return value from except block
 
-# Example to illustrate above statement, try running bu giving an error, and without giving and error
+# Example to illustrate above statement, try running by giving an error, and without giving and error
+
+def function1():
+   try:
+         num = int(input("Numbers : "))
+         return num
+   except Exception as error:
+         print("You have error in your try block : ", error)
+         return "exception"
+   finally:
+         print("This is finally and it always gets executed no matter what")
+value = function1()
+print(value)
+
+# Try un
+
