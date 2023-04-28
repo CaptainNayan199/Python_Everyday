@@ -27,3 +27,5 @@ finally:
 # 2. Execute statements in except block
 # 3. Execute and return value from finally block
 # 4. Return value from except block
+
+# Example to illustrate above statement, try running bu giving an error, and without giving and error
