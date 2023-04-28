@@ -16,6 +16,14 @@ finally:
 
 # Execution flow of try, except and finally in python : 
 
+# `If there is no error produced by the try block: `
 # 1. Execute statements in try block
 # 2. Execute and return value from finally 
 # 3. Return value from try block
+
+# `If there is error produced by the try block: `
+
+# 1. Execute statements in try block
+# 2. Execute statements in except block
+# 3. Execute and return value from finally block
+# 4. Return value from except block
