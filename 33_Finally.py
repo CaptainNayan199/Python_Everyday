@@ -42,5 +42,5 @@ def function1():
 value = function1()
 print(value)
 
-# Try understanding the above code output and the flow of the try, except, and finally keyword
+# Try understanding the above code output and the flow of the try, except, and finally block when there is error, and when there is no error.
 
