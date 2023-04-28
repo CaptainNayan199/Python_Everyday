@@ -12,4 +12,4 @@ finally:
 
 # Here we have error in our code, and the error is we are dividing a number by 0, which is practically impossible, hence it throws error, but the finally statement always runs despite of error
 
-#
+# A finally clause is always executed before leaving the try statement, whether an exception has occurred or not. When an exception has occurred in the try clause and has not been handled by an except clause (or it has occurred in a except or else clause), it is re-raised after the finally clause has been executed. - REMEMBER THIS STATEMENT  
