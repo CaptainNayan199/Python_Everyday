@@ -44,3 +44,5 @@ print(value)
 
 # Try understanding the above code output and the flow of the try, except, and finally block when there is error, and when there is no error.
 
+# So yeah this much for today! Today we learned about finally keyword in python, and it is very important topic in python
+
