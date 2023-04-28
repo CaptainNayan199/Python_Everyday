@@ -48,3 +48,5 @@ print(value)
 
 # Tomorrow we will be learning about raising custom (own desired errors)
 
+# Thank you! Happy coding.
+
