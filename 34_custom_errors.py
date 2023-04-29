@@ -6,6 +6,6 @@
 
 num = int(input("NUmber: "))
 if num<18:
-    raise ValueError("You are too small")
+    raise ValueError("You are too small") # sp here i have raised a custom error, saying if user gives me his age less than 18, then i will give him an error by saying you are too small.
 else:
     print("You are good to go")
