@@ -11,3 +11,4 @@ else:
     print("You are good to go")
 
 
+# Unexpected errors or exception can be handled by the use of try, exception and finally keyword, likewise custom errors can be raised with the use of raise keywords.
