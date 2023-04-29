@@ -3,3 +3,9 @@
 # we can use raise keyword in python for it.
 
 # why to raise error? - to hault the program and not cause any further damages to the code or similar to it.
+
+num = int(input("NUmber: "))
+if num<18:
+    raise ValueError("You are too small")
+else:
+    print("You are good to go")
