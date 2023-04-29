@@ -15,3 +15,10 @@ else:
 
 
 # In python we can define custom exception by creating a new class that is derived from the built in exception class in python (we will see about class in upcoming session as well)
+
+a = input("Enter any value between 5 and 9 : ")
+
+if a == "quit":
+    print("you choosed to quit") # if a person types `quit` then he is given some output
+elif (int(a) < 5 or int(a) > 9):
+    raise ValueError("Value should be between 5 and 9") # if the boundary is not met than this error is raised, it is a custom error.
