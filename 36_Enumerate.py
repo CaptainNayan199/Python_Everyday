@@ -10,7 +10,9 @@ for i in temp:
         print("The temperature is 40")
         break
     index+=1
-#so here i have a list of temperature, and when the index value is 5 i want it to print the temperature is 40
+#so here i have a list of temperature, and when the index value is 5 i want it to print the temperature is 40, its kind of hectic, isn't is?
+
+#
 
 
 
