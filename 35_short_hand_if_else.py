@@ -3,4 +3,4 @@
 
 a = 20
 b = 30
-print("Smaller") if a>b else print("Larger")
+print("Larger") if a>b else print("Smaller") if a<b else print("Equal")
