@@ -41,6 +41,14 @@ for indexx, i in enumerate(data):
 
 # changing the starting value of the enumerate function
 
+temp = [30,33,34,36,38,40,46]
+for index, i in enumerate(temp, start=1):
+    print(i)
+    if(index == 5):
+        print("The temperature is ", i)
+        break
+    index+=1
+
 
 # SO yeah this much for today, we will meet tomorrow, we will talk about enumeration in python.
 # Thank you! Happy coding.
