@@ -55,7 +55,12 @@ for index, i in enumerate(temp, start=1):
 
 # so the indexing of the list will be - 1,2,3,4,5...., in place of 0,1,2,3,4,5....
 
-# so the enumerate function is often used when there is a need to loop over a sequence and perform some actions with both the index and value
+# so the enumerate function is often used when there is a need to loop over a sequence and perform some actions with both the index and value 
+
+fruits = {"Apple", "Mango", "Papaya", "Orange", "Guava", "Watermelon", "Jackfruit"}
+
+for index, i in enumerate(fruits):
+    print(index+100," : ", i) # this is the best example for enumerate function
 
 # SO yeah this much for today, we will meet tomorrow, we will talk about enumeration in python.
 # Thank you! Happy coding.
