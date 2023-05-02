@@ -31,6 +31,8 @@ my_name = "Nayan_Pathak"
 for indexx, i in enumerate(my_name):
     print(indexx, i)  # same is the condition for string
 
+# this methoda can be used for any data types
+
 
 
 
