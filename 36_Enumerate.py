@@ -65,4 +65,5 @@ for index, i in enumerate(fruits):
 # SO yeah this much for today, we will meet tomorrow, we will talk about Virtual Environment in python.
 
 # Tomorrow will be one of the very important session, because we are going to talk about Virtual environment, creating virtual environment and so many things regarding virtual environment.
+
 # Thank you! Happy coding.
