@@ -63,5 +63,5 @@ for index, i in enumerate(fruits):
     print(index+100," : ", i) # this is the best example for enumerate function
 
 # SO yeah this much for today, we will meet tomorrow, we will talk about Virtual Environment in python.
-# Tomorrow will be one of 
+# Tomorrow will be one of the very important session
 # Thank you! Happy coding.
