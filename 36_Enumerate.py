@@ -12,7 +12,7 @@ for i in temp:
     index+=1
 #so here i have a list of temperature, and when the index value is 5 i want it to print the temperature is 40, its kind of hectic, isn't is?
 
-#so lets see how can we do this by the use of 
+#so lets see how can we do this by the use of enumerate function in python
 
 
 
