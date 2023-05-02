@@ -29,7 +29,7 @@ for index, i in enumerate(temp):
 my_name = "Nayan_Pathak"
 
 for indexx, i in enumerate(my_name):
-    print(indexx, i) 
+    print(indexx, i)  # same is the condition for string
 
 
 
