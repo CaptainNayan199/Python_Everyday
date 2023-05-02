@@ -52,6 +52,7 @@ for index, i in enumerate(temp, start=1):
 # so in the above program we are explicityl telling the interpreter that start the indexing from 1, not from 0 but from the 1.
 
 # so when the value of index will be 5, it will print the value at index 5, which is non other than 38
+
 # so the indexing of the list will be - 1,2,3,4,5...., in place of 0,1,2,3,4,5....
 # SO yeah this much for today, we will meet tomorrow, we will talk about enumeration in python.
 # Thank you! Happy coding.
