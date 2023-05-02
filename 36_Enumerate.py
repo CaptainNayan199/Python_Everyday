@@ -49,7 +49,8 @@ for index, i in enumerate(temp, start=1):
         break
     index+=1
 
-# so in the above program we are explicityl telling the interpreter that
+# so in the above program we are explicityl telling the interpreter that start the indexing from 1, not from 0 but from the 1.
+# so when
 
 # SO yeah this much for today, we will meet tomorrow, we will talk about enumeration in python.
 # Thank you! Happy coding.
