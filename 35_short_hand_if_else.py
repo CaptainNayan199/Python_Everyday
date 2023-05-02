@@ -14,3 +14,5 @@ num = 10 if a>b else 0 # will set the value of num as 10 if a>b else will set nu
 
 
 # short_hand_syntax = true if `condtion` else false
+
+# we can use shorthand statement when we want to assign values along with some condition
