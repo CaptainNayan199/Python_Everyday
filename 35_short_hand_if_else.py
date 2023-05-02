@@ -9,3 +9,5 @@ print("Larger") if a>b else print("Smaller") if a<b else print("Equal") # it wil
 
 
 num = 10 if a>b else 0 # will set the value of num as 10 if a>b else will set num = 0
+
+# we can have multiple shorthand condtion as seem in above example.
