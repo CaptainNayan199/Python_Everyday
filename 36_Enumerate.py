@@ -55,5 +55,7 @@ for index, i in enumerate(temp, start=1):
 
 # so the indexing of the list will be - 1,2,3,4,5...., in place of 0,1,2,3,4,5....
 
+# so the enumerate 
+
 # SO yeah this much for today, we will meet tomorrow, we will talk about enumeration in python.
 # Thank you! Happy coding.
