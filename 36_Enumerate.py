@@ -26,6 +26,13 @@ for index, i in enumerate(temp):
 
 
 
+my_name = "Nayan_Pathak"
+
+for indexx, i in enumerate(my_name):
+    print(indexx, i) 
+
+
+
 
 # SO yeah this much for today, we will meet tomorrow, we will talk about enumeration in python.
 # Thank you! Happy coding.
