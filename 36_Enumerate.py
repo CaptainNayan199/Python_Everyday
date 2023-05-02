@@ -1,6 +1,7 @@
 
 # Enumerate is a built-in function in python that allows you to keep track of the number of iterations (loops) in a loop.
 # it is used to keep record of number of iterations in loop
+# enumerate 
 
 temp = [30,33,34,36,38,40,46]
 index = 0
@@ -14,6 +15,13 @@ for i in temp:
 
 #so lets see how can we do this by the use of enumerate function in python
 
+temp = [30,33,34,36,38,40,46]
+for index, i in enumerate(temp):
+    print(i)
+    if(index == 5):
+        print("The temperature is 40")
+        break
+    index+=1
 
 
 
