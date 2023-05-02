@@ -62,5 +62,6 @@ fruits = {"Apple", "Mango", "Papaya", "Orange", "Guava", "Watermelon", "Jackfrui
 for index, i in enumerate(fruits):
     print(index+100," : ", i) # this is the best example for enumerate function
 
-# SO yeah this much for today, we will meet tomorrow, we will talk about enumeration in python.
+# SO yeah this much for today, we will meet tomorrow, we will talk about Virtual Environment in python.
+
 # Thank you! Happy coding.
