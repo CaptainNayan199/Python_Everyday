@@ -31,9 +31,13 @@ my_name = "Nayan_Pathak"
 for indexx, i in enumerate(my_name):
     print(indexx, i)  # same is the condition for string
 
-# this methoda can be used for any data types
+# this methoda can be used for any data types like list tuples, and etc.
 
 
+data = {"Nayan", "Ujjwal", "BIkas", "Santosh", "Tika"}
+
+for indexx, i in enumerate(data):
+    print(indexx, i)
 
 
 # SO yeah this much for today, we will meet tomorrow, we will talk about enumeration in python.
