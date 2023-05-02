@@ -1,7 +1,7 @@
 
 # Enumerate is a built-in function in python that allows you to keep track of the number of iterations (loops) in a loop.
 # it is used to keep record of number of iterations in loop
-# enumerate function 
+# enumerate function is unction in python that allows us to loop over a 
 
 temp = [30,33,34,36,38,40,46]
 index = 0
