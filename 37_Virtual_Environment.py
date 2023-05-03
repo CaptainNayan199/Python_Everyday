@@ -37,7 +37,7 @@
 # NO we have created the packages information in a seperate txt file, now what if a third person using this env wants to install all the packages  that you have installed on your env
 # It can be done by a simple command.
 
-# pip install -r text_file_name.txt - now this command will install all the packages specified in that textfile automatically
+# pip install -r text_file_name.txt - now this command will install all the packages specified in that textfile automatically.
 
 
 # TIPS: What if we want to install older or rpevious libraries version
@@ -46,3 +46,5 @@
 # we can do it by a simple command
 
 # CMD - pip install xyz==2.0 - now it will install the xyz lib with version 2.0, if there is an previous any version already installed in the system or the virtual env, then the interpreter will uninstalled that particular version and install the specified version of the libraries
+
+# So yeah this 
