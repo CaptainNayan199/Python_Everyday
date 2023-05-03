@@ -30,4 +30,4 @@
 
 # pip freeze - it will show all the libraries,packages,modules that we have installed in that particular virtual environment.
 
-# now if we want to store all the information of our packages in a seperate file then we can do it by the 
+# now if we want to store all the information of our packages in a seperate file then we can do it by the use files updated 
