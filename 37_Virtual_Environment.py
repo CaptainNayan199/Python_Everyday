@@ -29,3 +29,5 @@
 # but if we want to know which libraries we have installed in our env, then we can use pip freeze cmmd
 
 # pip freeze - it will show all the libraries,packages,modules that we have installed in that particular virtual environment.
+
+# now if we want to 
