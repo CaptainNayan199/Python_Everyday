@@ -14,6 +14,6 @@
 # python -m venv new_env - so here i have created a new python virtual environment with name new_env. Remember it is completely isolated from the python that is in the system. That means if any libraries is installed on my system previously, and i wanto to work on that libraries inside of this env, that it wont work, because this is a seperate new env, its like a copy of system python
 
 # Now we have created the virtual environment, but how do we activate it?
-# Cmd - source/env_name/bin/activate
+# Cmd - source/env_name/bin/activate ( for MAC, and LINUX )
 
 # source/new_env/bin/activate - now it will activate my new_env virtual environment. Now if i want to work on amy libraries over here, then i can install it using the pip command, and work independently
