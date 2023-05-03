@@ -34,9 +34,9 @@
 
 # pip freeze > text_file_name.txt - now it will create a new txt file that will store all our packages, modules and libraries information.
 
-# NO we 
+# NO we have created
 
-# pip install -r requirements.txt
+# pip install -r text_file_name.txt
 
 
 # TIPS: What if we want to install older or rpevious libraries version
