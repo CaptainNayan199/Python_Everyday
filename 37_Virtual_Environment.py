@@ -28,3 +28,4 @@
 
 # but if we want to know which libraries we have installed in our env, then we can use pip freeze cmmd
 
+# pip freeze
