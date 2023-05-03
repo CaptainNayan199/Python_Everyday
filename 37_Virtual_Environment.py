@@ -16,6 +16,7 @@
 # Now we have created the virtual environment, but how do we activate it?
 # Cmd - source env_name/bin/activate ( for MAC, and LINUX )
 # Cmd - env_name/scripts/bin/activate.bat ( for Windows)
+# Cmd - env_name/scripts/bin/activate.ps1 ( for Windows and in powershell)
 
 
 # source/new_env/bin/activate - now it will activate my new_env virtual environment. Now if i want to work on amy libraries over here, then i can install it using the pip command, and work independently
