@@ -50,4 +50,4 @@
 # So yeah this much for today, today we leaned a very important topic in python that is virtual env, remember virtual env can be very useful when working in certain projects
 # So yeah tomorrow we will be learning about PIP in python, how does it works, and all the things about PIP
 
-# 
+# Thank
