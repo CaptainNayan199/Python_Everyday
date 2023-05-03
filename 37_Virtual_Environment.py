@@ -23,3 +23,5 @@
 
 # Now deactivating virtual environment  - we can deactivate the current virtual env by :
 # cmd - dectivate
+
+# SO we can install as many libraries we want,
