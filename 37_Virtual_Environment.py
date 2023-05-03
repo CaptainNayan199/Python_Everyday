@@ -9,4 +9,4 @@
 
 # How to install virtual environment in python?
 # Cmd - python -m venv virtual_env_name
-# python -m venv new_env - so here i have created a new python virtual environment with name new_env. Remember it is completely different from the 
+# python -m venv new_env - so here i have created a new python virtual environment with name new_env. Remember it is completely isolated from the python that is in the system. That means
