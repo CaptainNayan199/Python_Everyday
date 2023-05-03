@@ -35,4 +35,4 @@
 # pip freeze > text_file_name.txt - now it will create a new txt file that will store all our packages, modules and libraries information.
 
 
-# TIPS: What if we want to install older 
+# TIPS: What if we want to install older or rpevious
