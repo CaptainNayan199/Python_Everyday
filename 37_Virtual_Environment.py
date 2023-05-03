@@ -40,4 +40,4 @@
 # But what if i want to install previous 2.0 version?
 # we can do it by a simple command
 
-# CMD - pip install xyz==2.0 - 
+# CMD - pip install xyz==2.0 - now it will install the 
