@@ -5,3 +5,4 @@
 # python virtual environment is used to create an isolated enviroment for managing different packages.
 
 # it is a tool used to isolate specific python env on a single machine, allowing us to work on multiple projects with different dependencies and packages without conflicts.
+# they are very useful when working on projects that have conflicting package versions or packages that are not compatible with each other.
