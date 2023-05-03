@@ -19,3 +19,5 @@
 
 
 # source/new_env/bin/activate - now it will activate my new_env virtual environment. Now if i want to work on amy libraries over here, then i can install it using the pip command, and work independently
+
+# Now deactivating virtual environment  - we 
