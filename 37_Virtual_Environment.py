@@ -25,3 +25,6 @@
 # cmd - dectivate
 
 # SO we can install as many libraries we want in our virtual env
+
+# but if we want to know which libraries we have installed in our env, then we can use pip freeze cmmd
+
