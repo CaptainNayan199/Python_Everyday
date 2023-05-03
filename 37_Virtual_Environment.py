@@ -1,0 +1,1 @@
+# so today we are going to see about virtual environment in python
