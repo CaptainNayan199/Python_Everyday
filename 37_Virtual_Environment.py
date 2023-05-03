@@ -32,4 +32,4 @@
 
 # now if we want to store all the information of our packages in a seperate file then we can do it by the use of this command
 
-# pip freeze > text_file_name.txt -
+# pip freeze > text_file_name.txt - now it will create a new txt file 
