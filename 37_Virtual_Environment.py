@@ -16,4 +16,4 @@
 # Now we have created the virtual environment, but how do we activate it?
 # Cmd - source/env_name/bin/activate
 
-#
+# source/new_env/bin/activate - now it will activate my new_env virtual environment. Now if i want to work on amy libraries 
