@@ -37,4 +37,4 @@
 
 # TIPS: What if we want to install older or rpevious libraries version
 # for eg : there is an library named xyz and its current version is 3.0
-# But what if i want to install previous 
+# But what if i want to install previous 2.0 version?
