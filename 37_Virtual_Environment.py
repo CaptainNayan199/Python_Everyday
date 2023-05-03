@@ -9,4 +9,4 @@
 
 # How to install virtual environment in python?
 # Cmd - python -m venv virtual_env_name
-# python -m venv new_env - so here i have created a new python virtual environment with name new_env. Remember it is completely isolated from the python that is in the system. That means if any libraries is installed on my system previously, and i wanto to work on that libraries inside of this env, that it wont work
+# python -m venv new_env - so here i have created a new python virtual environment with name new_env. Remember it is completely isolated from the python that is in the system. That means if any libraries is installed on my system previously, and i wanto to work on that libraries inside of this env, that it wont work, because this is a seperate new env, its like a copy of system python
