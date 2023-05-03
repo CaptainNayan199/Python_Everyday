@@ -1,2 +1,2 @@
 # so today we are going to see about virtual environment in python
-# So wht is virtual environment in python ? - in simple words virtual environment in python are python environment whrere libraries, scripts are isolated from the 
+# So wht is virtual environment in python ? - in simple words virtual environment in python are python environment whrere libraries, scripts are isolated from the rest of the environment or default
