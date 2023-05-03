@@ -36,4 +36,4 @@
 
 
 # TIPS: What if we want to install older or rpevious libraries version
-# for eg : there is an library named xyz and its current version 
+# for eg : there is an library named xyz and its current version is 3.0
