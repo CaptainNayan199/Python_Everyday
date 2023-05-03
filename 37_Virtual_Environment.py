@@ -35,7 +35,7 @@
 # pip freeze > text_file_name.txt - now it will create a new txt file that will store all our packages, modules and libraries information.
 
 # NO we have created the packages information in a seperate txt file, now what if a third person using this env wants to install all the packages  that you have installed on your env
-# It can be done by a simple 
+# It can be done by a simple command.
 
 # pip install -r text_file_name.txt
 
