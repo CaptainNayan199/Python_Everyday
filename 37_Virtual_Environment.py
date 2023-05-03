@@ -41,3 +41,4 @@
 # we can do it by a simple command
 
 # CMD - pip install xyz==2.0 - now it will install the xyz lib with version 2.0, if there is an previous any version already installed in the system or the virtual env, then the interpreter will uninstalled that particular version and install the specified version of the libraries
+
