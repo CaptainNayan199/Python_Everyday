@@ -34,6 +34,10 @@
 
 # pip freeze > text_file_name.txt - now it will create a new txt file that will store all our packages, modules and libraries information.
 
+# NO we 
+
+# pip install -r requirements.txt
+
 
 # TIPS: What if we want to install older or rpevious libraries version
 # for eg : there is an library named xyz and its current version is 3.0
@@ -41,4 +45,3 @@
 # we can do it by a simple command
 
 # CMD - pip install xyz==2.0 - now it will install the xyz lib with version 2.0, if there is an previous any version already installed in the system or the virtual env, then the interpreter will uninstalled that particular version and install the specified version of the libraries
-
