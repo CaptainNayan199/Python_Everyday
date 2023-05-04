@@ -40,7 +40,7 @@
 # pip install -r text_file_name.txt - now this command will install all the packages specified in that textfile automatically.
 
 
-# TIPS: What if we want to install older or rpevious libraries version
+# TIPS: What if we want to install older or pevious libraries version
 # for eg : there is an library named xyz and its current version is 3.0
 # But what if i want to install previous 2.0 version?
 # we can do it by a simple command
