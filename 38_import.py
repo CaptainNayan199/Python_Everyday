@@ -1,1 +1,1 @@
-# So today we are going to observe what is 
+# So today we are going to observe what actually is 
