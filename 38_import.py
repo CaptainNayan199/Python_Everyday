@@ -9,4 +9,4 @@
 # First and foremost we need to install the required module using pip command
 # pip install pandas
 
-# now pandas have been installed in our local system
+# now pandas have been installed in our local system, to use it we need to install it
