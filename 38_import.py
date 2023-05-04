@@ -6,4 +6,4 @@
 # IMporting in oython is the process of loading code from a python module in the current code. This allows us to use the function and variables defined in the module in your current code, as well as any aditional modules that the imported module may depend on.
 
 # How to import a module or certain package in python?
-# 
+# First and foremost we need to install the required 
