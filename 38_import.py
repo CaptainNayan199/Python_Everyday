@@ -7,3 +7,4 @@
 
 # How to import a module or certain package in python?
 # First and foremost we need to install the required module using pip command
+# pip install pandas
