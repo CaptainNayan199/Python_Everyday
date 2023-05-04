@@ -10,3 +10,5 @@
 # pip install pandas
 
 # now pandas have been installed in our local system, to use it we need to import its
+
+# in our script, at the top we need to type - import module_name; so in our case import pandas
