@@ -1,1 +1,1 @@
-# SO today we are going to 
+# So today we are going to 
