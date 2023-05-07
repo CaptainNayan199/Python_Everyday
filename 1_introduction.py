@@ -14,6 +14,6 @@
 
 # In data visualization, creating plot, graphical representations
 # helps in data Analysis to understand raw data
-# used in AI and ML to simulate human behavior
+# used in AI and ML to simulate human behavior and styles along with their emotions
 # used to handle databases
 # used to create web app, and etc
