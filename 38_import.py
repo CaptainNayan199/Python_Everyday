@@ -14,4 +14,4 @@
 # Remember we should import it at the top of our python script
 
 
-# From keyword in python - This keyword
+# From keyword in python - This keyword is used to import only a specified section in certain module
