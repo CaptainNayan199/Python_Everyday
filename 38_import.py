@@ -12,3 +12,6 @@
 
 # in our script, at the top we need to type - import module_name; so in our case import pandas
 # Remember we should import it at the top of our python script
+
+
+# From keyword in python 
