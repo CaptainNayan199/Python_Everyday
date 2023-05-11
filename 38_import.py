@@ -18,3 +18,5 @@
 # Eg - pip install math - i have imported a python module named math
 from math import pi # - so with the use of from keyword, i have imported a specified functions from the math package 
 # so from keyword is used to import certain or specified functions or variables from a module
+
+# Importing everything with the use of *
