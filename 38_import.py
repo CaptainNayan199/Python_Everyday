@@ -32,4 +32,5 @@ import pandas as pan  # so here i have imported modules named pandas as pan, so 
 # `dir` functions - this function is basically used when we dont know what functions or variables are inside certain modules
 
 import pandas
-print(dir(pandas))
+print(dir(pandas)) 
+# so its output will be quite long but you can see...
