@@ -66,3 +66,5 @@ t.sum()
 # So yeah this much for today, today in this session we learned about import keyword 
 
 # Tomorrow we will learn about `if __name__ == __main__` in python, its very important in python programming language, and we will see the reason for that in tomorrow session.
+
+#Thank
