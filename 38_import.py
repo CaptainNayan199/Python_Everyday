@@ -49,3 +49,4 @@ print(name)
 # Imporiting by the use of `*` keyword
 
 from test import *
+print(sum()) # does not show anything, coz i havent returned anything in the test file
