@@ -16,4 +16,4 @@
 
 # From keyword in python - This keyword is used to import only a specified section in certain module
 # Eg - pip install math - i have imported a python module named math
-# from math import pi - so with the use of from keyword, i have imported a specified modules from the math package 
+# from math import pi - so with the use of from keyword, i have imported a specified functions from the math package 
