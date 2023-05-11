@@ -67,4 +67,4 @@ t.sum()
 
 # Tomorrow we will learn about `if __name__ == __main__` in python, its very important in python programming language, and we will see the reason for that in tomorrow session.
 
-#Thank
+# Thank
