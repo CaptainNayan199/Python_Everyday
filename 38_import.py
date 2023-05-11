@@ -58,4 +58,4 @@ import test as t # i have imported test as t, now i can use it aswell
 print(t.name)
 t.sum()
 
-# So in this way import keyword works in python
+# So in this way import keyword works in python, import kwyword is very 
