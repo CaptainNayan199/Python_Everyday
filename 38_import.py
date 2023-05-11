@@ -47,3 +47,5 @@ sum()
 print(name)
 
 # Imporiting by the use of `*` keyword
+
+from test
