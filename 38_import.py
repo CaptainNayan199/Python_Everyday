@@ -62,3 +62,5 @@ t.sum()
 # Whether we are working for web development, or working to process a certain image using frameworks, or in any other things we nned to use this import command.
 
 # So yeah! Not much hard stuffs here, the more you practice, the more you learn.
+
+# So yeh
