@@ -54,6 +54,6 @@ print(name)
 
 # Importing by the use of `as` kwyword
 
-import test as t # i have imported 
+import test as t # i have imported test as t
 
 # So in this way import keyword 
