@@ -25,4 +25,6 @@ from pandas import * # so here  i have imported all the contents either function
 
 # But this is not recommended because it can create confusion, as well as, the size can be bigger as we have imported all those necessary functions that we are not using, os if not in use! why to import? - this is the condition
 
-# `as` keyword 
+# `as` keyword - this is used to import certain modules/ variables/ function in short from
+
+#
