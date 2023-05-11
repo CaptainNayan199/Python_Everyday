@@ -40,7 +40,7 @@ print(dir(pandas))
 # so this are all the functions inside a packages named pandas
 # this function will list all the different methods available inside specific modules name
 
-#Importing code as module - we can even import our own code from the other python file as package and can use its functions and variables
+#Importing code as module - we can even import our own code from the other python file as package and can use its functions and variables. So i have made a test python file in the same directory (you can see in the contents)
 
 from test import sum, diff, name
 sum()
