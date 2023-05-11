@@ -15,5 +15,5 @@
 
 
 # From keyword in python - This keyword is used to import only a specified section in certain module
-# Eg - pip install python-plyer - i have imported a python module named plyer
+# Eg - pip install math - i have imported a python module named plyer
 # from 
