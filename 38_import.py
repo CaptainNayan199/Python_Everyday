@@ -52,6 +52,6 @@ from test import *
 print(sum()) # does not show anything, coz i havent returned anything in the test file
 print(name)
 
-
+# Importing by the use of `as` kwyword
 
 # So in this way import keyword 
