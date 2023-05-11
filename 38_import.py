@@ -50,4 +50,4 @@ print(name)
 
 from test import *
 print(sum()) # does not show anything, coz i havent returned anything in the test file
-print(nameeeee)
+print(name)
