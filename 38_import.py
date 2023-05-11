@@ -27,4 +27,4 @@ from pandas import * # so here  i have imported all the contents either function
 
 # `as` keyword - this is used to import certain modules/ variables/ function in short from
 
-#
+import pandas as pan - # so here i have imported modules named pandas as pan
