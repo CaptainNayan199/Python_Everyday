@@ -65,4 +65,4 @@ t.sum()
 
 # So yeah this much for today, today in this session we learned about import keyword 
 
-# Tomorrow we will learn about `if __name`
+# Tomorrow we will learn about `if __name__ == __`
