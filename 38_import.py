@@ -30,3 +30,6 @@ from pandas import * # so here  i have imported all the contents either function
 import pandas as pan  # so here i have imported modules named pandas as pan, so whenevr i have to use pandas keyword in my program than i can simply write pan inplace of pandas. It is generally useful when we have longer modules/ variables/ function name, we can assign them in short form by the use of as keyword.
 
 # `dir` functions - this function is basically used when we dont know what functions or variables are inside certain modules
+
+import pandas
+print(dir(pandas))
