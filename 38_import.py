@@ -27,4 +27,6 @@ from pandas import * # so here  i have imported all the contents either function
 
 # `as` keyword - this is used to import certain modules/ variables/ function in short from
 
-import pandas as pan  # so here i have imported modules named pandas as pan, so whenevr i have to use pandas keyword in my program than i can simply write pan inplace of pandas.
+import pandas as pan  # so here i have imported modules named pandas as pan, so whenevr i have to use pandas keyword in my program than i can simply write pan inplace of pandas. It is generally useful when we have longer modules/ variables/ function name, we can assign them in short form by the use of as keyword.
+
+# `dir`
