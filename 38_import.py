@@ -23,4 +23,4 @@ from math import pi # - so with the use of from keyword, i have imported a speci
 
 from pandas import * # so here  i have imported all the contents either functions or variables from the modules named pandas. So it is how importing all the functions/variables can be imported using * keyword
 
-# But this is not recommended because it can create confusion, as well as, the size can be bigger as we have imported all those necessary functions that we are not using
+# But this is not recommended because it can create confusion, as well as, the size can be bigger as we have imported all those necessary functions that we are not using, os if not in use! why to import? - this is the condition
