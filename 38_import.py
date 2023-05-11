@@ -63,4 +63,4 @@ t.sum()
 
 # So yeah! Not much hard stuffs here, the more you practice, the more you learn.
 
-# So yeah this much for today, today in this session we learned about import keyword
+# So yeah this much for today, today in this session we learned about import keyword 
