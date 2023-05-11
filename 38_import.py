@@ -42,5 +42,6 @@ print(dir(pandas))
 
 #Importing code as module - we can even import our own code from the other python file as package and can use its functions and variables
 
-from test import sum, diff
+from test import sum, diff, name
 sum()
+print(name)
