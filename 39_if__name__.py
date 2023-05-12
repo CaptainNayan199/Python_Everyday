@@ -5,4 +5,4 @@
 
 # Python has a large number of special variables that begin and end with double underscores. They are referred to as dunder to keep it brief (from Double Underscores). In this case, "__name__" is pronounced "dunder name."
 
-# print (__name__)
+# print (__name__) # - __main__ will be the output as we are in our main python file, not inside a certain modules
