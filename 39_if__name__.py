@@ -22,4 +22,5 @@ test_python_file.sum(10,2) # now it will give me result as Sum is 12
 # Now if i do this than what happens ? 
 
 if __name__ == "__main__":
-    test_python_file.sum(10,2)
+    test_python_file.sum(10,2) # will this code run ?
+#  The answer is NO 
