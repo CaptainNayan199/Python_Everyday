@@ -14,4 +14,5 @@ print(time_package.__name__) # now here i have imported a time module as time-pa
 # So in previous session we made a test python file and now lets see by importing it
 
 import test as test_python_file
-# Now under this file, i have 2 functions one is `sum` and the other 
+# Now under this file, i have 2 functions one is `sum` and the other one is `diff` 
+# 
