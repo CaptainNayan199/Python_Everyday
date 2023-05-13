@@ -11,4 +11,4 @@ import time as time_package
 print(time_package.__name__) # now here i have imported a time module as time-package. So whenever i print __name__ after importing certain module than i will get output as that particular module name . It is because i am imporing a module and i am working under same module
 
 # The main job of __name__ keyword is to records the name of the currently running module or script.
-# So in previous session we made a test file 
+# So in previous session we made a test python file
