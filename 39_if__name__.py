@@ -8,4 +8,4 @@
 # print (__name__) # - __main__ will be the output as we are in our main python file, not inside a certain modules
 
 import time as time_package
-print(time_package.__name__) # now here i have imported a time module as time-package.
+print(time_package.__name__) # now here i have imported a time module as time-package. So whenever
