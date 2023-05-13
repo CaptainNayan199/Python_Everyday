@@ -1,9 +1,7 @@
-def sum():
-    print("This function is used for finding sum")
+def sum(a,b):
+    print("Sum is ", a+b)
 
 
-def diff():
-    print("For difference")
+def diff(x,y):
+    print("Difference is ", x-y)
     
-
-name = "Nayan Pathak"
