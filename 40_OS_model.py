@@ -14,4 +14,4 @@ import os
 
 os.mkdir("New test folder") # - this command will create a new folder
 
-# we can even create a multiple foder
+# we can even create a multiple foder, by simply using
