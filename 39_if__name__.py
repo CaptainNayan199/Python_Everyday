@@ -39,6 +39,6 @@ if __name__ == "__main__":
 import python1
 python1.main()
 
-# This variable is generally important in such scenarios where we need to organize and seperate code that should be 
+# This variable is generally important in such scenarios where we need to organize and seperate code that should be run directly from the code that should be imported and use as a module
 
 
