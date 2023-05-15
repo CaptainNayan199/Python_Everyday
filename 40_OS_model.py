@@ -34,4 +34,4 @@ os.rename("original_name", "final_name")
 
 # openinga file 
 
-os.open("")
+os.open(" ")
