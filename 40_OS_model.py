@@ -30,4 +30,4 @@ os.rmdir("dir_name")
 
 # renaming a directory
 
-os.
+os.rename("original_name", "final_name")
