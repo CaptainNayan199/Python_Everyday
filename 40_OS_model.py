@@ -40,4 +40,4 @@ os.open(" ")
 # You can have a look at those by following the below provided link, if only you are interested
 print("https://docs.python.org/3/library/os.html")
 
-# So yeah i did not planned to make this session too long as al the things have been clearly mentioned
+# So yeah i did not planned to make this session too long as al the things have been clearly mentioned in the docs.
