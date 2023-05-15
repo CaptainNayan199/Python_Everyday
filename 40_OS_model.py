@@ -21,3 +21,5 @@ for i in range(1,100):
     os.mkdir(f"New folder {i} ") # now this command will create 100 folder
 
 # changing directory 
+
+os.chdir("/nayan")
