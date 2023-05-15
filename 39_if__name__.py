@@ -45,5 +45,6 @@ python1.main()
 
 # So yeah this much for today, today we learned about __name__ keyword in python
 # Tomorrow we will be looking at OS module in python, dont miss it, its gonna be interesting.
+# Thanks for watching. Happy coding!
 
 
