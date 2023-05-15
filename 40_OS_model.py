@@ -32,4 +32,6 @@ os.rmdir("dir_name")
 
 os.rename("original_name", "final_name")
 
-# opening
+# openinga file 
+
+os.open("")
