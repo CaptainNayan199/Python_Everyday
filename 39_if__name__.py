@@ -32,3 +32,9 @@ if __name__ == "__main__":
 # python1.py : 
 def main():
     print("This is in python1.py")
+if __name__ == "__main__":
+    main()
+
+# python2.py
+import python1
+
