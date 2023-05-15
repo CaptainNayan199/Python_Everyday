@@ -6,4 +6,4 @@
 
 # So i am just trying to say what this module actually does
 
-# The functions OS module provides allows us to operate on underlying Operating System tasks, irrespective of it being a Windows Platform, Macintosh or Linux.
+# The functions OS module provides allows us to operate on underlying Operating System tasks, irrespective of it being a Windows Platform, Macintosh or Linux.  - this is the main work done by OS module
