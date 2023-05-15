@@ -29,3 +29,6 @@ if __name__ == "__main__":
 # Why this methods is important?
 # this variable is important because this allows us to reuse the codefrom a script by importing it as a module in another program or script  
 
+# python1.py : 
+def main():
+    print("This is in python1.py")
