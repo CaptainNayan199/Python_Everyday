@@ -37,5 +37,5 @@ os.rename("original_name", "final_name")
 os.open(" ")
 
 # So there are many and many different methods and functions inside this module
-
+# You can 
 print("https://docs.python.org/3/library/os.html")
