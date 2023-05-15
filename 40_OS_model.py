@@ -29,3 +29,5 @@ os.chdir("/nayan") # this command can be used to change the working directory
 os.rmdir("dir_name")
 
 # renaming a directory
+
+os.
