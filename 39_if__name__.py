@@ -39,5 +39,5 @@ if __name__ == "__main__":
 import python1
 python1.main()
 
-# This variable is generally important in such scenarios where 
+# This variable is generally important in such scenarios where we need to organize and seperate 
 
