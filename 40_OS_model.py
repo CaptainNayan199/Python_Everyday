@@ -31,3 +31,5 @@ os.rmdir("dir_name")
 # renaming a directory
 
 os.rename("original_name", "final_name")
+
+# opening
