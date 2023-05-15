@@ -37,4 +37,5 @@ if __name__ == "__main__":
 
 # python2.py
 import python1
+python1.main()
 
