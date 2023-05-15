@@ -41,3 +41,5 @@ os.open(" ")
 print("https://docs.python.org/3/library/os.html")
 
 # So yeah i did not planned to make this session too long as al the things have been clearly mentioned in the docs. Try visiting and reading the docs for better understanding of the python os module.
+
+# if any quesries arise, you can mail me at : 
