@@ -5,3 +5,5 @@
 # PS : There are hundreds and hundreds of different methods inside OS  module in python and i cannot talk about all in single session
 
 # So i am just trying to say what this module actually does
+
+# The functions OS module provides allows us to operate on underlying Operating System tasks, irrespective of it being a Windows Platform, Macintosh or Linux.
