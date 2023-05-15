@@ -46,6 +46,6 @@ print("https://docs.python.org/3/library/os.html")
 print("my_mail")
 
 # So yeah this much for today, today we did just a brief review of OS module in python
-# Tomorrow we will be looking at some local and global variables in python
+# Tomorrow we will be looking at some local and global variables in python.
 
 # Thanks for reading! Happy coding!
