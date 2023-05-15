@@ -12,4 +12,4 @@
 
 import os
 
-os.mkdir("New test folder") # - this command will create a 
+os.mkdir("New test folder") # - this command will create a new folder
