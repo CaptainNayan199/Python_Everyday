@@ -22,4 +22,4 @@ for i in range(1,100):
 
 # changing directory 
 
-os.chdir("/nayan")
+os.chdir("/nayan") # this command can be used to change the 
