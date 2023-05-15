@@ -26,4 +26,4 @@ if __name__ == "__main__":
 #  The answer is NO, which is because inside if i have said if __name__ == __main__ then only run the code that is inside. 
 # But here we are not doing operation with our main file, rather we are trying to work on certain module 
 
-
+# Why this methods is important?
