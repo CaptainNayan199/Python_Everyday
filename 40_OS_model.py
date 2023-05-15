@@ -20,4 +20,4 @@ os.mkdir("New test folder") # - this command will create a new folder
 for i in range(1,100):
     os.mkdir(f"New folder {i} ") # now this command will create 100 folder
 
-# changing 
+# changing directory 
