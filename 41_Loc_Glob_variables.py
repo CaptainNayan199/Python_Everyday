@@ -15,4 +15,4 @@ def function():
 name = "Ujjwal"
 
 def function_2():
-    print("My name is ", name)
+    print("My name is ", name) # here name is 
