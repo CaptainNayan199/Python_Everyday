@@ -12,7 +12,7 @@ def function():
 
 # Likewise, Global variables are those variables that are accessbile everywhere
 
-name = "Nayan"
+name = "Ujjwal"
 
 def function_2():
-    print("My name is ")
+    print("My name is ", name)
