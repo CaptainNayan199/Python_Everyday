@@ -3,4 +3,4 @@
 
 # So firstly lets see it in simple terms
 
-# Local variables are like
+# Local variables are those variables 
