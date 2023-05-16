@@ -3,4 +3,4 @@
 
 # So firstly lets see it in simple terms
 
-# Local variables are those variables 
+# Local variables are those variables that can be used/that are used 
