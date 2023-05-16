@@ -7,4 +7,4 @@
 
 def function():
     name="Nayan"
-    print("My name is ",name)
+    print("My name is ",name) # so here name is my local variable
