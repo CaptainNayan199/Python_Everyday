@@ -3,4 +3,4 @@
 
 # So firstly lets see it in simple terms
 
-# Local variables are those variables that can be used/that are used 
+# Local variables are those variables that can be used/that are used inside a some variable or module
