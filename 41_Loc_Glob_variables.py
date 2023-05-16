@@ -10,4 +10,4 @@ def function():
     print("My name is ",name) # so here name is my local variable, i cannot access it outside of function
 
 
-# Likewise, 
+# Likewise, Global variables are those 
