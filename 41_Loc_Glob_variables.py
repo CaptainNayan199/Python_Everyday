@@ -2,3 +2,5 @@
 # We will also see about the use of global keyword, when to use it
 
 # So firstly lets see it in simple terms
+
+# Local variables are like
