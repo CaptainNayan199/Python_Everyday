@@ -1,1 +1,1 @@
-# So today we are going to see about 
+# So today we are going to see about local and global variables
