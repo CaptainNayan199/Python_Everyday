@@ -22,3 +22,5 @@ def function_2():
 
 # But the case for local variable is different as talked earlier, local variables are defined inside of certain functions and are accessbile only inside of that functions
 
+# let's see by using a local variable 
+
