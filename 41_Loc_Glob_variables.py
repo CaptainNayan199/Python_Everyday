@@ -42,7 +42,7 @@ print(f"My name is {name} and my age is {age}. My marrital status is {isMarried}
 # ERROR!
 # NameError: name 'name' is not defined. Did you mean: 'namee'?
 
-# So we got clear that local variable can aonly be accesed inside their 
+# So we got clear that local variable can aonly be accesed inside their particular function
 
 
 
