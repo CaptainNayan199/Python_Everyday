@@ -18,5 +18,5 @@ def function_2():
     print("My name is ", name) # here name is a global variable and it is being used inside of a function
 
 
-# So, Global variable are those variables that are defined out
+# So, Global variable are those variables that are define out of any functions
 
