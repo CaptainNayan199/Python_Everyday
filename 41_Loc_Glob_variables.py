@@ -23,3 +23,26 @@ def function_2():
 # But the case for local variable is different as talked earlier, local variables are defined inside of certain functions and are accessbile only inside of that functions
 
 # let's see by using a local variable outside of function
+
+# So here I have created a function named namee. It has certain local variable 
+def namee():
+    name = "Nayan Pathak"
+    age = 20
+    isMarried = False
+    isStudent = True
+    print(f"My name is {name} and my age is {age}. My marrital status is {isMarried}.")
+namee()
+
+# Now lets see accesing the local variable outside of certain function
+
+print(f"My name is {name} and my age is {age}. My marrital status is {isMarried}.")
+
+# Here we will get an error
+# Error is : 
+# ERROR!
+# NameError: name 'name' is not defined. Did you mean: 'namee'?
+
+
+
+
+
