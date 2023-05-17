@@ -20,5 +20,5 @@ def function_2():
 
 # So, Global variable are those variables that are define out of any functions and are accessible through out the script i.e we can use this variable both in inside as well as outside of the function
 
-# But the case for local variable is different as talked earlier, local variables are defined inside of certain functions
+# But the case for local variable is different as talked earlier, local variables are defined inside of certain functions and are accessbile only inside of that variable
 
