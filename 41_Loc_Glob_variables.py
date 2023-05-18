@@ -52,7 +52,7 @@ namee()
 
 print("Your age is ", age)
 
-# What if we try to change the value of the global variable 
+# What if we try to change the value of the global variable using the local variable
 
 
 
