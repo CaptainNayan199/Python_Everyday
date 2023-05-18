@@ -69,6 +69,17 @@ print("The global variable is : ", s) # this gives us output as 5 as this is acc
 # Now for solving the above problem we need to make sure that we are using the Global keyword in our program
 
 
+s = 5
+
+def name():
+    global s
+    s = s+5
+    print("The local variable is : ",s)
+
+name()
+
+print("The global variable is : ", s)
+
     
 
 
