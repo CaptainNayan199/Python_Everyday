@@ -60,7 +60,7 @@ print("Your age is ", age)
 
 # To create a global variable inside a function, you can use the global keyword.
 
-# This global keyword is used primarily when there is a need of using the variable made inside the function, outside
+# This global keyword is used primarily when there is a need of using the variable outside the function 
 
 s = 5
 
