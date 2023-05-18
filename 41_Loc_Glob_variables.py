@@ -44,6 +44,14 @@ print(f"My name is {name} and my age is {age}. My marrital status is {isMarried}
 
 # So we got clear that local variable can aonly be accesed inside their particular function
 
+age = 15
+def namee():
+    age = 20
+    print("Your age is ", age) # here the output will be 20, coz local variable gets priority
+namee()
+
+print("Your age is ", age)
+
 
 
 
