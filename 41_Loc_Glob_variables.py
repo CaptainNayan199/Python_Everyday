@@ -87,6 +87,11 @@ def name():
 name()
 
 print("The global variable is : ", s)
+# now this will print the value of the variable s as 10, both inside of the function as well as outside the function.
+# Basically the use of global keyword is when there is a variable made inside a function and that needs to be use outside of the function.
+
+# So yeah this much for today, today we talked about local and global variable and its uses. 
+# 
 
     
 
