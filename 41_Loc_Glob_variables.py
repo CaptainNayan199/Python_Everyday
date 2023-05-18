@@ -93,6 +93,7 @@ print("The global variable is : ", s)
 # So yeah this much for today, today we talked about local and global variable and its uses. 
 # Tomorrow we will be looking at file IO in python
 
+# Thank you! Happy cs
     
 
 
