@@ -57,12 +57,14 @@ print("Your age is ", age)
 s = 5
 
 def name():
-    s = s+5
+    s = s+5 #here we have tried to change the value of the global variable using the local variable
     print("The local variable is : ",s)
 
 name()
 
 print("The global variable is : ", s)
+
+
     
 
 
