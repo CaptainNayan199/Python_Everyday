@@ -91,7 +91,7 @@ print("The global variable is : ", s)
 # Basically the use of global keyword is when there is a variable made inside a function and that needs to be use outside of the function.
 
 # So yeah this much for today, today we talked about local and global variable and its uses. 
-# Tomorrow we will 
+# Tomorrow we will be looking at file IO in python
 
     
 
