@@ -66,6 +66,8 @@ print("The global variable is : ", s) # this gives us output as 5 as this is acc
 
 # So in above case when we call the function we will get an Error as `UnboundLocalError: cannot access local variable 's' where it is not associated with a value`
 
+# Now for solving the above problem we need to make sure that we are using the Global keyword in our program
+
 
     
 
