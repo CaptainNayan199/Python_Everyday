@@ -62,7 +62,7 @@ def name():
 
 name()
 
-print("The global variable is : ", s)
+print("The global variable is : ", s) # this gives us output as 5 as this is accesing the global variable
 
 
     
