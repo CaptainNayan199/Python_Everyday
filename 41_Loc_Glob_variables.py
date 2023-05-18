@@ -58,7 +58,7 @@ s = 5
 
 def name():
     s = s+5 #here we have tried to change the value of the global variable using the local variable
-    print("The local variable is : ",s) # this will print the value of the local variable as 
+    print("The local variable is : ",s) # this will give us error, as we are trying to edit the value of the global variable
 
 name()
 
