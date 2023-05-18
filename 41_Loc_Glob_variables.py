@@ -64,6 +64,8 @@ name()
 
 print("The global variable is : ", s) # this gives us output as 5 as this is accesing the global variable
 
+# So in above case when we call the function we will get an Error as `UnboundLocalError: cannot access local variable 's' where it is not associated with a value`
+
 
     
 
