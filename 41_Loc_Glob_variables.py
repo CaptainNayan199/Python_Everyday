@@ -54,6 +54,17 @@ print("Your age is ", age)
 
 # What if we try to change the value of the global variable using the local variable, we will get an error
 
+s = 5
+
+def name():
+    s = s+5
+    print("The local variable is : ",s)
+
+name()
+
+print("The global variable is : ", s)
+    
+
 
 
 
