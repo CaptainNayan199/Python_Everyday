@@ -54,6 +54,8 @@ print("Your age is ", age)
 
 # What if we try to change the value of the global variable using the local variable, we will get an error
 
+# Use of global variable in the python script
+
 s = 5
 
 def name():
