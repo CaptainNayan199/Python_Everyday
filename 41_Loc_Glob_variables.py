@@ -56,6 +56,12 @@ print("Your age is ", age)
 
 # Use of global variable in the python script
 
+# Normally, when you create a variable inside a function, that variable is local, and can only be used inside that function.
+
+# To create a global variable inside a function, you can use the global keyword.
+
+# This global keyword is used primarily when there is a need of using the variable made inside 
+
 s = 5
 
 def name():
