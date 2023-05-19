@@ -1,1 +1,1 @@
-# So today we are going to see about file input and 
+# So today we are going to see about file input and output in python
