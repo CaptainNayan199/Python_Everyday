@@ -5,8 +5,10 @@
 
 # Here i have created a new file with name file_handling.txt, wo we will perform action on this file.
 
+
+
 # Opening a file - for opening a file in python we need to use open() method that takes two arguments; name of the file and the mode in which we are going to open that particular file
 
-open_file = open("file_handling", 'w') # we will talk about different file opening modes later on, so basically this commmand will open a particular file
+open_file = open("file_handling", 'w') # so basically this commmand will open a particular file
 
  
