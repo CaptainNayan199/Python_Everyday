@@ -16,7 +16,7 @@ open_file = open("file_handling", 'w') # so basically this commmand will open a 
 
 
 data = open_file.read() # so this line of code will read all the contents inside of the file
-print(data)
+print(data) # displaying the contents.
 
  
  
