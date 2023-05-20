@@ -9,7 +9,7 @@
 
 #Opening a file - for opening a file in python we need to use open() method that takes two arguments; name of the file and the mode in which we are going to open that particular file
 
-open_file = open("file_handling", 'w') # so basically this commmand will open a particular file in writing mode.
+open_file = open("file_handling", 'r') # so basically this commmand will open a particular file in writing mode.
 
 #  but yet we havent displayed the content of the file.
 # So to display the content of the file
