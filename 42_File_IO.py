@@ -5,4 +5,4 @@
 
 # Here i have created a new file with name file_handling.txt, wo we will perform action on this file.
 
-# Opening a file - for opening a file in python we need to use open() method
+# Opening a file - for opening a file in python we need to use open() method that takes two arguments
