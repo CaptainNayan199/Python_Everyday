@@ -12,5 +12,7 @@
 open_file = open("file_handling", 'w') # so basically this commmand will open a particular file in writing mode.
 
 #  but yet we havent displayed the content of the file.
+# So to display the content of the file
+
  
  
