@@ -7,4 +7,4 @@
 
 # Opening a file - for opening a file in python we need to use open() method that takes two arguments; name of the file and the mode in which we are going to open that particular file
 
-open_file = open()
+open_file = open("file_handling", 'w') # we will talk about different file opening modes later on
