@@ -14,5 +14,9 @@ open_file = open("file_handling", 'w') # so basically this commmand will open a 
 #  but yet we havent displayed the content of the file.
 # So to display the content of the file
 
+
+data = open_file.read()
+print(data)
+
  
  
