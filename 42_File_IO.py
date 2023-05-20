@@ -5,7 +5,7 @@
 
 # Here i have created a new file with name file_handling.txt, wo we will perform action on this file.
 
-
+# Different file opening modes in python
 
 #Opening a file - for opening a file in python we need to use open() method that takes two arguments; name of the file and the mode in which we are going to open that particular file
 
