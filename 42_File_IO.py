@@ -10,7 +10,7 @@
 
 # write()-w - this mode is used in opening a certain file in writing mode. If mentioned file is not found then the python creates a new file in thie mode, without throwing an error.
 
-# append()-a - this mode is used in opening a file in appending mode.
+# append()-a - this mode is used in opening a file in appending mode. Append means to add something in a particular things.
 
 #Opening a file - for opening a file in python we need to use open() method that takes two arguments; name of the file and the mode in which we are going to open that particular file
 
