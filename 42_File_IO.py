@@ -41,5 +41,8 @@ open_file.close() # closing the file.
 
 # Writing a file - we use write methods to write some contents inside of a file
 
+open_file = open("file_handling.txt", "w")
+
+
  
  
