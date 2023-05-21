@@ -5,7 +5,7 @@
 
 # Here i have created a new file with name file_handling.txt, wo we will perform action on this file.
 
-# Different file opening modes in python/ different file handling methods in python
+# Different file handling methods in python
 
 # read()-r -  this mode is used in opening a certain file in reading mode. If user forgot to mention which mode he/she wanna open the file then the file is opened in reading mode. It is the default one. If python does not finds the mentioned, file than it returns errros saying file not found.
 
