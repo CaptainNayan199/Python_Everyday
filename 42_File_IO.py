@@ -66,8 +66,8 @@ with open("file3.txt", "a+") as file: #appending new text
     data_inside_file = file.read()
     print(data_inside_file)
 
-#with open ("file3.txt", "r") as file:
- #   data_inside_file = file.read()
+with open ("file3.txt", "r") as file:
+   data_inside_file = file.read()
    print(data_inside_file)
 
 
