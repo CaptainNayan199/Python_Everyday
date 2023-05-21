@@ -49,7 +49,7 @@ fopen.close()
 
 with open("write.txt","w") as file:
     file.write("This is a new text file for writing methods")
-    file.write("This is ")
+    file.write("This is writing a file with the use of `with` keyword ")
 
 
 
