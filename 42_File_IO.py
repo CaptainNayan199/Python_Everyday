@@ -54,9 +54,11 @@ with open("write.txt","w") as file: # this with keyword is use to automatically 
 # Appending a file - this method is used to insert or append something into the file
 
 with open("file3.txt", "a+") as file:
-   file.write("This is reading a file with a+ methods \n")
-   data_inside_file = file.read()
-   print(data_inside_file)
+    file.write("This is reading a file with a+ methods \n")
+    data_inside_file = file.read()
+    print(data_inside_file)
+
+# Now what if we want to append as well read the contents of the file at the same time.
 
 
 
