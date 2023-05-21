@@ -8,7 +8,7 @@
 # Different file opening modes in python
 # read() -  this mode is used in opening a certain file in reading mode. If user forgot to mention which mode he/she wanna open the file then the file is opened in reading mode. It is the default one. If python does not finds the mentioned, file than it returns errros saying file not found.
 
-# write() - this mode is used in opening a certain file 
+# write() - this mode is used in opening a certain file in writing mode. If mentioned file is not found then the python creates a new file in thie mode, without throwing an error.
 
 #Opening a file - for opening a file in python we need to use open() method that takes two arguments; name of the file and the mode in which we are going to open that particular file
 
