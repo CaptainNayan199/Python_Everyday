@@ -8,7 +8,7 @@
 
 #### I will be the one adding a new file each day, so I will make sure to check back regularly to stay up-to-date with my Python learning journey. 🚀
 
-#### If YOu find this repository helpful, you can give it a ⭐️. You may also contribute by submitting my own Python files too! 👨‍💻👩‍💻
+#### If You find this repository helpful, you can give it a ⭐️. You may also contribute by submitting my own Python files too! 👨‍💻👩‍💻
 
 #### If you have any suggestions or feedback, please don't hesitate to reach out.
 
