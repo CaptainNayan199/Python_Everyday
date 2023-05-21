@@ -41,8 +41,9 @@ open_file.close() # closing the file.
 
 # Writing a file - we use write methods to write some contents inside of a file
 
-open_file = open("file_handling.txt", "w")
-open_file.write("This is a writing methods visualization")
+fopen = open("write.txt" , "w")
+fopen.write("This is a new txt file for writing methods")
+fopen.close()
 
 
  
