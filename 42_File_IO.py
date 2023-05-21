@@ -15,7 +15,6 @@
 
 # create()-x - this method is used in creating a new file, will throws an error if file already exists.
 
-# Opening a file - for opening a file in python we need to use open() method that takes two arguments; name of the file and the mode in which we are going to open that particular file
 
 # File handling modes in python
 
@@ -27,6 +26,7 @@
 # a+: To append and read data from the file. It won’t override existing data.
 
 
+# Opening a file - for opening a file in python we need to use open() method that takes two arguments; name of the file and the mode in which we are going to open that particular file
 
 open_file = open("file_handling", 'r') # so basically this commmand will open a particular file in reading mode.
 
@@ -37,6 +37,9 @@ open_file = open("file_handling", 'r') # so basically this commmand will open a 
 data = open_file.read() # so this line of code will read all the contents inside of the file, abstracting the contents of the file.
 print(data) # displaying the contents. 
 open_file.close() # closing the file.
+
+
+# Writing a file - we use
 
  
  
