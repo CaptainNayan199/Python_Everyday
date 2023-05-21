@@ -17,6 +17,10 @@
 
 # Opening a file - for opening a file in python we need to use open() method that takes two arguments; name of the file and the mode in which we are going to open that particular file
 
+# File handling modes in python
+
+# r: open an existing file for a read operation.
+
 open_file = open("file_handling", 'r') # so basically this commmand will open a particular file in reading mode.
 
 # but yet we havent displayed the content of the file.
