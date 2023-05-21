@@ -16,7 +16,7 @@ open_file = open("file_handling", 'r') # so basically this commmand will open a 
 
 
 data = open_file.read() # so this line of code will read all the contents inside of the file, abstracting the contents of the file.
-print(data) # displaying the contents.
+print(data) # displaying the contents. 
 open_file.close() # closing the file.
 
  
