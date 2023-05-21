@@ -62,8 +62,8 @@ with open("file3.txt", "a") as file:
 
 
 # with open("file3.txt", "a+") as file:
-  #  file.write("This is reading a file with a+ methods \n")
-   # data_inside_file = file.read()
+    #file.write("This is reading a file with a+ methods \n")
+    #data_inside_file = file.read()
     #print(data_inside_file)
 
 
