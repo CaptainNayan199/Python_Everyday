@@ -58,7 +58,7 @@ with open("file3.txt", "a+") as file:
     data_inside_file = file.read()
     print(data_inside_file)
 
-# Now what if we want to append as well read the contents of the file at the same time.
+# Now what if we want to append as well read the contents of the file at the same time ? We can use a+ method for it and read the contents of the file as well.
 
 
 
