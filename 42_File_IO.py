@@ -70,6 +70,8 @@ with open ("file3.txt", "r") as file: # reading the contents of the file which w
     data_inside_file = file.read()
     print(data_inside_file)
 
+# If we use `a` to read the contents as well, it will throw error, so we must use `a+` mode.
+
 
 
  
