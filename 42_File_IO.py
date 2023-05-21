@@ -53,5 +53,7 @@ with open("write.txt","w") as file: # this with keyword is use to automatically 
 
 
 
+
+
  
  
