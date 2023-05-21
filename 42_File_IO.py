@@ -39,7 +39,7 @@ print(data) # displaying the contents.
 open_file.close() # closing the file.
 
 
-# Writing a file - we use
+# Writing a file - we use write methods to write some contents inside of a file
 
  
  
