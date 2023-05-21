@@ -13,8 +13,6 @@
 
 # append()-a - this mode is used in opening a file in appending mode. Append means to add something in a particular things. As like write mode, this mode also creates a new file if the mentioned file is not found without throwing an error.
 
-# text()-t - 
-
 # create()-x - this method is used in creating a new file, will throws an error if file already exists.
 
 # Opening a file - for opening a file in python we need to use open() method that takes two arguments; name of the file and the mode in which we are going to open that particular file
