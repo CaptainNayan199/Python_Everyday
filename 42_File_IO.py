@@ -47,6 +47,11 @@ fopen.close()
 
 # PS : Closing a file always can seem quite hectic! What if i say we can use a certain function which lets us not to close the file manually, the python automatically does it 
 
+with open("write.txt","w") as file:
+    file.write("This is a new text file for writing methods")
+    file.write("This is ")
+
+
 
  
  
