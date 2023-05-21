@@ -45,6 +45,8 @@ fopen = open("write.txt" , "w")
 fopen.write("This is a new txt file for writing methods")
 fopen.close()
 
+# PS : Closing a file always can seem quite hectic! What if i say we can use a certain function which lets us not to close the file manually, the python automatically does it 
+
 
  
  
