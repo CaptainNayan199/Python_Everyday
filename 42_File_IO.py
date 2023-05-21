@@ -51,8 +51,7 @@ with open("write.txt","w") as file: # this with keyword is use to automatically 
     file.write("This is a new text file for writing methods")
     file.write("This is writing a file with the use of `with` keyword ")
 
-# Appending a file - this methods
-
+# Appending a file - this method is used to insert or append something into the file
 
 
 
