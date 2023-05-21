@@ -16,7 +16,7 @@
 
 open_file = open("file_handling", 'r') # so basically this commmand will open a particular file in reading mode.
 
-#  but yet we havent displayed the content of the file.
+# but yet we havent displayed the content of the file.
 # So to display the content of the file
 
 
