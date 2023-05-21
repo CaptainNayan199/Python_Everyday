@@ -20,6 +20,7 @@
 # File handling modes in python
 
 # r: open an existing file for a read operation.
+# w: open an existing file for a write operation. If the file already contains some data then it will be overridden but if the file is not present then it creates the new file as well.
 
 open_file = open("file_handling", 'r') # so basically this commmand will open a particular file in reading mode.
 
