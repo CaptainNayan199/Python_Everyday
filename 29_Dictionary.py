@@ -70,7 +70,6 @@ for key, value in dic1.items():
 
 # So yeah this much for today, today we learned about some basic about dictionary.
 # Tomorrow we will learn about some methods in dictionary
-
 # Thank you! Happy coding !
 
 
