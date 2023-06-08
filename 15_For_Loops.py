@@ -62,7 +62,7 @@ for i in range (1, 12, 3):
 # so at first it will print 1, and them jump by 3 and then print 4 and then again jump by 3 and print 7 and then again jump by 3 and print 10, hence beacuse of this reason 11 is not printed at the last.
 
 
-#So yeah this much for today, PS: Practice more for loops in python as they are the most used loops in not only python but also in other programming language
+# So yeah this much for today, PS: Practice more for loops in python as they are the most used loops in not only python but also in other programming language
 # So in tomorrow class we will talk about while loop in python
 # Thank you! Happy coding.
 
