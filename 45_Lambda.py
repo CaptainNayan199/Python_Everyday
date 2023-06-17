@@ -27,6 +27,17 @@ print(prod(2,3,4))
 
 
 #  Using functions as arguments
+
+summ = lambda a,b:a+b
+
+def num(x,y):
+    return x+y
+    
+print(num(summ(1,1),1))
+
+
+# OR
+
 summ = lambda a,b:a+b
 def num(x,y):
     return x(y,y)+y
