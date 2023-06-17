@@ -1,6 +1,7 @@
 # Lambda functions are very important functions in python, they are single expressions
 # They are used for writing anonymous functions
 # Anonymous functions are those functions that has no any name
+# They are generally used to make mini and small functions like calculating area, sum, average, square and etc.
 
 # Lambda functions syntax :  lambda arguments: expression
 
