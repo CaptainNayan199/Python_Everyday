@@ -2,9 +2,9 @@
 
 # readlines() methods - this methods is used to read a single line from the file, multiple lines can also be read by the use of loop
 
-f = open("myfile.txt", 'r')
-while True:
-    line = f.readline()
-    if not line:
+f = open("myfile.txt", 'r') #opening a file in read mode
+while True: #using while loop
+    line = f.readline() #using the readline method
+    if not line: # if not is a special keyword in which checks whether the resepected line is there in the file or not
         break
     print(line)
