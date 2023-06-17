@@ -30,6 +30,5 @@ for d in data:
 f.close()
 
 # So yeah this much for today! Today we learnt about readlines and writelines in python file.io
-
-# 
+# Tomorrow we will be learning about seek(), tell(), and other important functions in python
     
