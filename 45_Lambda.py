@@ -4,7 +4,12 @@
 
 # Lambda functions syntax :  lambda arguments: expression
 
+# Simple function with 2 parameters
+def sum (a):
+    return a+a
+print(sum(2))
 
-def sum (a,b):
-    return a+b
-print(sum(2,3))
+
+# Now rewriting this above function with the use of lambda kwyword
+
+summ = lambda a,b: a+b
