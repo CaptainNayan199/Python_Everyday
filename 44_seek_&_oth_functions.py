@@ -25,3 +25,8 @@ with open("file.txt", 'r') as file:
 
 with open("file.txt", 'w') as file:
     f.write("Nayan Pathak") # writing Nayan pathak into the file
+    f.truncate(3) # Specifying to only keep the first 3 bytes in the file, truncate all others.
+
+# Now if we try opening the content of the file then : 
+with open("file.txt", 'r') as file:
+    print(file.read())
