@@ -34,7 +34,7 @@ print(num(summ(1,1),1)) # calling a function by passing summ function as a param
 
 
 # OR
-
+ 
 summ = lambda a,b:a+b
 def num(x,y):
     return x(y,y)+y
