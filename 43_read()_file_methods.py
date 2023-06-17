@@ -20,4 +20,10 @@ f.writelines(data) #writing 4 lines of data with the use of writelines() methods
 f.close() #closing the file
 
 # PS: This methods does not adds new line (\n) automatically in between the data , we have to manually specify it.
-# We can modify the above program as 
+
+# We can modify the above program as :
+
+f = open("myfile1.txt", 'w')
+data = ['This is line 1', 'This is line 2', 'This is line 3', 'This is line 4']
+while True:
+    
