@@ -18,3 +18,6 @@ f = open("myfile1.txt", 'w') #creating and opening a new file.
 data = ['This is line 1\n', 'This is line 2\n', 'This is line 3\n', 'This is line 4'] # some data, 4 lines of data
 f.writelines(data) #writing 4 lines of data with the use of writelines() methods,
 f.close() #closing the file
+
+# PS: This methods does not adds new line (\n) automatically in between the data , we have to manually specify it.
+# We can modify the above program as 
