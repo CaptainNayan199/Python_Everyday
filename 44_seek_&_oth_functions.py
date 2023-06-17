@@ -13,6 +13,5 @@ with open("file.txt", 'r') as file:
     data = f.read() #read from the 6
 
 
-# tell() - this built in function in python returns the current position within the file in bytes
-
+# tell() - this built in function in python returns the current position within the file in bytes. It can be useful to keep track of the current location of the file
 
