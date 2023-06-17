@@ -1,2 +1,2 @@
 # Lambda functions are very important functions in python 
-for writing anonymous functions
+# They are used for writing anonymous functions
