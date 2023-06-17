@@ -9,13 +9,13 @@
 
 
 with open("file.txt", 'r') as file:
-    f.seek(5) #this will move to the 10th byte location in the file; 123456789 - contents of the file, then it will move to 6(after 4 byte)
-    data = f.read() #read from the 6
+    file.seek(5) #this will move to the 10th byte location in the file; 123456789 - contents of the file, then it will move to 6(after 4 byte)
+    data = file.read() #read from the 6
 
 
 # tell() - this built in function in python returns the current position within the file in bytes. It can be useful to keep track of the current location of the file
 
 with open("file.txt", 'r') as file:
-
-
-
+    f = file.read(10) # reading upto 10 bytes
+    current_loc = file.tell() # determining the current position of the file
+    f.seek(current-loc) #
