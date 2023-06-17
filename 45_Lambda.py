@@ -4,6 +4,7 @@
 
 # Lambda functions syntax :  lambda arguments: expression
 
+
 def sum (a,b):
     return a+b
-print(dum(2,3))
+print(sum(2,3))
