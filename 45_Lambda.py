@@ -16,3 +16,8 @@ print(sum(2))
 summ = lambda a: a+a #so this function has lambda keyword and then arguments, colon, and then expression respectively
 print(summ(4))
 
+
+prod = lambda a,b,c: a*b*c #it can even take multiple arguments
+
+print(prod(2,3,4))
+
