@@ -8,3 +8,13 @@ while True: #using while loop
     if not line: # if not is a special keyword in which checks whether the resepected line is there in the file or not and returns true if not found, else return false
         break #if not found this loop will break 
     print(line) #print the line
+
+
+# writelines() - this method is used to write a sequence of strings to a file. we can write any iterable objects like list or tuples by the use of this methods.
+
+
+
+f = open("myfile1.txt", 'w')
+data = ['This is line 1\n', 'This is line 2\n', 'This is line 3\n', 'This is line 4']
+f.writelines(data)
+f.close()
