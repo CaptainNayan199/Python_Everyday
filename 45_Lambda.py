@@ -17,7 +17,7 @@ summ = lambda a: a+a #so this function has lambda keyword and then arguments, co
 print(summ(4))
 
 
-prod = lambda a,b,c: a*b*c #it can even take multiple arguments
+prod = lambda a,b,c: a*b*c #it can even take multiple arguments and operate it accordingly
 
 print(prod(2,3,4))
 
