@@ -24,8 +24,6 @@ print(prod(2,3,4))
 
 
 
-
-
 #  Using functions as arguments
 
 summ = lambda a,b:a+b
