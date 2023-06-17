@@ -44,5 +44,5 @@ print(num(summ, 1))
 
 # So yeah this much for today
 # Today we learned about lambda functions in python
-# Tomorrow we will be talking about 
+# Tomorrow we will be talking about map, filters, etc in python
 
