@@ -13,6 +13,6 @@ with open("file.txt", 'r') as file:
     data = f.read() #read from the 6
 
 
-# tell() - 
+# tell() - this built in function in python returns the current position within the file in bytes
 
 
