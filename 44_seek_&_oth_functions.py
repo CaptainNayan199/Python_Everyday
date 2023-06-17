@@ -19,3 +19,6 @@ with open("file.txt", 'r') as file:
     f = file.read(10) # reading upto 10 bytes
     current_loc = file.tell() # determining the current position of the file
     f.seek(current-loc) #seeking to the saved location
+
+
+# truncate() - 
