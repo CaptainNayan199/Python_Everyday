@@ -30,3 +30,8 @@ with open("file.txt", 'w') as file:
 # Now if we try opening the content of the file then : 
 with open("file.txt", 'r') as file:
     print(file.read()) # Gives Nay, as we have truncate all others.
+
+
+# So yeah this much for today, today we learnt about some file handling functions.
+
+# tomorrow we will be looking at
