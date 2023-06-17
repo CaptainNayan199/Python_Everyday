@@ -29,5 +29,7 @@ for d in data:
     f.write(d + '\n')
 f.close()
 
+# So yeah this much for today! Today we learnt about readlines and writelines in python file.io
 
+# 
     
