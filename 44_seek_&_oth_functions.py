@@ -21,4 +21,4 @@ with open("file.txt", 'r') as file:
     f.seek(current-loc) #seeking to the saved location
 
 
-# truncate() - 
+# truncate() -  
