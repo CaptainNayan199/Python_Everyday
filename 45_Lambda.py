@@ -27,7 +27,7 @@ print(prod(2,3,4))
 
 summ = lambda a,b:a+b # anonymous function
 
-def num(x,y):
+def num(x,y): #num function that returns sum of two numbers
     return x+y
     
 print(num(summ(1,1),1))
