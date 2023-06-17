@@ -21,4 +21,6 @@ with open("file.txt", 'r') as file:
     f.seek(current-loc) #seeking to the saved location
 
 
-# truncate() -  
+# truncate() -  this function is used to truncate the file to a specific size (in byte)
+
+
