@@ -21,3 +21,15 @@ prod = lambda a,b,c: a*b*c #it can even take multiple arguments and operate it a
 
 print(prod(2,3,4))
 
+
+
+
+
+
+#  Using functions as arguments
+summ = lambda a,b:a+b
+def num(x,y):
+    return x(y,y)+y
+    
+print(num(summ, 1))
+
