@@ -30,7 +30,7 @@ summ = lambda a,b:a+b # anonymous function
 def num(x,y): #num function that returns sum of two numbers
     return x+y
     
-print(num(summ(1,1),1))
+print(num(summ(1,1),1)) # calling a function by passing summ function as a parameter
 
 
 # OR
