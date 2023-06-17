@@ -25,5 +25,7 @@ f.close() #closing the file
 
 f = open("myfile1.txt", 'w')
 data = ['This is line 1', 'This is line 2', 'This is line 3', 'This is line 4']
-while True:
+for d in data:
+    f.write(d + '\n')
+f.close()
     
