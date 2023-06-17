@@ -23,4 +23,5 @@ with open("file.txt", 'r') as file:
 
 # truncate() -  this function is used to truncate the file to a specific size (in byte)
 
-
+with open("file.txt", 'w') as file:
+    f.write("Nayan Pathak") # writing Nayan pathak into the file
