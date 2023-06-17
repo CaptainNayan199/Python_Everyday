@@ -41,3 +41,7 @@ def num(x,y):
     
 print(num(summ, 1))
 
+
+# So yeah this much for today
+
+
