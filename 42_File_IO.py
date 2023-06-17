@@ -72,7 +72,8 @@ with open ("file3.txt", "r") as file: # reading the contents of the file which w
 
 # If we use `a` to read the contents as well, it will throw error, so we must use `a+` mode.
 
-# So yeah this much for today tomorow we will be looking at another important
+# So yeah this much for today tomorow we will be looking at read(), readlines(), and other file methods.
+# Thank you! Happy coding!
 
 
 
