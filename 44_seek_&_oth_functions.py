@@ -33,5 +33,5 @@ with open("file.txt", 'r') as file:
 
 
 # So yeah this much for today, today we learnt about some file handling functions.
-
-# tomorrow we will be looking at
+# tomorrow we will be looking at lambda funtions in python.
+# Thank you! Happy coding!
