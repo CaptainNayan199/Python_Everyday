@@ -1,1 +1,1 @@
-# SO what are maps, filtering and reduce in python 
+# So what are maps, filtering and reduce in python 
