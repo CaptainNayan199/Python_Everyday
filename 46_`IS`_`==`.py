@@ -50,4 +50,4 @@ print(tup1 is tup2) # returns True because tupple is immutable, so why to keep s
 
 # So yeah this much for today! Today we learned about 2 comparison operator and their difference.
 # I think from tomorrow we will be starting to deal with OOPs concept in python, seems exciting huh! Get ready
-# Thank you!
+# Thank you! Happy coding!
