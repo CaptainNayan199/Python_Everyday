@@ -78,4 +78,4 @@ list2 = reduce(sum, age) #So what reduce does is : basically takes first two num
 print(list2)
 
 
-# So yeah this much for today
+# So yeah this much for today, today we learned about map, reduce, and filters in python
