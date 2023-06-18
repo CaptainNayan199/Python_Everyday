@@ -62,7 +62,17 @@ for i in list2:
 
 
 # Reduce functions - It is an higher order function that applies a function to a sequence and returns a single value
-# BUT : PS: before using reduce, we need to import it as : from functools import reduce
+# BUT : PS: before using reduce, we need to import it as : from functools import reduce & reduce most of the time takes a function that takes 2 arguments.
 # Syntax of Reduce function -
 
 REDUCE(function, iterable)
+
+
+from functools import reduce
+age = [23,12,56,83,2,3,6,12,19]
+
+def sum(a,b):
+    return a+b
+
+list2 = reduce(sum, age) #So what reduce does is : basically takes first two numbers from age
+print(list2)
