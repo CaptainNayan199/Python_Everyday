@@ -1,6 +1,8 @@
 # There is a keyword in python- is - what its use is? 
 # What is the difference between is and == in python, do they have similar meaning?
 
+# The == operator compares the value or equality of two objects, whereas the Python is operator checks whether two variables point to the same object in memory
+
 # Main difference betwwen 'is' and '==' is that 'is' compares the exact location of the object in the memory, whereas '==' compares the values
 
 # Both are comparison operator in python, used to compare 
