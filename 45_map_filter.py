@@ -2,7 +2,11 @@
 # They are built in functions inside python programming language that basically allows us to apply a function to a sequence of elements and return a new sequence.
 # They are called as higher order functions, why is so, will see later.
 
-# Map functions 
+# Map functions - it is a function that applies a function to each element in a sequence and returns a new sequence as map.
+
+# Syntax of Map function : 
+
+map(function, iterable) #iterable = any iterable objects like list, etc.
 
 def square(a): # a function that returns a square of a number
     return a*a
@@ -18,6 +22,8 @@ print(sq_list)
 
 sq_list2 = []
 sq_list2 = map(square, list1) # using map function, that takes 2 arguments, one is function and other one is the value of the list
-sq_list2 = list(sq_list2)
+sq_list2 = list(sq_list2) # converting it into list
 print(sq_list2)
+
+# The output will be same in both case
 
