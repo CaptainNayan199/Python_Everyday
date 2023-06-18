@@ -26,4 +26,9 @@ print(id(a))
 print(id(b))
 print(a is b) # compares the exact location in the memory
 print(a == b) #compares the value
+
+
+a = 5
+b = 5
+print(a is b) # returns True as both are pointing to the same objects which is 5
     
