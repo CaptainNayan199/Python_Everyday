@@ -74,5 +74,5 @@ age = [23,12,56,83,2,3,6,12,19]
 def sum(a,b):
     return a+b
 
-list2 = reduce(sum, age) #So what reduce does is : basically takes first two numbers from age
+list2 = reduce(sum, age) #So what reduce does is : basically takes first two numbers from age 23, 12, pass it as parameter to the function sum, stores it, again takes another number 56, and the previous output, and pass it as parameter again, and so on....
 print(list2)
