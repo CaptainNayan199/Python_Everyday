@@ -23,7 +23,7 @@ print(sq_list)
 sq_list2 = []
 sq_list2 = map(square, list1) # using map function, that takes 2 arguments, one is function and other one is the value of the list
 sq_list2 = list(sq_list2) # converting it into list
-print(sq_list2)
+print(sq_list2) 
 
 # The output will be same in both case
 
