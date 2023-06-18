@@ -79,3 +79,4 @@ print(list2)
 
 
 # So yeah this much for today, today we learned about map, reduce, and filters in python
+# Tomorrow we will be dealing with what `is` keyword is in python.
