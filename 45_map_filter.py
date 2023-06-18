@@ -25,5 +25,5 @@ sq_list2 = map(square, list1) # using map function, that takes 2 arguments, one 
 sq_list2 = list(sq_list2) # converting it into list
 print(sq_list2) 
 
-# The output will be same in both case
+# The output will be same in both case, so it is the use of Map in python
 
