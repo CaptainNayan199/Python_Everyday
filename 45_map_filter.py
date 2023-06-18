@@ -27,3 +27,18 @@ print(sq_list2)
 
 # The output will be same in both case, so it is the use of Map in python
 
+# Filter functions - as name suggests, this function is used to filter a sequence of elements based on a given predicate(a function that returns either true or false), and returns a new sequence that meets the predicate
+
+# Syntax of the filter function - 
+
+filter(predicate, iterable)
+
+
+list1 = [1,2,3,4,5] #new list
+
+def func(a):
+    return a>3 # a fiunction that returns true if a>3 else returns false
+
+list2 = list(filter(func, list1)) #use of filter, filtering is done as per the the parameters provided, the func gets the parameter from list1, and then those values that satisfies the function condition are added in list2.
+print(list2) #print the list2
+
