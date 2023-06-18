@@ -39,4 +39,8 @@ print(a is b) # returns False, dont get confused, yes it returns false.Why ? let
 
 # So whata actually happens is, a = 5, here we are defining an variable who value is 5, python assumes this is constant and hence, it only assigns a single memory for it, and then it any other variable like b = 5, is defined, python will say 5 is already there, so no need to use more memory, rather lets directly point to the previous 5, python thinks 5 is immutable
 
-# But for the list, list are mutable, so python will assign memory blocks respectively as per the list, if there are  list with same elements, python will independently assign them into the memory
+# But for the list, list are mutable, so python will assign memory blocks respectively as per the list, if there are  list with same elements, python will independently assign them into the memory as it knows list can be changed.
+
+tup1 = (1,2,3,4,5)
+tup2 = (1,2,3,4,5)
+print(tup1 is tup2) # returns True 
