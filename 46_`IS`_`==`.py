@@ -37,4 +37,4 @@ a = [1,2,3]
 b = [1,2,3]
 print(a is b) # returns False, dont get confused, yes it returns false.Why ? lets see
 
-# So whata actually happens is, a = 5, here we are defining an variable who value is a
+# So whata actually happens is, a = 5, here we are defining an variable who value is 5, python assumes this is constant and hence, it only assigns a single memory for it, and then it any other variable like b = 5, is defined, python will say 5 is already there, so no need to use more memory, rather lets directly point to the previous 5
