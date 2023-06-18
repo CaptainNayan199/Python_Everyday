@@ -1,0 +1,1 @@
+# SO what are maps, filtering and reduce in python 
