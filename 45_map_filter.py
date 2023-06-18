@@ -16,5 +16,8 @@ print(sq_list)
 
 # The above mentioned way is hectic and longer, lets calculate square of the list using map
 
-
+sq_list2 = []
+sq_list2 = map(square, list1) # using map function, that takes 2 arguments, one is function and other one is the value of the list
+sq_list2 = list(sq_list2)
+print(sq_list2)
 
