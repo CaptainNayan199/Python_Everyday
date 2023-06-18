@@ -13,3 +13,8 @@ sq_list = [] # an empty list
 for i in list1: #calculating the square of a list using for loop
     sq_list.append(square(i)) #appending the square in new list
 print(sq_list)
+
+# The above mentioned way is hectic and longer, lets calculate square of the list using map
+
+
+
