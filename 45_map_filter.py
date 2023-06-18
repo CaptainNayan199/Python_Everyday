@@ -52,7 +52,7 @@ for i in range (10):
 def check(a):
     return a>18
 
-list2 = list(filter(check, age))
+list2 = list(filter(check, age)) # age goes as parameter for the check function 
 print(list2)
 for i in list2:
     print(f"Hey you are qualified to drive as your age is {i} which is greater than 18")
