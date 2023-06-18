@@ -6,6 +6,9 @@
 
 # Syntax of Map function : 
 
+from pickle import REDUCE
+
+
 map(function, iterable) #iterable = any iterable objects like list, etc.
 
 def square(a): # a function that returns a square of a number
@@ -58,4 +61,7 @@ for i in list2:
     print(f"Hey you are qualified to drive as your age is {i} which is greater than 18")
 
 
-# Reduce functions - It is an higher order function that applies a function
+# Reduce functions - It is an higher order function that applies a function to a sequence and returns a single value
+# Syntax of Reduce function -
+
+REDUCE(function, iterable)
