@@ -18,3 +18,12 @@ else:
 b = 4
 if a==b: # i am comparing the values, whether the values of a and b are equal or not
     print("Yes")
+
+
+a = 5
+b = a
+print(id(a))
+print(id(b))
+print(a is b) # compares the exact location in the memory
+print(a == b) #compares the value
+    
