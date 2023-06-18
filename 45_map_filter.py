@@ -1,1 +1,2 @@
 # So what are maps, filtering and reduce in python 
+# They are built in functions inside python programming language that basically allows us to apply a function to a sequence of elements and return a new sequence.
