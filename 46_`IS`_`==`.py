@@ -3,6 +3,8 @@
 
 # Main difference betwwen 'is' and '==' is that 'is' compares the exact location of the object in the memory, whereas '==' compares the values
 
+# Both are comparison operator in python, used to compare 
+
 
 a = 5
 if a is None: # I am asking whether the value of a is None or not, where in this case it is not
