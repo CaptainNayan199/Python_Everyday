@@ -5,7 +5,7 @@
 
 
 a = 5
-if a is None: # I am asking 
+if a is None: # I am asking whether the value of a is None or not
     print(True)
 else:
     print(False)
