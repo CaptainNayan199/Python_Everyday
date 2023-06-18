@@ -32,3 +32,7 @@ a = 5
 b = 5
 print(a is b) # returns True as both are pointing to the same objects which is 5
     
+
+a = [1,2,3]
+b = [1,2,3]
+print(a is b) # returns False, dont get confused, yes it returns false.
