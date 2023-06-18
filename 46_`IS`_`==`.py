@@ -12,5 +12,5 @@ else:
 
 
 b = 4
-if a==b: # i am comparing the values, whether the
+if a==b: # i am comparing the values, whether the values of a and b are equal or not
     print("Yes")
