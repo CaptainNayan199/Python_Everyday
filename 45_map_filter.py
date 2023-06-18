@@ -42,3 +42,17 @@ def func(a):
 list2 = list(filter(func, list1)) #use of filter, filtering is done as per the the parameters provided, the func gets the parameter from list1, and then those values that satisfies the function condition are added in list2.
 print(list2) #print the list2
 
+
+# age = [23,12,56,83,2,3,6,12,19]
+age = []
+for i in range (10):
+    a = int(input("Enter ages : "))
+    age.append(a)
+
+def check(a):
+    return a>18
+
+list2 = list(filter(check, age))
+print(list2)
+for i in list2:
+    print(f"Hey you are qualified to drive as your age is {i} which is greater than 18")
