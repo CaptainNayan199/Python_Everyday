@@ -62,6 +62,7 @@ for i in list2:
 
 
 # Reduce functions - It is an higher order function that applies a function to a sequence and returns a single value
+# BUT : PS: before using reduce, we need to import it as : from functools import reduce
 # Syntax of Reduce function -
 
 REDUCE(function, iterable)
