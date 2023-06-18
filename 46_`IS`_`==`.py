@@ -9,3 +9,8 @@ if a is None: # I am asking whether the value of a is None or not, where in this
     print(True)
 else:
     print(False)
+
+
+b = 4
+if a==b: # i am comparing the values, whether the
+    print("Yes")
