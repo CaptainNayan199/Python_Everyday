@@ -47,3 +47,5 @@ print(tup1 is tup2) # returns True because tupple is immutable, so why to keep s
 
 
 # So this was the difference betwwen is and ==, is compare for identity, location, in the memory objects, but == comparess only the values.
+
+# So yeah this much for today
