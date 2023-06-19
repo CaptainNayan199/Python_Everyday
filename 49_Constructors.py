@@ -5,14 +5,14 @@
 # Tha min purpose of the constructor is to initialize values
 
 # PS: Constructor returns "None", returns nothing
-# Default constructor
+# Default constructor - no any arguments, has self arguments, that points to the obj that invokes it
 class default:
     def __init__(self):
         print("This is default constructor without parameter")
 
 def_obj = default()
 
-# Parameterized constructor
+# Parameterized constructor - takes arguments
 
 class paramterized():
     def __init__(self, name, age):
@@ -61,4 +61,4 @@ class Mat:
 obj1 = Mat(10,5) #creating obj, constructor gets automatically invoked for obj1 with two arguments 10 and 5
 obj2 = Mat(20,10) #creating obj2, constructor gets automatically invoked for obj2 with two arguments 20 and 20
 obj1.area()
-obj2.area()
+obj2.area() 
