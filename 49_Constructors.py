@@ -2,6 +2,8 @@
 # They help in creating an object, helps in initialization
 # There are in general two types of constructor; default and parameterized 
 
+# Default constructor
+
 
 class Cons:
     name= "Nayan"
