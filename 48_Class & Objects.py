@@ -23,4 +23,4 @@ class Test:
         return a+b
     
 obj1 = Test() #creating an object
-obj.sum(2,5)
+obj.sum(2,5) #accessing class methods using object
