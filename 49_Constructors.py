@@ -25,3 +25,5 @@ class Cons:
         print(f"Name is {self.name} and age is {self.age}")
 
 obj = Cons() # now creating an obj will automatically invoke the constructor, will be automatically called, and the contents of the constructor will be executed
+
+# we can even pass parameter to the constructor and change the values
