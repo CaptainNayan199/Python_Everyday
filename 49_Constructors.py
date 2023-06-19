@@ -24,5 +24,4 @@ class Cons:
     def Data(self):
         print(f"Name is {self.name} and age is {self.age}")
 
-obj = Cons()
-obj.Data()
+obj = Cons() # now creating an obj will automatically invoke the constructor, will be automatically called
