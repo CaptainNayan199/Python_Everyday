@@ -45,3 +45,4 @@ obj.infoo()
 
 # I can make multiple objects of an class
 # So yeah thich much for today, today we learned about class, objects and self
+# Tomorrow we will deal with 
