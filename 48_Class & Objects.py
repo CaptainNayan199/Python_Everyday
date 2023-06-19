@@ -7,4 +7,8 @@ class Nayan:
     name = "Nayan"
     sub = "Computer"
     hobby = "Playing Games"
-# So this is my new class with the name Nayan
+# So this is my new class with the name Nayan,
+
+# Now i need to make an object of this class
+
+obj1 = Nayan()
