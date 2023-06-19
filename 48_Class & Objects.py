@@ -35,7 +35,7 @@ class Info():
     
 
 obj = Info() #creating a new object of the class Info
-obj.name = input(" Enter your name : " )
+obj.name = input(" Enter your name : " ) #setting the name properties from the user input
 obj.age = int(input("Enter your age : "))
 obj.addr = input("Enter your current address : ")
 obj.infoo()
