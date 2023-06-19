@@ -14,4 +14,6 @@
 # Encapsulation
 # Polymorphism
 # Inheritance
-# 
+# Abstraction
+
+# We will talk about 
