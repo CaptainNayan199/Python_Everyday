@@ -39,3 +39,5 @@ obj.name = input(" Enter your name : " ) #setting the name properties from the u
 obj.age = int(input("Enter your age : "))
 obj.addr = input("Enter your current address : ")
 obj.infoo()
+
+# Self is passed 
