@@ -4,3 +4,6 @@
 
 class Nayan:
     print("Heloo Nayan this is Me")
+    name = "Nayan"
+    sub = "Computer"
+    hobby = "Playing Games"
