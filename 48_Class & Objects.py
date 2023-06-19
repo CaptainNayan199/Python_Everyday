@@ -41,7 +41,7 @@ obj.addr = input("Enter your current address : ")
 obj.infoo()
 
 # Self is passed as parameter in the infoo method ! But why ?
-# self parameter - It is an current instance of the class, and is used to access variables that belongs to the class, It is a must that self must be provided as parameter inside the method definitions inside the class.
+# self parameter - It is an current instance of the class, and is used to access variables that belongs to the class, It is a must that self must be provided as parameter inside the method definitions inside the class. (it refers to the methods for which object it is being called)
 
 # I can make multiple objects of an class
-# So yeah thich much for today
+# So yeah thich much for today, today we learned about class, objects and self
