@@ -66,3 +66,4 @@ obj2.area()
 
 # So yeah this much for today! Today we talked about constructors in python in brief
 # Tomorrow we will be talking about decorators in python
+# Thankyou! Happy coding
