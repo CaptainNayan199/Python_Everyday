@@ -34,7 +34,7 @@ class Info():
         print(f"My name is {self.name}. My age is {self.age}. I live in {self.addr}")
     
 
-obj = Info()
+obj = Info() #creating a new object of the class Info
 obj.name = input(" Enter your name : " )
 obj.age = int(input("Enter your age : "))
 obj.addr = input("Enter your current address : ")
