@@ -40,4 +40,5 @@ obj.age = int(input("Enter your age : "))
 obj.addr = input("Enter your current address : ")
 obj.infoo()
 
-# Self is passed as argument in the infoo method ! But why ?
+# Self is passed as parameter in the infoo method ! But why ?
+# self parameter - 
