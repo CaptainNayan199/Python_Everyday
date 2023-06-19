@@ -44,3 +44,4 @@ obj.infoo()
 # self parameter - It is an current instance of the class, and is used to access variables that belongs to the class, It is a must that self must be provided as parameter inside the method definitions inside the class.
 
 # I can make multiple objects of an class
+# So yeah thich much for today
