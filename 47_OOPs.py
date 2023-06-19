@@ -18,4 +18,4 @@
 
 # We will talk about all this imp things in details later on
 
-# So yeah this was a simple basic of OOP, 
+# So yeah this was a simple basic of OOP, Dont depend only on this much, there are a lot of things that you need to study yourself regarding oop concept, 
