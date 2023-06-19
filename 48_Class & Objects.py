@@ -35,7 +35,4 @@ class Info():
     
 
 obj = Info()
-obj.name = input(" Enter your name : " )
-obj.age = int(input("Enter your age : "))
-obj.addr = input("Enter your current address : ")
 obj.infoo()
