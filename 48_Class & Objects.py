@@ -7,3 +7,4 @@ class Nayan:
     name = "Nayan"
     sub = "Computer"
     hobby = "Playing Games"
+# So this is my new class with the name Nayan
