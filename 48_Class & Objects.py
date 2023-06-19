@@ -19,7 +19,7 @@ obj.name #accessing class variable from the object
 class Test:
     a = 20
     b = 30
-    def sum (a,b):
+    def sum (self,a,b):
         return a+b
     
 obj1 = Test()
