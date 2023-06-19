@@ -10,13 +10,17 @@ class default:
     def __init__(self):
         print("This is default constructor without parameter")
 
+def_obj = default()
+
 # Parameterized constructor
 
 class paramterized():
     def __init__(self, name, age):
         print("This is parameterized constructor with two parameters 'name' and 'age'")
         self.myName = name
-        self.myAge = ag
+        self.myAge = age
+
+par_obj = paramterized("Nayan", 20)
 
 
 
