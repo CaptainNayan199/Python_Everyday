@@ -37,6 +37,6 @@ class Mat:
         print(f"The value of length is {self.length} and the value of the breadth is {self.breadth}")
 
 obj1 = Mat(10,5) #creating obj, constructor gets automatically invoked for obj1 with two arguments 10 and 5
-obj2 = Mat(20,10)
+obj2 = Mat(20,10) #creating obj2, constructor gets automatically invoked for obj2 with two arguments 20 and 20
 obj1.area()
 obj2.area()
