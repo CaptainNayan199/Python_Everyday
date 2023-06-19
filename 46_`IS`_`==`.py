@@ -44,7 +44,7 @@ print(a is b) # returns False, dont get confused, yes it returns false.Why ? let
 tup1 = (1,2,3,4,5)
 tup2 = (1,2,3,4,5)
 print(tup1 is tup2) # returns True because tupple is immutable, so why to keep same tuples in 2 different memory location, rather keep one tuple in one memory location and point the other tuple to that memory location
-
+ 
 
 # So this was the difference betwwen is and ==, is compare for identity, location, in the memory objects, but == comparess only the values.
 
