@@ -7,12 +7,17 @@
 # PS: Constructor returns "None", returns nothing
 # Default constructor
 class default:
-    def __init__():
+    def __init__(self):
         print("This is default constructor without parameter")
 
 # Parameterized constructor
 
-class paramterized()
+class paramterized():
+    def __init__(self, name, age):
+        print("This is parameterized constructor with two parameters 'name' and 'age'")
+        self.myName = name
+        self.myAge = ag
+
 
 
 
