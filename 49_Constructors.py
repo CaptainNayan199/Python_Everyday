@@ -27,3 +27,16 @@ class Cons:
 obj = Cons() # now creating an obj will automatically invoke the constructor, will be automatically called, and the contents of the constructor will be executed
 
 # we can even pass parameter to the constructor and change the values
+
+class Mat:
+    def __init__(self, a, b): #constructor taking two parameter a, and b
+        print("Hey this is constructor called by obj")
+        self.length = a
+        self.breadth = b
+    def area(self):
+        print(f"The value of length is {self.length} and the value of the breadth is {self.breadth}")
+
+obj1 = Mat(10,5)
+obj2 = Mat(20,10)
+obj1.area()
+obj2.area()
