@@ -7,4 +7,4 @@
 # Objects - real world entites
 # class - blueprint of real world
 
-# Eg
+# Eg - Animal is a class, and i can make many objects of that Animal class, which can have 
