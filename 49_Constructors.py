@@ -3,6 +3,9 @@
 # There are in general two types of constructor; default and parameterized 
 
 # Default constructor
+class default:
+    def __init__():
+        print("This is default constructor without parameter")
 
 
 class Cons:
