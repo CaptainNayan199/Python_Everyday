@@ -8,3 +8,5 @@
 # Objects - instance of class, has its own methods
 
 # Eg - Animal is a class, and i can make many objects of that Animal class, which can have many properties, methods, behavior, state, identity
+
+# There are 4 pillars in OOP : 
