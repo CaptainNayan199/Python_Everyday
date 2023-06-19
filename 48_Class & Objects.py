@@ -14,3 +14,9 @@ class Nayan:
 obj1 = Nayan() #making a new object with the name obj
 
 obj.name #accessing class variable from the object
+
+
+class Test:
+    a = 20
+    b = 30
+    
