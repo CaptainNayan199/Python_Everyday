@@ -16,7 +16,7 @@ obj.Data()
 # So how to make constructor? 
 
 class Cons:
-    def __init__(): #a special keyword is used to define a constructor in Python which is __init__
+    def __init__(self): #a special keyword is used to define a constructor in Python which is __init__
         print("I am constructor and i am defined by a special keyword __init__")
     name= "Nayan"
     age = 20
@@ -24,4 +24,4 @@ class Cons:
     def Data(self):
         print(f"Name is {self.name} and age is {self.age}")
 
-obj = Cons() # now creating an obj will automatically invoke the constructor, will be automatically called
+obj = Cons() # now creating an obj will automatically invoke the constructor, will be automatically called, and the contents of the constructor will be executed
