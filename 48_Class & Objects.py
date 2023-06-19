@@ -41,4 +41,4 @@ obj.addr = input("Enter your current address : ")
 obj.infoo()
 
 # Self is passed as parameter in the infoo method ! But why ?
-# self parameter - 
+# self parameter - It is an current instance of the class
