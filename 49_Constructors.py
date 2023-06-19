@@ -62,3 +62,6 @@ obj1 = Mat(10,5) #creating obj, constructor gets automatically invoked for obj1 
 obj2 = Mat(20,10) #creating obj2, constructor gets automatically invoked for obj2 with two arguments 20 and 20
 obj1.area()
 obj2.area() 
+
+
+# So yeah this much for today! Today we talked about
