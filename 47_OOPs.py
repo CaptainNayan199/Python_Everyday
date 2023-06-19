@@ -16,4 +16,4 @@
 # Inheritance
 # Abstraction
 
-# We will talk about 
+# We will talk about all this imp things in details later on
