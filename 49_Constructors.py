@@ -8,3 +8,6 @@ class Cons:
 
     def Data(self):
         print(f"Name is {self.name} and age is {self.age}")
+
+obj = Cons()
+obj.Data()
