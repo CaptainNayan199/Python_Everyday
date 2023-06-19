@@ -11,4 +11,4 @@ class Nayan:
 
 # Now i need to make an object of this class
 
-obj1 = Nayan()
+obj1 = Nayan() #making a new object with the name obj
