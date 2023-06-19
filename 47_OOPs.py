@@ -4,7 +4,7 @@
 # OOP - it follows bottom up approach, use of real world entites called as objects, class.
 
 
-# Objects - real world entites
 # class - blueprint of real world
+# Objects - instance of class
 
 # Eg - Animal is a class, and i can make many objects of that Animal class, which can have many properties, methods, behavior, state, identity
