@@ -24,3 +24,18 @@ class Test:
     
 obj1 = Test() #creating an object
 obj.sum(2,5) #accessing class methods using object
+
+
+class Info():
+    name = "Nayan"
+    age = 20
+    addr = "Btm"
+    def infoo(self):
+        print(f"My name is {self.name}. My age is {self.age}. I live in {self.addr}")
+    
+
+obj = Info()
+obj.name = input(" Enter your name : " )
+obj.age = int(input("Enter your age : "))
+obj.addr = input("Enter your current address : ")
+obj.infoo()
