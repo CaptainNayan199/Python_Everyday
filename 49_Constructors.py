@@ -2,10 +2,18 @@
 # They help in creating an object, helps in initialization
 # There are in general two types of constructor; default and parameterized 
 
+# Tha min purpose of the constructor is to initialize values
+
+# PS: Constructor returns "None", returns nothing
 # Default constructor
 class default:
     def __init__():
         print("This is default constructor without parameter")
+
+# Parameterized constructor
+
+class paramterized()
+
 
 
 class Cons:
