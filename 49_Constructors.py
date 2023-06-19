@@ -12,3 +12,17 @@ class Cons:
 
 obj = Cons()
 obj.Data()
+
+# So how to make constructor? 
+
+class Cons:
+    def __init__():
+        print("I am constructor and i am defined by a special keyword __init__")
+    name= "Nayan"
+    age = 20
+
+    def Data(self):
+        print(f"Name is {self.name} and age is {self.age}")
+
+obj = Cons()
+obj.Data()
