@@ -31,7 +31,7 @@ obj = Cons() # now creating an obj will automatically invoke the constructor, wi
 class Mat:
     def __init__(self, a, b): #constructor taking two parameter a, and b
         print("Hey this is constructor called by obj")
-        self.length = a
+        self.length = a #stting the value of length as a and breadth as b
         self.breadth = b
     def area(self):
         print(f"The value of length is {self.length} and the value of the breadth is {self.breadth}")
