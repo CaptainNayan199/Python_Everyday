@@ -1,0 +1,1 @@
+# As talked in previous session classes are blue prints of real world, and objects are instance of an class
