@@ -46,3 +46,4 @@ obj.infoo()
 # I can make multiple objects of an class
 # So yeah thich much for today, today we learned about class, objects and self
 # Tomorrow we will deal with constructors in python, we will see how they are invoked, and all things
+# Thank you! Happy coding!
