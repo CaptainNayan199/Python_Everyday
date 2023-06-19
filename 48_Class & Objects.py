@@ -22,7 +22,5 @@ class Test:
     def sum (self,a,b):
         return a+b
     
-obj1 = Test()
-obj.a
-obj.b
+obj1 = Test() #creating an object
 obj.sum(2,5)
