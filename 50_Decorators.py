@@ -1,2 +1,2 @@
 # So what actually is decorators in python?
-# They are special types of function that
+# They are special types of function that takes
