@@ -13,3 +13,5 @@
 # @decorator function #this decora
 def func():
     pass
+
+# The above line of code is shorthand 
