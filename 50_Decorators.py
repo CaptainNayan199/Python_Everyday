@@ -9,3 +9,7 @@
 
 
 # Basic syntax of the decorator function : 
+
+# @decorator function
+def decorator_func():
+    pass
