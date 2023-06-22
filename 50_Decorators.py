@@ -10,6 +10,6 @@
 
 # Basic syntax of the decorator function : 
 
-# @decorator function
-def decorator_func():
+# @decorator function #this decora
+def func():
     pass
