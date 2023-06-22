@@ -8,4 +8,4 @@
 # It always returns a function 
 
 
-# Basic syntax of the function : 
+# Basic syntax of the decorator function : 
