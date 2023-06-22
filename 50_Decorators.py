@@ -14,4 +14,4 @@
 def func():
     pass
 
-# The above line of code is shorthand 
+# The above line of code is shorthand for the following code:
