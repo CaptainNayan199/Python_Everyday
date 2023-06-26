@@ -20,4 +20,3 @@ def func():
     pass
 
 func = decorator_function(func)
-
