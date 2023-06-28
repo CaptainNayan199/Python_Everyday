@@ -26,7 +26,7 @@ func = decorator_function(func)
 # Lets see with an example
 
 
-# Here i have an simple function that 
+# Here i have an simple function that prints hello world
 def hell():
     print("Hello from the side of Nayan Pathak")
 
