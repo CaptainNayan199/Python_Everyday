@@ -29,4 +29,5 @@ func = decorator_function(func)
 # Here i have an simple function that prints hello world
 def hell():
     print("Hello from the side of Nayan Pathak")
+    
 
