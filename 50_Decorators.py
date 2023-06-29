@@ -30,5 +30,6 @@ func = decorator_function(func)
 def hell():
     print("Hello from the side of Nayan Pathak")
 
+
     
 
