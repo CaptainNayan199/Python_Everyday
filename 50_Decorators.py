@@ -21,7 +21,7 @@ func = decorator_function(func)
 # Lets see with an example
 
 
-# Here i have a decorator function tht 
+# Here i have a decorator function that takes 
 
 # A simple program that prints hello world
 def hello():
