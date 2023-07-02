@@ -24,3 +24,7 @@ func = decorator_function(func)
 # Here i have an simple function that prints hello world
 def hell():
     print("Hello from the side of Nayan Pathak")
+
+def decor_func(func):
+    def inside_func():
+        print("Before hello this function is going to be shown")
