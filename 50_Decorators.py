@@ -48,3 +48,5 @@ hello()
 # Before hello world this will be printed
 # Hello world from the side of Nayan Pathak 
 # After hello world this will be printed
+
+# So this was all about decorator
