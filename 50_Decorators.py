@@ -29,6 +29,6 @@ def decor_func(func):
         print("Before hello world this will be printed")
         func() #the same function that has been passed as an parameter will be executed here
         print("After hello world this will be printed")
-    return inner_func  #returning the function
+    return inner_func  #returning the inner function as decorator always returns a certain function
 
 # A simple program that prints hello world
