@@ -24,9 +24,6 @@ func = decorator_function(func)
 # Here i have a decorator function that takes 1 arguments
 
 def decor_func(func):
-    # inside this function i will create another 
+    # inside this function i will create another function
 
 # A simple program that prints hello world
-
-def hello():
-    print("Hello world from the side of Nayan Pathak")
