@@ -36,4 +36,4 @@ def decor_func(func):
 # A simple program that prints hello world
 
 def hello():
-    print("Hello world from ")
+    print("Hello world from the side of  ")
