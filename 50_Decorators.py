@@ -43,3 +43,8 @@ def hello():
 hello()
 
 
+# The output of the code above : 
+
+# Before hello world this will be printed
+# Hello world from the side of Nayan Pathak 
+# After hello world this will be printed
