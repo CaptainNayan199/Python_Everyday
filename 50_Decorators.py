@@ -28,5 +28,6 @@ def decor_func(func):
     def inner_func():
         print("Before hello world this will be printed")
         func() #the same function that has been passed as an parameter will be executed here
+        print("After hello world this will be printed")
 
 # A simple program that prints hello world
