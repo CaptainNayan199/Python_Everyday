@@ -26,6 +26,6 @@ func = decorator_function(func)
 def decor_func(func):
     # inside this function i will create another function that will be used to modify the contents of the function 
     def inner_func():
-        print("")
+        print("Before hello world this will be printed")
 
 # A simple program that prints hello world
