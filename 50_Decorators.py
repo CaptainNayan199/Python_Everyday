@@ -1,4 +1,3 @@
-
 # They are a powerful and versatile tool that allows us to modify the behavior of the function and extend its functionality without modifying the code written in that module.
 
 # It always returns a function 
