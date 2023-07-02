@@ -29,3 +29,4 @@ def decor_func(func):
     def inside_func():
         print("Before hello this function is going to be shown")
         func()
+        print("Now after hello this will be shown")
