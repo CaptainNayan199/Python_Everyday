@@ -34,6 +34,6 @@ def decor_func(func):
 
 
 # A simple program that prints hello world
-@decor_func  #Now this one is very important, here we are saying our interpreter that decor_func is an decorator by using the @ symbol, the interpeter will understand it and pass the function that lies below
+@decor_func  #Now this one is very important, here we are saying our interpreter that decor_func is an decorator by using the @ symbol, the interpeter will understand it and pass the function that lies below the 
 def hello():
     print("Hello world from the side of Nayan Pathak ")
