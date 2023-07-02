@@ -37,3 +37,6 @@ def decor_func(func):
 @decor_func  #Now this one is very important, here we are saying our interpreter that decor_func is an decorator by using the @ symbol, the interpeter will understand it and pass the function that lies below the @decor_func as an parameter to the decorator function 
 def hello():
     print("Hello world from the side of Nayan Pathak ")
+
+
+# Now calling the hello function
