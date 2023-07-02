@@ -40,3 +40,6 @@ def hello():
 
 
 # Now calling the hello function
+hello()
+
+
