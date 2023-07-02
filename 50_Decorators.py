@@ -31,4 +31,9 @@ def decor_func(func):
         print("After hello world this will be printed")
     return inner_func  #returning the inner function as decorator always returns a certain function
 
+
+
 # A simple program that prints hello world
+
+def hello():
+    print("Hello world from ")
