@@ -21,7 +21,6 @@ func = decorator_function(func)
 # Lets see with an example
 
 
-
 def decor_func(func):
     def inside_func():
         print("Before hello this function is going to be shown")
