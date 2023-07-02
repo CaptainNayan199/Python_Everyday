@@ -34,6 +34,6 @@ def decor_func(func):
 
 
 # A simple program that prints hello world
-@decor_func  #Now this one is very important
+@decor_func  #Now this one is very important, here we 
 def hello():
     print("Hello world from the side of Nayan Pathak ")
