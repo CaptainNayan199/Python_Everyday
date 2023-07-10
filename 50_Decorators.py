@@ -50,4 +50,4 @@ hello()
 # After hello world this will be printed
 
 # So this was all about decorator in python. Remember it is an very important feature in python programming.
-
+ 
