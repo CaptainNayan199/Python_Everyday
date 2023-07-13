@@ -67,5 +67,6 @@ div(2,0)
 
 # So this much for today! Today we learned about decorators in python
 # Tomorrow we will be dealing with getters and setters in python
+# Thank you! Happy coding!
     
  
