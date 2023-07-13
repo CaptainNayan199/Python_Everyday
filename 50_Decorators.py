@@ -64,5 +64,8 @@ def div(num1, num2):
     print(num1/num2)
 
 div(2,0)
+
+# So this much for today! Today we learned about decorators in python
+# Tomorrow we will be dealing with getters and setters in python
     
  
