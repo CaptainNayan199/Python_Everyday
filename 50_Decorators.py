@@ -51,5 +51,8 @@ hello()
 # So this was all about decorator in python. Remember it is an very important feature in python programming.
 
 
-
+def decorator(fx):
+    def check(a, b):
+        if b==0:
+            print("Cannot be divided by Zero")
  
