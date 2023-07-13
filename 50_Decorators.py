@@ -32,7 +32,6 @@ def decor_func(func):
     return inner_func  #returning the inner function as decorator always returns a certain function
 
 
-
 # A simple program that prints hello world
 @decor_func  #Now this one is very important, here we are saying our interpreter that decor_func is an decorator by using the @ symbol, the interpeter will understand it and pass the function that lies below the @decor_func as an parameter to the decorator function 
 def hello():
