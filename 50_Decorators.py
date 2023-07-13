@@ -55,4 +55,14 @@ def decorator(fx):
     def check(a, b):
         if b==0:
             print("Cannot be divided by Zero")
+        else:
+            fx(a, b)
+    return check
+
+@decorator
+def div(num1, num2):
+    print(num1/num2)
+
+div(2,0)
+    
  
