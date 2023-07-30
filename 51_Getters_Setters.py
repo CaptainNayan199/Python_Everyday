@@ -1,1 +1,1 @@
-# a function that is used to set
+# A function that are used to set any values (return) for any function can be referred to as getters and setters
