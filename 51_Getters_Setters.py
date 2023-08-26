@@ -2,6 +2,8 @@
 
 # Getters in python - It is used to access the value of an object properties. They are used to return the value of a specific property. They are defined using the @property decorator.
 
+# In Python property()is a built-in function that creates and returns a property object. A property object has three methods, getter(), setter(), and delete()
+
 
 class Myclass:
     def __init__(self, value):
