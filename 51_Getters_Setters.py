@@ -21,4 +21,8 @@ print(obj.__age) # here i will get an error, coz i am trying to acces private va
 # But
 
 
+class Enc:
+    age = 20
 
+obj = Enc()
+print(obj.age)
