@@ -7,22 +7,4 @@
 # Python @property is one of the built-in decorators. The main purpose of any decorator is to change your class methods or attributes in such a way so that the user of your class no need to make any change in their code. 
 
 
-class Myclass:
-    def __init__(self, value):
-        self._value = value
-        
-    def shoe(self):
-        print("Value is ", self._value)
-        
-        
-    @property
-    def val(self):
-        return self._value * 100
-    
-    
-
-
-
-obj = Myclass(10)
-obj.shoe()
-print(obj.val)
+# So firstly lets talk about encapsulation -  Encapsulation means wrapping up things, making it private
