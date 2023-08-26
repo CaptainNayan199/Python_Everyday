@@ -15,4 +15,7 @@ class Enc:
     __age = 20
 
 obj = Enc()
-print(obj.__age)
+print(obj.__age) # here i will get an error, coz i am trying to acces private variable which i cannot
+
+
+#  
