@@ -18,4 +18,7 @@ obj = Enc()
 print(obj.__age) # here i will get an error, coz i am trying to acces private variable which i cannot
 
 
-#  
+# But
+
+
+
