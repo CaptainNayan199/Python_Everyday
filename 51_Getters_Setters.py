@@ -8,3 +8,11 @@
 
 
 # So firstly lets talk about encapsulation -  Encapsulation means wrapping up things, making it private
+# In python we can make a private variable by using double underscore __ for example
+
+
+class Enc:
+    __age = 20
+
+obj = Enc()
+print(obj.__age)
