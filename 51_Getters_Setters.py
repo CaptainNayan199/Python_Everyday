@@ -26,4 +26,4 @@ obj = Enc()
 print(obj.age) #here i will not get any error coz i an accessing a normal public unprotected variable by the use of object 
 # Thsi process works for functions inside class as wells
 print(obj.age) #here i will not get any error coz i an accessing a normal public unprotected variable by the use of object 
-# Thsi process works for function as well
+# Thsi process works for function inside class sxas well
