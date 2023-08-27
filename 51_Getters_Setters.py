@@ -37,4 +37,4 @@ class Myclass:
     def __init__ (self):
         print(f"My name is {self.__name} and i am {self.__age} years old.")
         
-obj = Myclass()
+obj = Myclass() # we can access this way only
