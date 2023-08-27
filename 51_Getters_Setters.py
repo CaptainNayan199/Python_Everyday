@@ -30,3 +30,11 @@ print(obj.age) #here i will not get any error coz i an accessing a normal public
 
 
 # if we want to encapsulated variable than we can do by the use of methods or constructor
+
+class Myclass:
+    __name = "Nayan"
+    __age = 20
+    def __init__ (self):
+        print(f"My name is {self.__name} and i am {self.__age} years old.")
+        
+obj = Myclass()
