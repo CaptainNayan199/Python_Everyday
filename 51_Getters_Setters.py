@@ -54,4 +54,14 @@ obj.my_info("MMC") # like this way we can access
 
 
 
+class Myclass:
+    __name = "Nayan"
+    __age = 20
+    def __init__ (self):
+        print(f"My name is {self.__name} and i am {self.__age} years old.")
+    def my_info(self, cllg):
+        self.cllg_name = cllg
+        print(f"My name is {self.__name} and i am {self.__age} years old and i am currently reading in {self.cllg_name} college.")
+
+obj = Myclass()
 print(obj.__name)
