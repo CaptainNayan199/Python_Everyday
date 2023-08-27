@@ -23,4 +23,5 @@ class Enc:
     age = 20
 
 obj = Enc()
-print(obj.age) #here i will not get any error coz i an accessing a normal public unprotected variable by the use of object  
+print(obj.age) #here i will not get any error coz i an accessing a normal public unprotected variable by the use of object 
+# Thsi process works 
