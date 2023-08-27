@@ -51,3 +51,7 @@ class Myclass:
         
 obj = Myclass()
 obj.my_info("MMC") # like this way we can access 
+
+
+
+print(obj.__name)
