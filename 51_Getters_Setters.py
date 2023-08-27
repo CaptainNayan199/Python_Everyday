@@ -27,3 +27,6 @@ print(obj.age) #here i will not get any error coz i an accessing a normal public
 # Thsi process works for functions inside class as wells
 print(obj.age) #here i will not get any error coz i an accessing a normal public unprotected variable by the use of object 
 # Thsi process works for function inside class sxas well
+
+
+# if we want to encapsulated variable than we can do by the use of methods or constructor
