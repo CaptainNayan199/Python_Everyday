@@ -17,12 +17,10 @@ class Enc:
 obj = Enc()
 print(obj.__age) # here i will get an error, coz i am trying to acces private variable which i cannot
 
-
 # But
-
 
 class Enc:
     age = 20
 
 obj = Enc()
-print(obj.age)
+print(obj.age) #here i will not get any error coz i an accessing a normal public unprotected variable by the use of object  
