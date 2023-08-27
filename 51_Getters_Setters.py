@@ -64,4 +64,4 @@ class Myclass:
         print(f"My name is {self.__name} and i am {self.__age} years old and i am currently reading in {self.cllg_name} college.")
 
 obj = Myclass()
-print(obj.__name) # but we cannot access the 
+print(obj.__name) # but we cannot access the variables like this
