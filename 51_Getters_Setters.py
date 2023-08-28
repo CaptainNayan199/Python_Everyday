@@ -112,7 +112,7 @@ class Myclass: # class
         self.__age = None
     
     def f_Setter(self, name, age): # setter function for setting the value 
-        self.__name = name
+        self.__name = name # setting the name value
         self.__age = age
     
     def f_Getter(self):
