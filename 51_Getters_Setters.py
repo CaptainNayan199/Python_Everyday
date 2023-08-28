@@ -83,3 +83,5 @@ class Myclass:
 obj = Myclass()
 obj.__p_method() # but i cannot do this, if i did this, i will get error, cause private variables cannot be used outside of class, even object cannot access them.
 
+# But
+
