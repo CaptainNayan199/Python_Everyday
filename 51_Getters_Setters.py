@@ -106,8 +106,8 @@ obj.printt() # doing this will call public method, and inside of public method i
 # Lets see with example : 
 
 
-class Myclass: 
-    def __inti__(self):
+class Myclass: # class
+    def __inti__(self): #constructo
         self.__name = ""
         self.__age = none
     
