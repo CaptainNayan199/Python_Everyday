@@ -73,11 +73,11 @@ class Myclass:
     def __init__(self): #constructo
         print("This is me inside a constructor")
         
-    def __p_method(self): #private variable made with dunder
-        print("I am a private variable")
+    def __p_method(self): #private methods made with dunder
+        print("I am a private method")
         
-    def printt(self): #public variable
-        print("Hi am a public variable")
+    def printt(self): #public method which is used to access private methods.
+        print("Hi am a public method")
         self.__p_method()
         
 obj = Myclass()
