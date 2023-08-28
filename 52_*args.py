@@ -25,7 +25,7 @@ std_info(age = 20, cllg = "MMC", sem = "4th",name = "Nayan",  num = 375423895723
 
 # *ARGS - eX
 
-def sum(*args):
+def sum(*args): # the name does not play a vital role, we can name it as per our need, but * is a must.
     sum = 0
     for i in args: #ITERATING INSIDE A TUPLE
         sum += i
