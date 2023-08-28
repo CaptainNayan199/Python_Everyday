@@ -16,4 +16,4 @@ def std_info(name, age, cllg, sem, num): # a function that has several parameter
     print("He is in ", sem, " sem")
     print("His contact number is ", num)
 
-std_info("Nayan Pathak",20,"MMC","4th",985432523533) #
+std_info("Nayan Pathak",20,"MMC","4th",985432523533) # so this is non keyword arguments, here we are assigning arguments, with respective to 
