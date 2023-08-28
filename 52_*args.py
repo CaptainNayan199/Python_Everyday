@@ -15,3 +15,5 @@ def std_info(name, age, cllg, sem, num): # a function that has several parameter
     print("He studies in ", cllg, " college")
     print("He is in ", sem, " sem")
     print("His contact number is ", num)
+
+std_info("Nayan Pathak",20,"MMC","4th",9816944821)
