@@ -32,3 +32,9 @@ def sum(*args): # the name does not play a vital role, we can name it as per our
     print(sum)
 
 sum(1,2,3,4,5,6,7,8,9,10)
+
+def std_info(*args):
+    for i in args:
+        print(i)
+    
+std_info("Nayan", 20, "MMC")
