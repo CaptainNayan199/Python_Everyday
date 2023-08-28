@@ -66,3 +66,5 @@ class Myclass:
 obj = Myclass()
 print(obj.__name) # but we cannot access the variables like this, coz its encapsulated
 
+# we can do same for function/methods as well, for example
+
