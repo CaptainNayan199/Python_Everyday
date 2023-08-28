@@ -1,4 +1,4 @@
-# A function that are used to set any values (return) for any function can be referred to as getters and setters, they are not built in function, but are 
+# A function that are used to set any values (return) for any function can be referred to as getters and setters, they are not built in function, but are to be made by the programmers.
 
 # Getters in python - It is used to access the value of an object properties. They are used to return the value of a specific property. They are defined using the @property decorator.
 
