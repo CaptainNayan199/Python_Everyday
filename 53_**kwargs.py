@@ -10,8 +10,9 @@
 
 # Eg 1 : 
 
-def price(**kwargs):
+def price(**kwargs): # all the arguments will be packed as dictionary with keys and respective values
+
     for key, value in kwargs.items():
         print("Price of %s is %s" % (key, value))
 
-price(Apple=200, Mango=400, Grapes=500, Kiwi=1000)
+price(Apple=200, Mango=400, Grapes=500, Kiwi=1000) # key word arguments
