@@ -77,7 +77,7 @@ for key , value in dict.items():
     
 price = {"apple":200, "mango":300, "pomegranate":600}
 for key, value in price.items():
-    print("Price of %s is %s" % (key, value))
+    print("Price of %s is %s" % (key, value)) # integer value is type casted to string and printed
 
 # So yeah this much for today, today we learned about some basic about dictionary.
 # Tomorrow we will learn about some methods in dictionary
