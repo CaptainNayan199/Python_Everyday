@@ -69,3 +69,17 @@ print(obj.__name) # but we cannot access the variables like this, coz its encaps
 
 # we can do same for function/methods as well, for example
 
+class Myclass:
+    def __init__(self): #constructo
+        print("This is me inside a constructor")
+        
+    def __p_method(self):
+        print("I am a private variable")
+        
+    def printt(self):
+        print("Hi am a public variable")
+        self.__p_method()
+        
+obj = Myclass()
+obj.__p_method()
+
