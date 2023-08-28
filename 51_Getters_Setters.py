@@ -113,7 +113,7 @@ class Myclass: # class
     
     def f_Setter(self, name, age): # setter function for setting the value 
         self.__name = name # setting the name value
-        self.__age = age
+        self.__age = age # setting the age value
     
     def f_Getter(self):
         return f"My name is {self.__name} and i am {self.__age} years old."
