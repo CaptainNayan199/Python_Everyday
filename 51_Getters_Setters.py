@@ -127,3 +127,4 @@ print(res) # printing getter function contents.
 # So this is all about setters, getters, and encapsulation.
 # So this is all about today session, sorry i was in a short break, from today i will be continuing the series without leaving a day.
 # Tomorrow we will see about *args in python
+# Thank you! Happy coding!
