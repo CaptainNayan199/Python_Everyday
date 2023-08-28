@@ -16,3 +16,5 @@ def price(**kwargs): # all the arguments will be packed as dictionary with keys 
         print("Price of %s is %s" % (key, value)) 
 
 price(Apple=200, Mango=400, Grapes=500, Kiwi=1000) # key word arguments
+
+# again, kwargs is just the conventional name, we can name it as per our need, but ** is a must.
