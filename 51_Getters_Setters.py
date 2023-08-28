@@ -119,6 +119,6 @@ class Myclass: # class
         return f"My name is {self.__name} and i am {self.__age} years old." #using getter function to access those calues.
 
 obj = Myclass()
-obj.f_Setter("Nayan", 20)
-res = obj.f_Getter()
+obj.f_Setter("Nayan", 20) # passing arguments to setter function
+res = obj.f_Getter() 
 print(res)
