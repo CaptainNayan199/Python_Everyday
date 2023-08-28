@@ -19,7 +19,8 @@ def std_info(name, age, cllg, sem, num): # a function that has several parameter
 std_info("Nayan Pathak",20,"MMC","4th",985432523533) # so this is non keyword arguments, here we are assigning arguments, with respect to parameters in the method
 
 
-std_info(name="Nayan Pathak", age = 20, cllg = "MMC", sem = "4th", num = 35237532573) # so this is a keyword arguments, we are assigning a arguments by defining its parameter, we can change the position or the format of assinging arguments as well in this, but not in non keyword arguments.
+std_info(name="Nayan Pathak", age = 20, cllg = "MMC", sem = "4th", num = 35237532573) # so this is a keyword arguments, A keyword argument is where you provide a name to the variable as you pass it into the function
+# we are assigning a arguments by defining its parameter, we can change the position or the format of assinging arguments as well in this, but not in non keyword arguments.
 
 std_info(age = 20, cllg = "MMC", sem = "4th",name = "Nayan",  num = 375423895723852353)
 
@@ -41,3 +42,6 @@ def std_info(*name):
         print(i)
     
 std_info("Nayan", 20, "MMC")
+
+
+# **kwargs - 
