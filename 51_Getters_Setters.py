@@ -81,5 +81,5 @@ class Myclass:
         self.__p_method() # i can access all the private method by the use of self keyword within the class
         
 obj = Myclass()
-obj.__p_method()
+obj.__p_method() # but i cannot do this, if i did this, i will get error, cause private variables cannot be used outside of class, even object cannot access them.
 
