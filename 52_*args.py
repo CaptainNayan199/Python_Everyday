@@ -44,3 +44,4 @@ def std_info(*name):
 std_info("Nayan", 20, "MMC")
 
 # So yeah this much for today, in next session we will see about **kwargs in brief.
+# Thank you! Happy coding
