@@ -36,8 +36,8 @@ sum(1,2,3,4,5,6,7,8,9,10)
 
 # eg 2 :
 
-def std_info(*args):
-    for i in args:
+def std_info(*name):
+    for i in name:
         print(i)
     
 std_info("Nayan", 20, "MMC")
