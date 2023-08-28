@@ -2,7 +2,7 @@
 #  args - means arguments
 #  so *args is important when we have to accept multiple and differenct types of variables
 # *args is a parameter that accpets multiple non keyword arguments
-# whereas, **kwargs accepts non keyword arguments, we will talk about that later.
+# whereas, **kwargs accepts non keyword arguments, we will talk about that in later session.
 
 # *args will pack all the arguments that it gets inside a tuple( ordered and unchangeable)
 
@@ -16,7 +16,7 @@ def std_info(name, age, cllg, sem, num): # a function that has several parameter
     print("He is in ", sem, " sem")
     print("His contact number is ", num)
 
-std_info("Nayan Pathak",20,"MMC","4th",985432523533) # so this is non keyword arguments, here we are assigning arguments, with respect to parameters in the method
+std_info("Nayan Pathak",20,"MMC","4th",985432523533) # so this is non keyword arguments, here we are assigning arguments, with respect to parameters in the method, also called as positional arguments.
 
 
 std_info(name="Nayan Pathak", age = 20, cllg = "MMC", sem = "4th", num = 35237532573) # so this is a keyword arguments, A keyword argument is where you provide a name to the variable as you pass it into the function
