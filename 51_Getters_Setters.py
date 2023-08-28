@@ -102,4 +102,4 @@ obj.printt() # doing this will call public method, and inside of public method i
 
 
 # Now lets see about getters and setters methods with examples.
-# So basically when there is a private methods or variables then we can use setters to set its value, and getters to get its value.
+# So basically when there is a private methods or variables then we can use setters to set its value, and getters to get its value when calling through objects.
