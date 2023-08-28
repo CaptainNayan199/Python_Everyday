@@ -44,4 +44,7 @@ def std_info(*name):
 std_info("Nayan", 20, "MMC")
 
 
-# **kwargs - 
+# **kwargs - same as *args, but will pack all the arguments into a dictionary, and is basically for keyword arguments
+
+
+# kwargs - keyword arguments
