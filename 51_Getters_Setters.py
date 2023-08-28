@@ -104,3 +104,21 @@ obj.printt() # doing this will call public method, and inside of public method i
 # Now lets see about getters and setters methods with examples.
 # So basically when there is a private methods or variables then we can use setters to set its value, and getters to get its value when calling through objects.
 # Lets see with example : 
+
+
+class Myclass: 
+    def __inti__(self):
+        self.__name = ""
+        self.__age = none
+    
+    def f_Setter(self, name, age):
+        self.__name = name
+        self.__age = age
+    
+    def f_Getter(self):
+        return f"My name is {self.__name} and i am {self.__age} years old."
+
+obj = Myclass()
+obj.f_Setter("Nayan", 20)
+res = obj.f_Getter()
+print(res)
