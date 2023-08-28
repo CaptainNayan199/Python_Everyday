@@ -78,7 +78,7 @@ class Myclass:
         
     def printt(self): #public method which is used to access private methods.
         print("Hi am a public method")
-        self.__p_method()
+        self.__p_method() # i can access all the private method by the use of self keyword 
         
 obj = Myclass()
 obj.__p_method()
