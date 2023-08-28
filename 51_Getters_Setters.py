@@ -98,4 +98,4 @@ class Myclass:
         
 obj = Myclass()
 obj.printt() # doing this will call public method, and inside of public method i can call private or protected methods
-
+# So this was all about encapsulation, it makes sure that no full access is granted, only a bit is granted
