@@ -109,7 +109,7 @@ obj.printt() # doing this will call public method, and inside of public method i
 class Myclass: # class
     def __inti__(self): #constructo
         self.__name = ""
-        self.__age = none
+        self.__age = None
     
     def f_Setter(self, name, age):
         self.__name = name
