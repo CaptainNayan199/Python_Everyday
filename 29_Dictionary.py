@@ -67,6 +67,17 @@ dic1 = {
 for key, value in dic1.items():
     print(f"The value of key {key} are : {value}") #can be accessed in this manner as well.
 
+# ORRRRRRR, dict can also be accessed by this amazing method
+
+dict = {"name":"Nayan", "age":20, "cllg":"MMC"}
+for key , value in dict.items():
+    print(key,"==",value)
+    print("%s == %s" % (key, value)) # by the use of format specifier, any value will be converted to string nd printed
+    
+    
+price = {"apple":200, "mango":300, "pomegranate":600}
+for key, value in price.items():
+    print("Price of %s is %s" % (key, value))
 
 # So yeah this much for today, today we learned about some basic about dictionary.
 # Tomorrow we will learn about some methods in dictionary
