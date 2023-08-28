@@ -116,7 +116,7 @@ class Myclass: # class
         self.__age = age # setting the age value
     
     def f_Getter(self):
-        return f"My name is {self.__name} and i am {self.__age} years old."
+        return f"My name is {self.__name} and i am {self.__age} years old." #using getter function to access those calues.
 
 obj = Myclass()
 obj.f_Setter("Nayan", 20)
