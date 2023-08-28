@@ -121,4 +121,4 @@ class Myclass: # class
 obj = Myclass()
 obj.f_Setter("Nayan", 20) # passing arguments to setter function
 res = obj.f_Getter() 
-print(res)
+print(res) # printing getter function contents.
