@@ -34,6 +34,8 @@ def sum(*args): # the name does not play a vital role, we can name it as per our
 
 sum(1,2,3,4,5,6,7,8,9,10)
 
+# eg 2 :
+
 def std_info(*args):
     for i in args:
         print(i)
