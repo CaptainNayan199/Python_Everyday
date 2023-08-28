@@ -73,10 +73,10 @@ class Myclass:
     def __init__(self): #constructo
         print("This is me inside a constructor")
         
-    def __p_method(self):
+    def __p_method(self): #private variable made with dunder
         print("I am a private variable")
         
-    def printt(self):
+    def printt(self): #public variable
         print("Hi am a public variable")
         self.__p_method()
         
