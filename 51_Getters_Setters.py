@@ -81,7 +81,21 @@ class Myclass:
         self.__p_method() # i can access all the private method by the use of self keyword within the class
         
 obj = Myclass()
-obj.__p_method() # but i cannot do this, if i did this, i will get error, cause private variables cannot be used outside of class, even object cannot access them.
+obj.__p_method() # but i cannot do this, if i did this, i will get error, cause private methods cannot be used outside of class, even object cannot access them.
 
 # But
+
+class Myclass:
+    def __init__(self):
+        print("This is me inside a constructor")
+        
+    def __p_method(self):
+        print("I am a private variable")
+        
+    def printt(self):
+        print("Hi am a public variable")
+        self.__p_method()
+        
+obj = Myclass()
+obj.printt() # doing this will call public method, and inside of public method i can call private or protected methods
 
