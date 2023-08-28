@@ -7,3 +7,11 @@
 # *args will pack all the arguments that it gets inside a tuple
 
 # Lets see about keyword arguments and non keyword arguments
+
+
+def std_info(name, age, cllg, sem, num): # a function that has several parameters
+    print("Student name is ",name)
+    print("He is ", age, " years old")
+    print("He studies in ", cllg, " college")
+    print("He is in ", sem, " sem")
+    print("His contact number is ", num)
