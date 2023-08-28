@@ -23,7 +23,8 @@ std_info(name="Nayan Pathak", age = 20, cllg = "MMC", sem = "4th", num = 3523753
 
 std_info(age = 20, cllg = "MMC", sem = "4th",name = "Nayan",  num = 375423895723852353)
 
-# *ARGS - eX
+# *ARGS - 
+# eg 1 : 
 
 def sum(*args): # the name does not play a vital role, we can name it as per our need, but * is a must.
     sum = 0
