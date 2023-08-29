@@ -104,3 +104,43 @@ print("\n")
 obj = Adult("Ujjwal") #creating an child class object, but for parent class as one arguments is being provided.
 obj.showName()
 print(f"My marrital status is {object.isMarried()}")
+
+
+# Example 2:
+
+class Sum:
+    def __init__(self,a, b):
+        self.a = a
+        self.b  = b
+    def sum(self):
+        sum = self.a + self.b
+        print("The sum is ", sum)
+        
+class Summ:
+    def __init__(self,a, b,c):
+        self.a = a
+        self.b  = b
+        self.c  = c
+    def sum(self):
+        sum = self.a + self.b + self.c
+        print("The sum is ", sum)
+
+class Child(Sum):
+    def abc(self):
+        print("I am from Child class")
+        
+class Childd(Summ):
+    def abc(self):
+        print("I am from Childd class")
+        
+object = Child(1,2)
+object.sum()
+object.abc()
+
+object = Childd(1,2,3)
+object.sum()
+ 
+        
+
+    
+    
