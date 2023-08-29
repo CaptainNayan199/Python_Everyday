@@ -169,6 +169,7 @@ obj.sum()
 
 
 # So yeah this was it for today, today we learned about inheritance in brief
+# Tomorrow we will be looking at access modifiers in python
 
 
 
