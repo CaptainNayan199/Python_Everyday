@@ -25,3 +25,5 @@ obj = Child() #making child object
 obj.Child_method() #accessing child methods with child objects.
 
 obj.parent_method() #accessing parent method with child class.
+
+# So this was about single inheritance.
