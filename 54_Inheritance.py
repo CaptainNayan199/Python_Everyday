@@ -50,4 +50,4 @@ obj.Child_method() # accessing child class method with 3rd class object
 obj.parent_method() #accessing parent class method with 3rd class object.
 
 
-# Multiple inheritance - It is a type of inheritance where class C is inheriting Both class A and B, 
+# Multiple inheritance - It is a type of inheritance where class C is inheriting Both class A and B, a single class can inherit multiple(more than 2) class at the same time, the class to be inheritated needs to be placed inside a parenthesis seperated by comma.
