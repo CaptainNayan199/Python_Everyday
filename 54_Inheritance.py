@@ -101,6 +101,6 @@ print(f"My marrital status is {object.isMarried()}")
 
 print("\n")
 
-obj = Adult("Ujjwal") #creating an child class object
+obj = Adult("Ujjwal") #creating an child class object, but for parent class as one arguments is being provided.
 obj.showName()
 print(f"My marrital status is {object.isMarried()}")
