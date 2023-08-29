@@ -7,3 +7,6 @@
 # A child class can access or inherit all the public and protected properties of the parent class
 
 # There are several types of inheritance, some of them are single level, multi level, multiple, hybrid, hierarchial.
+
+
+# Single inheritance : child class 
