@@ -91,7 +91,7 @@ class Teen: # this is our parent class.
     def isMarried(self):
         return False
     
-class Adult(Teen):
+class Adult(Teen): #this is our child class and it is inheriting parent class Teen
     def isMarried(self):
         return True
         
