@@ -144,6 +144,29 @@ object.sum()
 # Now providing value for parent class constructor from child class.
 # we use - parent_class.__init__(arguments)
 
+class Sum:
+    def __init__(self,a, b):
+        self.a = a
+        self.b  = b
+
+    def sum(self):
+        sum = self.a + self.b
+        print("The sum is ", sum)
+        
+class Child(Sum):
+    
+    def __init__(self, a, b, name):
+        self.name = name
+        Sum.__init__(self,a,b)
+        
+    def Display(self):
+        print("My name is ", self.name)
+
+obj = Child(2, 3 ,"Nayan")
+obj.Display()
+obj.sum()
+
+
 
         
 
