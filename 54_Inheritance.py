@@ -81,7 +81,7 @@ OBJ.from_d()
 
 # Another example of inheritance
 
-class Teen:
+class Teen: # this is our parent class.
     def __init__(self, name):
         self.name = name
         
