@@ -8,6 +8,8 @@
 
 # There are several types of inheritance, some of them are single level, multi level, multiple, hybrid, hierarchial.
 
+# The class that needs to be inheritated should be placed inside a parenthesis.
+
 
 # Single inheritance : child class inherits single parent class
 # Eg:
@@ -16,7 +18,7 @@ class Parent:
     def parent_method(self):
         print("Hello from parent class.")
 
-class Child(Parent):
+class Child(Parent): #child class in inheriting parent class.
     def Child_method(self):
         print("Hello from Child class.")
 
