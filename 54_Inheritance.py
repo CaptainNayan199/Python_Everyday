@@ -28,7 +28,7 @@ obj.parent_method() #accessing parent method with child class.
 
 # So this was about single inheritance.
 
-# Multi level inheritance - It is a type of inheritance where
+# Multi level inheritance - It is a type of inheritance where A class is being inherited by B class 
 
 class Parent:
     def parent_method(self):
