@@ -140,6 +140,11 @@ object.abc()
 object = Childd(1,2,3)
 object.sum()
  
+
+# Now providing value for parent class constructor from child class.
+# we use - parent_class.__init__(arguments)
+
+
         
 
     
