@@ -76,3 +76,5 @@ OBJ.from_a()
 OBJ.from_b()
 OBJ.from_c()
 OBJ.from_d()
+
+# So this was about multiple inheritance
