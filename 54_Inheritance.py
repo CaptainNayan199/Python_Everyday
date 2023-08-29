@@ -27,3 +27,22 @@ obj.Child_method() #accessing child methods with child objects.
 obj.parent_method() #accessing parent method with child class.
 
 # So this was about single inheritance.
+
+# Multi level inheritance - Eg:
+
+class Parent:
+    def parent_method(self):
+        print("Hello from parent class.") 
+        
+class Child(Parent):
+    def Child_method(self):
+        print("Hello from Child class.")
+
+class Children(Child):
+    def children_method(self):
+        print("Hello from Children class")
+
+obj = Children() #creating  3rd class object
+obj.children_method() #accessing 
+obj.Child_method()
+obj.parent_method()
