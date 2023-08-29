@@ -168,7 +168,7 @@ obj.Display()
 obj.sum()
 
 
-# So yeah this was it for today
+# So yeah this was it for today, today we learned about inheritance in brief
 
 
 
