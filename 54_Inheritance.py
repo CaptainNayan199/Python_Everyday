@@ -78,3 +78,29 @@ OBJ.from_c()
 OBJ.from_d()
 
 # So this was about multiple inheritance
+
+# Another example of inheritance
+
+class Teen:
+    def __init__(self, name):
+        self.name = name
+        
+    def showName(self):
+        print("My name is "+self.name)
+    
+    def isMarried(self):
+        return False
+    
+class Adult(Teen):
+    def isMarried(self):
+        return True
+        
+object = Teen("Nayan") #creating an parent class object
+object.showName()
+print(f"My marrital status is {object.isMarried()}")
+
+print("\n")
+
+obj = Adult("Ujjwal") #creating an child class object
+obj.showName()
+print(f"My marrital status is {object.isMarried()}")
