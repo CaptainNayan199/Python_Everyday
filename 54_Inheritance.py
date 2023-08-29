@@ -43,6 +43,6 @@ class Children(Child):
         print("Hello from Children class")
 
 obj = Children() #creating  3rd class object
-obj.children_method() #accessing 
+obj.children_method() #accessing 3rd class methods
 obj.Child_method()
 obj.parent_method()
