@@ -154,10 +154,11 @@ class Sum:
         print("The sum is ", sum)
         
 class Child(Sum):
-    
+
     def __init__(self, a, b, name):
         self.name = name
-        Sum.__init__(self,a,b)
+
+        Sum.__init__(self,a,b) #invoking parent class and providing arguments as well from the child class
         
     def Display(self):
         print("My name is ", self.name)
