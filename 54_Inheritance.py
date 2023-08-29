@@ -22,6 +22,6 @@ class Child(Parent):
 
 obj = Child() #making child object
 
-obj.Child_method()
+obj.Child_method() #accessing child methods with child objects.
 
 obj.parent_method()
