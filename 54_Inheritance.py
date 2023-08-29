@@ -67,7 +67,7 @@ class D:
         print("Hello from child D")
 
 
-class C(A, B, D):
+class C(A, B, D): #class c is inheriting A, B and D class at the same time.
     def from_c(self):
         print("Hello from child C")
         
