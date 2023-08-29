@@ -20,7 +20,7 @@ class Child(Parent):
     def Child_method(self):
         print("Hello from Child class.")
 
-obj = Child()
+obj = Child() #making child object
 
 obj.Child_method()
 
