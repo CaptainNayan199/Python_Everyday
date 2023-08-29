@@ -9,4 +9,19 @@
 # There are several types of inheritance, some of them are single level, multi level, multiple, hybrid, hierarchial.
 
 
-# Single inheritance : child class 
+# Single inheritance : child class inherits single parent class
+# Eg:
+
+class Parent:
+    def parent_method(self):
+        print("Hello from parent class.")
+
+class Child(Parent):
+    def Child_method(self):
+        print("Hello from Child class.")
+
+obj = Child()
+
+obj.Child_method()
+
+obj.parent_method()
