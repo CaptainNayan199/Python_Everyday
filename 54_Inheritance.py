@@ -168,6 +168,9 @@ obj.Display()
 obj.sum()
 
 
+# So yeah this was it for today
+
+
 
         
 
