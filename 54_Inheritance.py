@@ -51,3 +51,28 @@ obj.parent_method() #accessing parent class method with 3rd class object.
 
 
 # Multiple inheritance - It is a type of inheritance where class C is inheriting Both class A and B, a single class can inherit multiple(more than 2) class at the same time, the class to be inheritated needs to be placed inside a parenthesis seperated by comma.
+
+# Eg:
+
+class A:
+    def from_a(self):
+        print("Hello from class A")
+
+class B:
+    def from_b(self):
+        print("Hello from child B")
+        
+class D:
+    def from_d(self):
+        print("Hello from child D")
+
+
+class C(A, B, D):
+    def from_c(self):
+        print("Hello from child C")
+        
+OBJ = C()
+OBJ.from_a()
+OBJ.from_b()
+OBJ.from_c()
+OBJ.from_d()
