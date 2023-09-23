@@ -57,5 +57,5 @@ obj._name #calling protected attributes.
 
 
 
-
+# So yeah this is it all about access modifiers in python
 # Remember there is no fix term as public private protected in python prgramming, it is just an simple convention used by developers/programmers/people for effective coding.
