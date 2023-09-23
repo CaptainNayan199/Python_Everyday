@@ -23,8 +23,8 @@ print(obj.name) #so it's simple, no any issue, just prints the attribute value
 
 class Nayan:
     def myname(self):
-       # self.__name = "Nayan"
+       self.__name = "Nayan"
        
 obj = Nayan()
 obj.myname()
-print(obj.name)
+print(obj.__name) #now this will give error, as we cannot directly access the private attributes of a class.
