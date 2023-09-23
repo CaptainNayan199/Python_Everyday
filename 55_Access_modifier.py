@@ -6,3 +6,16 @@
 
 
 # Imp - There is no private like thing in python, however naming variable or method by using dunder (double underscore ) is consider a good practice for private access, however it can be accessed in some ways. Let's see with an example.
+
+# Let's see with an example 
+
+class Nayan:
+    def myname(self):
+        # self.__name = "Nayan"
+        self.name = "Nayan"
+
+obj = Nayan()
+obj.myname()
+print(obj.name) #so it's simple, no any issue, just prints the attribute value
+
+# But
