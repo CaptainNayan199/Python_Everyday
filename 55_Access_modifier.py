@@ -28,3 +28,4 @@ class Nayan:
 obj = Nayan()
 obj.myname()
 print(obj.__name) #now this will give error, as we cannot directly access the private attributes of a class.
+# But it can be accessed in indirect ways
