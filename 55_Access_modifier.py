@@ -18,4 +18,4 @@ obj = Nayan()
 obj.myname()
 print(obj.name) #so it's simple, no any issue, just prints the attribute value
 
-# But
+# But now let's make the attribute of the method private by using dunder and try accessing it.
