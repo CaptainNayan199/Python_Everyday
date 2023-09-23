@@ -40,3 +40,6 @@ obj.myname()
 print(obj._Nayan__name) #So this is called as name-mangling approach in python, typically this is not consider good practice but yeah knowing it might be a good work as well.
 
 # In Python, when you prefix an instance variable with a double underscore like __name, Python performs name mangling to make it more difficult to accidentally override the attribute in subclasses. Name mangling adds a prefix to the variable name, based on the class name, to make it unique.
+
+# So accesing private variable or attribute from outside the class must require name mangling.
+# It involves `_ClassName__attribute name`
