@@ -5,4 +5,4 @@
 # Private properties cannot be accessed outside of class, protected works within class.
 
 
-
+# Imp - There is no private like thing in python, however naming variable or method by using dunder (double underscore ) is consider a good practice for private access, however it can be accessed in some ways. Let's see with an example.
