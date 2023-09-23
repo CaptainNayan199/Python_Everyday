@@ -43,3 +43,9 @@ print(obj._Nayan__name) #So this is called as name-mangling approach in python, 
 
 # So accesing private variable or attribute from outside the class must require name mangling.
 # It involves `_ClassName__attribute name`
+
+
+
+
+
+# Remember there is no fix term as public private protected in python prgramming, it is just an simple convention used by developers/programmers/people for effective coding.
