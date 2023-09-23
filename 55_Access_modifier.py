@@ -45,6 +45,16 @@ print(obj._Nayan__name) #So this is called as name-mangling approach in python, 
 # It involves `_ClassName__attribute name`
 
 
+# Protected
+
+class Nayan:
+    def _myname(self):
+        self._name = "Nayan"
+
+obj = Nayan()
+obj._myname()
+obj._name
+
 
 
 
