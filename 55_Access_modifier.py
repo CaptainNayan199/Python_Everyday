@@ -48,12 +48,12 @@ print(obj._Nayan__name) #So this is called as name-mangling approach in python, 
 # Protected
 
 class Nayan:
-    def _myname(self):
+    def _myname(self): # just a simple python convention for making a method protected. It is not a rules set by python, it may differ according to the user, it is relative.
         self._name = "Nayan"
 
 obj = Nayan()
 obj._myname()
-obj._name
+obj._name #calling protected attributes.
 
 
 
