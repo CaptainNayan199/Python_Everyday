@@ -18,3 +18,5 @@ print(obj.name)
 # Calling static methods
 print(obj.opr(1,2)) # so we can call this this way or
 print(Myclass.opr(1,2)) #this way as well
+
+# So yeah this is it! It's simple, not very detailed, i hope the concept of static method is clear
