@@ -1,1 +1,1 @@
-# So today we are going to see about static methods in python
+# So today we are going to see about static methods in python. What are they and what do they do ?
