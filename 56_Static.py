@@ -2,3 +2,19 @@
 # Static methods can be directly called, no need to make an instance, even though they lie inside class.
 # Let's see with an example : 
 
+class Myclass:
+    def myname(self):
+        self.name = "Nayan"
+    
+    @staticmethod
+    def opr(a, b): #no need to include self as an argument, because we are making an static method
+        sum = a+b
+        return sum
+
+obj = Myclass()
+obj.myname()
+print(obj.name)
+
+# Calling static methods
+print(obj.opr(1,2)) # so we can call this this way or
+print(Myclass.opr(1,2)) #this way as well
