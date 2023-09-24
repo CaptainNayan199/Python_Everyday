@@ -21,3 +21,4 @@ print(Myclass.opr(1,2)) #this way as well
 
 # So yeah this is it! It's simple, not very detailed, i hope the concept of static method is clear
 # On the next session we will be looking at class variables and how it is different from instance variables.
+# Thank you ! Happy coding !
