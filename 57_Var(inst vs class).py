@@ -4,7 +4,7 @@
 # Class variables : They are those types of variables that are defined at the class level and are shared among all the instances of the class. Every instances of that class can enjoy that variables. Let's see with an example : 
 
 class Myclass:
-    total = 40
+    total = 40 #so this all variables are class level variables
     name = "Nayan"
     age = 22
     def __init__(self):
