@@ -29,4 +29,5 @@ class Myclass:
 obj = Myclass(40, "Nayan", 22) # see here these are the variables passed as an arguments
 obj2 = Myclass(30, "Ujjwal", 20)
 
-# Different instances can have different variables 
+# Different instances can have different variables, depending upon the requirement.
+# Just remember : Class variables are available for every instances of the class, but instance variables are also for instances but different instances can have different variables values.
