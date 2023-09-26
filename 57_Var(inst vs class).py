@@ -31,3 +31,4 @@ obj2 = Myclass(30, "Ujjwal", 20)
 
 # Different instances can have different variables, depending upon the requirement.
 # Just remember : Class variables are available for every instances of the class, but instance variables are also for instances but different instances can have different variables values.
+# So yeah this is it all about 
