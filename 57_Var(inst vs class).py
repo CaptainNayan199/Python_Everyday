@@ -11,4 +11,5 @@ class Myclass:
         print(f"My name is {self.name} and i am {self.age} years old and there are {self.total} students in my class")
         
 obj = Myclass()
+obj2 = Myclass()   #all the instances of the class Myclass can access those calss level variables
     
