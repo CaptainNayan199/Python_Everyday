@@ -28,3 +28,5 @@ class Myclass:
         
 obj = Myclass(40, "Nayan", 22) # see here these are the variables passed as an arguments
 obj2 = Myclass(30, "Ujjwal", 20)
+
+# Different instances can have different variables 
