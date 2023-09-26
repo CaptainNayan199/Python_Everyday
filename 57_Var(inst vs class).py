@@ -26,5 +26,5 @@ class Myclass:
         self.age = age
         print(f"My name is {self.name} and i am {self.age} years old and there are {self.total} students in my class")
         
-obj = Myclass(40, "Nayan", 22) # see here
+obj = Myclass(40, "Nayan", 22) # see here these are the variables passed as an arguments
 obj2 = Myclass(30, "Ujjwal", 20)
