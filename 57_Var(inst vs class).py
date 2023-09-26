@@ -14,3 +14,4 @@ obj = Myclass()
 obj2 = Myclass()   #all the instances of the class Myclass can access those calss level variables
     
 # Instance level variables - They are the variables of instances/objects. Each instances or objects can have unique and different variables and their respective values accordingly
+# Let's see with an example, i will modify the above example a bit to show it
