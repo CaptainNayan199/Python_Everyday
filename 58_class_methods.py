@@ -1,1 +1,1 @@
-# class methods are special kinds of methods that belongs to class itself
+# class methods are special kinds of methods that belongs to class itself.
