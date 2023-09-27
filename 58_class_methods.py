@@ -34,5 +34,5 @@ MyClass.class_method(5, "Ujjwal")
 print(MyClass.class_variable)  # Output is 15
 print(MyClass.myname) #output is "Ujjwal"
 
-# It's simple
+# It's simple think 
 
