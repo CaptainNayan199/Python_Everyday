@@ -17,7 +17,7 @@ class MyClass:
   @classmethod
   def class_method(cls, x, name): #takes first argument as class
     cls.class_variable += x #updating the class variable value
-    cls.myname = name
+    cls.myname = name #updating the myname values
 
 
 
