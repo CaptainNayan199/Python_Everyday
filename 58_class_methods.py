@@ -3,3 +3,4 @@
 # The can be called inside a class, without need to define or create an object
 
 # Why to create class methods ? 
+# To modify class level variables
