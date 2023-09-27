@@ -25,10 +25,10 @@ class MyClass:
 obj1 = MyClass(10)
 
 print(MyClass.class_variable) #this will print 10
-print(MyClass.myname) 
+print(MyClass.myname) #this will print Nayan
 
 # Call the class method on the class itself
-MyClass.class_method(5, "Ujjwal")
+MyClass.class_method(5, "Ujjwal") 
 
 # Access class-level variables
 print(MyClass.class_variable)  # Output: 5
