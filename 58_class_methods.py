@@ -30,7 +30,7 @@ print(MyClass.myname) #this will print Nayan
 # Call the class method on the class itself
 MyClass.class_method(5, "Ujjwal") 
 
-# Access class-level variables
-print(MyClass.class_variable)  # Output: 5
+# Access classlevel variables
+print(MyClass.class_variable)  # Output 15
 print(MyClass.myname)
 
