@@ -9,7 +9,7 @@
 
 class MyClass:
   class_variable = 10  # Class-level variable
-  myname = "Nayan"
+  myname = "Nayan"  #class level variable
   
   def __init__(self, value):
     self.instance_variable = value
