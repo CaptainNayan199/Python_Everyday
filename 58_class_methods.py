@@ -34,5 +34,5 @@ MyClass.class_method(5, "Ujjwal")
 print(MyClass.class_variable)  # Output is 15
 print(MyClass.myname) #output is "Ujjwal"
 
-# It's simple think class method as an function, that is called outside of a class (primarily), and no objects needs to be made when calling it
+# It's simple think class method as an function, that is called outside of a class (primarily), and no objects needs to be made when calling it, and they are simply used to change/alter/edit the
 
