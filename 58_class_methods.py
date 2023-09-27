@@ -17,3 +17,8 @@ class Myclass:
     @classmethod #this decorator is must, it takes cl as 
     def class_method(cls, x):
         cls.class_variable += x
+
+
+# Now let's create an object
+
+object = Myclass(50)
