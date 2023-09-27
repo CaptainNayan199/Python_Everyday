@@ -14,6 +14,6 @@ class Myclass:
         self.instance_variable = a
     
 
-    @classmethod
-    def class_method(cl, x):
-        cl.class_variable += x
+    @classmethod #this decorator is must, it takes cl as 
+    def class_method(cls, x):
+        cls.class_variable += x
