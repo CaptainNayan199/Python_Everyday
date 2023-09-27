@@ -24,8 +24,8 @@ class MyClass:
 # Create instances of MyClass
 obj1 = MyClass(10)
 
-print(MyClass.class_variable) #this will print
-print(MyClass.myname)
+print(MyClass.class_variable) #this will print 10
+print(MyClass.myname) 
 
 # Call the class method on the class itself
 MyClass.class_method(5, "Ujjwal")
