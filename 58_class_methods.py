@@ -5,4 +5,4 @@
 # Why to create class methods ? 
 # To modify class level variables
 
-# How to create a class methods? - to create a class method in python we should use @classmethod as a decorator
+# How to create a class methods? - to create a class method in python we should use @classmethod as a decorator, and it should have the  class itself (usually named cls) as its first argument. Here's a simple example:
