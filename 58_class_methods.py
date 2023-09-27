@@ -10,4 +10,7 @@
 class Myclass:
     class_variable = 10 # a class level variable with its value 10
 
-    def __init__(self, )
+    def __init__(self, a):
+        self.instance_variable = a
+    
+    
