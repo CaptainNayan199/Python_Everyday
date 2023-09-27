@@ -8,14 +8,14 @@
 # How to create a class methods? - to create a class method in python we should use @classmethod as a decorator, and it should have the  class itself (usually named cls, or you can give any name) as its first argument. Here's a simple example:
 
 class MyClass:
-  class_variable = 10  # Class-level variable
+  class_variable = 10  # Class level variable
   myname = "Nayan"  #class level variable
   
   def __init__(self, value):
     self.instance_variable = value
 
   @classmethod
-  def class_method(cls, x, name):
+  def class_method(cls, x, name): #takes first argument as class
     cls.class_variable += x
     cls.myname = name
 
