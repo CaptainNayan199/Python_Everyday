@@ -31,6 +31,6 @@ print(MyClass.myname) #this will print Nayan
 MyClass.class_method(5, "Ujjwal") 
 
 # Access classlevel variables
-print(MyClass.class_variable)  # Output 15
-print(MyClass.myname)
+print(MyClass.class_variable)  # Output is 15
+print(MyClass.myname) #output is 
 
