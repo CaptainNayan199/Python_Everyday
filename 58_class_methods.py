@@ -5,4 +5,4 @@
 # Why to create class methods ? 
 # To modify class level variables
 
-# How to create a class methods? - 
+# How to create a class methods? - to create a class method in python
