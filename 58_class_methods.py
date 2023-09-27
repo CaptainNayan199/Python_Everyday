@@ -4,3 +4,5 @@
 
 # Why to create class methods ? 
 # To modify class level variables
+
+# How to create a class methods? - 
