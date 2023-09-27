@@ -32,5 +32,5 @@ MyClass.class_method(5, "Ujjwal")
 
 # Access classlevel variables
 print(MyClass.class_variable)  # Output is 15
-print(MyClass.myname) #output is 
+print(MyClass.myname) #output is "Ujjwal"
 
