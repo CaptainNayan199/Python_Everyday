@@ -7,18 +7,32 @@
 
 # How to create a class methods? - to create a class method in python we should use @classmethod as a decorator, and it should have the  class itself (usually named cls, or you can give any name) as its first argument. Here's a simple example:
 
-class Myclass:
-    class_variable = 10 # a class level variable with its value 10
+class MyClass:
+  class_variable = 10  # Class-level variable
+  myname = "Nayan"
+  
+  def __init__(self, value):
+    self.instance_variable = value
 
-    def __init__(self, a):
-        self.instance_variable = a
-    
-
-    @classmethod #this decorator is must, it takes cl as 
-    def class_method(cls, x):
-        cls.class_variable += x
+  @classmethod
+  def class_method(cls, x, name):
+    cls.class_variable += x
+    cls.myname = name
 
 
-# Now let's create an object
 
-object = Myclass(50)
+# Create instances of MyClass
+obj1 = MyClass(10)
+obj2 = MyClass(20)
+
+
+print(MyClass.class_variable)
+print(MyClass.myname)
+
+# Call the class method on the class itself
+MyClass.class_method(5, "Ujjwal")
+
+# Access class-level variables
+print(MyClass.class_variable)  # Output: 5
+print(MyClass.myname)
+
