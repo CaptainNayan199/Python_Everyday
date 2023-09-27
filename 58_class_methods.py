@@ -23,7 +23,7 @@ class MyClass:
 
 # Create instances of MyClass
 obj1 = MyClass(10)
-obj2 = MyClass(20)
+
 
 
 print(MyClass.class_variable)
