@@ -13,5 +13,7 @@ class Myclass:
     def __init__(self, a):
         self.instance_variable = a
     
+
+    @classmethod
     def class_method(cl, x):
         cl.class_variable += x
