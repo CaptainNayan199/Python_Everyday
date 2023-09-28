@@ -3,3 +3,5 @@
 
 # dir() methods - it is a built-in function in python that is used for object introspection(means looking what operation we can perform on objects). Dir() stands for directory as it lists all the essentials methods that can be performed under certain objects.
 
+name = "Nayan"
+print(dir(name))
