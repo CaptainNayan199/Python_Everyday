@@ -104,5 +104,5 @@ class Child(Parent):
 child_object = Child("Nayan", 22, 58738)
 
 
-# So yeah this is it. 
+# So yeah this is it about super() method in python,
 
