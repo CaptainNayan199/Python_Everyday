@@ -32,3 +32,5 @@ print(f"My name is {People1.name} and my age is {People1.age}")
 # Now lets use class method
 People2 = People.birthYear("Ujjwal", 2002)
 print(f"My name is {People2.name} and my age is {People2.age}")
+
+# So yeah this is it. Today we learned how we can
