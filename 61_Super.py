@@ -60,3 +60,23 @@ class Child(Parent):
 child_obj = Child()
 child_obj.cMethod()
 child_obj.pMethod() #this will print Heyyyyy, coz it has its own pMethod
+
+
+# But what if child class didnt have pmethod() ? 
+
+class Parent:
+
+  def pMethod(self):
+    print("I am parent method")
+
+
+class Child(Parent):
+
+  def cMethod(self):
+    print("I am child method")
+    super().pMethod()
+
+
+child_obj = Child()
+child_obj.cMethod()
+child_obj.pMethod() #this will print 
