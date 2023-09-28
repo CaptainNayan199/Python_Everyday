@@ -80,3 +80,26 @@ class Child(Parent):
 child_obj = Child()
 child_obj.cMethod()
 child_obj.pMethod() #this will print "I am parent method" why ? because parent class doen not have its own pMethod(), so it inherits from the parent class.
+
+# We can even access parent class constructor using the child class, how ? let's see it
+
+class Parent:
+
+  def __init__(self, name, age):  #this is parent class constructor
+    self.name = name
+    self.age = age
+    print(
+        f"Hey myself {self.name} here, i am {self.age} years old. I got this values from my sub class"
+    )
+
+
+class Child(Parent):
+
+  def __init__(self, name, age, number):
+    super().__init__(name, age)
+    self.number = number
+    print(f"My number is {self.number}. I got this value from child class")
+
+
+child_object = Child("Nayan", 22, 58738)
+
