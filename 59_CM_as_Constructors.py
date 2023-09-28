@@ -1,0 +1,1 @@
+# In previous session we talked about class methods - they are those types of methods that belongs to the class itself rather than to the instances of the class.
