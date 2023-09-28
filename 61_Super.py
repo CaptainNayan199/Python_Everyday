@@ -17,6 +17,25 @@ child_obj  = Child()
 child_obj.cMethod()
 
 
-# But we can do same thing from the use of super() method as well.
+# But we can do same thing from the use of super() method as well. Let's see it : 
+
+class Parent:
+  name = "Nayan"
+  def pMethod(self):
+    print("I am parent method")
+
+class Child(Parent):
+  def cMethod(self):
+    print("I am child method")
+    # Parent().pMethod()
+    # self.pMethod()
+    # print(self.name)
+    # print(Parent().name)
+    super().pMethod() #this can access the parent method
+    print(super().name) #this can access the parent attributes, ezpz
+
+
+child_obj  = Child()
+child_obj.cMethod()
 
 
