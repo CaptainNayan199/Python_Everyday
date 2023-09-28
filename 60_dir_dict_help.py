@@ -74,3 +74,4 @@ print(help(Myclass)) # so now this gives all information about the class Myclass
 
 
 # So yeah this is it about 3 important methods that is used prominently while programming in python. Hope we all understood it 😁, it's simple, not so mess. Tomorrow we will be looking at super keyword in python
+# Thaqnk you! Happy coding !
