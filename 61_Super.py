@@ -12,6 +12,7 @@ class Child(Parent):
     self.pMethod() #this method can also access the parent method
     print(self.name) #this method can access the attributes of the parent class.
 
-
 child_obj  = Child()
 child_obj.cMethod()
+
+
