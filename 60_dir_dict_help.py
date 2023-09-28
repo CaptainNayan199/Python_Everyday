@@ -33,3 +33,5 @@ print(obj.num)
 
 print(obj.__dict__) # {'name': 'Nayan', 'age': 22, 'num': 98713}
 
+# help() method - 
+
