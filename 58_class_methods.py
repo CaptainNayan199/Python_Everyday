@@ -37,5 +37,5 @@ print(MyClass.myname) #output is "Ujjwal"
 
 # It's simple think class method as an function, that is called outside of a class (primarily), and no objects needs to be made when calling it, and they are simply used to change/alter/edit the class level variables in python
 
-# So yeah this is it for today! Tomorrow
+# So yeah this is it for today! Tomorrow we will be looking on how we can use class methods as an constructors
 
