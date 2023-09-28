@@ -13,3 +13,5 @@ name = "Nayan"
 print(dir(name))
 
 print(name.__len__())  # 5
+
+# dict() attribute - 
