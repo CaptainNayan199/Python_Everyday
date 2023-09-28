@@ -1,0 +1,1 @@
+# Today we are going to see about some important methods that are used mostly in python
