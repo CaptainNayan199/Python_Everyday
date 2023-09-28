@@ -34,4 +34,5 @@ People2 = People.birthYear("Ujjwal", 2002)
 print(f"My name is {People2.name} and my age is {People2.age}")
 
 # So yeah this is it. Today we learned how we can use classmethods as aditional constructor as well.
-# Tomorrow 
+# Tomorrow we will be looking at some methods in python that are very important
+
