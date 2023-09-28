@@ -33,5 +33,20 @@ print(obj.num)
 
 print(obj.__dict__) # {'name': 'Nayan', 'age': 22, 'num': 98713}
 
-# help() method - 
+# help() method - this method is used to get information about objects, classes, attributes, methods, and all the information about certain elements.
+
+class Myclass:
+
+  def __init__(self, name, age, num):
+    self.name = name
+    self.age = age
+    self.num = num
+
+  def myMethod(self):
+    print("Hello I am a method of Myclass class")
+
+
+obj = Myclass("Nayan", 22, 23523)
+
+print(help(Myclass))
 
