@@ -48,5 +48,5 @@ class Myclass:
 
 obj = Myclass("Nayan", 22, 23523)
 
-print(help(Myclass))
+print(help(Myclass)) # so now this gives all information about the class Myclass, we can ask help about dict, tuples, string, integers, objects, and many others things.
 
