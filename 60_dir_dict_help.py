@@ -49,4 +49,28 @@ class Myclass:
 obj = Myclass("Nayan", 22, 23523)
 
 print(help(Myclass)) # so now this gives all information about the class Myclass, we can ask help about dict, tuples, string, integers, objects, and many others things.
+# Output ------>   
 
+# Help on class Myclass in module __main__:
+
+# class Myclass(builtins.object)
+#  |  Myclass(name, age, num)
+#  |  
+#  |  Methods defined here:
+#  |  
+#  |  __init__(self, name, age, num)
+#  |      Initialize self.  See help(type(self)) for accurate signature.
+#  |  
+#  |  myMethod(self)
+#  |  
+#  |  ----------------------------------------------------------------------
+#  |  Data descriptors defined here:
+#  |  
+#  |  __dict__
+#  |      dictionary for instance variables (if defined)
+#  |  
+#  |  __weakref__
+#  |      list of weak references to the object (if defined)
+
+
+# So yeah this is it about 3 important methods that is used prominently while programming in python.
