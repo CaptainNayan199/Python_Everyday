@@ -104,5 +104,5 @@ class Child(Parent):
 child_object = Child("Nayan", 22, 58738)
 
 
-# So yeah this is it about super() method in python,
+# So yeah this is it about super() method in python, it's a very important methods when we are dealing with several class 
 
