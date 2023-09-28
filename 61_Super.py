@@ -79,4 +79,4 @@ class Child(Parent):
 
 child_obj = Child()
 child_obj.cMethod()
-child_obj.pMethod() #this will print 
+child_obj.pMethod() #this will print "I am parent method" why ? because parent class doen not have its own pMethod(), so it inherits from the parent class.
