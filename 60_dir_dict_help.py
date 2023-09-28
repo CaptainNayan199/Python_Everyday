@@ -14,4 +14,4 @@ print(dir(name))
 
 print(name.__len__())  # 5
 
-# dict() attribute - In Python, the dict (dictionary) is a built-in data type used to store key-value pairs. A dictionary is a mutable, unordered collection of items where each item consists of a key and its associated value. Dictionaries are a fundamental data structure in Python and are often used to store and manage data efficiently.
+# dict() attribute - In Python, the dict (dictionary) is a built-in data type used to store key-value pairs. A dictionary is a mutable, unordered collection of items where each item consists of a key and its associated value.
