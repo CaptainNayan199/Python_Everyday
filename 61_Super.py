@@ -38,4 +38,25 @@ class Child(Parent):
 child_obj  = Child()
 child_obj.cMethod()
 
+# Let's see an interesting thing: i.e overriding 
 
+class Parent:
+
+  def pMethod(self):
+    print("I am parent method")
+
+
+class Child(Parent):
+
+  def cMethod(self):
+    print("I am child method")
+    super().pMethod()
+
+  #suppose here i have another method that is same as parent method
+  def pMethod(self):
+    print("Heyyyyy")
+
+
+child_obj = Child()
+child_obj.cMethod()
+child_obj.pMethod() #this will print Heyyyyy, coz it has its own pMethod
