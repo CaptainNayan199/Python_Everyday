@@ -96,7 +96,7 @@ class Parent:
 class Child(Parent):
 
   def __init__(self, name, age, number):
-    super().__init__(name, age)
+    super().__init__(name, age) #accessing the parent constructor and setting its value
     self.number = number
     print(f"My number is {self.number}. I got this value from child class")
 
