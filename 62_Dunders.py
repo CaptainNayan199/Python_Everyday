@@ -36,3 +36,5 @@ class MyList:
 my_list = MyList(["Nayan", "Ujjwal", "Neha", "Binita", "Chandra", "Siteee"])
 length = len(my_list)   # Calls my_list.__len__() to get the length
 print(length)
+
+# These dunder/magic methods provide a way to customize the behavior of your custom objects, making your code more readable and intuitive when working with instances of your classes.
