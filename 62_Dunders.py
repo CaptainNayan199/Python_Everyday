@@ -25,3 +25,14 @@ print(obj)  # Prints "MyClass object with value: 42"
 
 
 # 3  __len__(self): This method lets you define the behavior of the len() function for objects of your class.
+
+class MyList:
+    def __init__(self, data):
+        self.data = data
+
+    def __len__(self):
+        return len(self.data)
+
+my_list = MyList(["Nayan", "Ujjwal", "Neha", "Binita", "Chandra", "Siteee"])
+length = len(my_list)   # Calls my_list.__len__() to get the length
+print(length)
