@@ -73,4 +73,4 @@ print(length)
 # __hash__: Defines the object's hash value for use in hash-based collections.
 # __instancecheck__ and __subclasscheck__: Used for type checking and isinstance/issubclass checks.
 
-# Tomorrow we will be looking at the concept of method overriding (we have)
+# Tomorrow we will be looking at the concept of method overriding (we have talked about that a bit previously btw)
