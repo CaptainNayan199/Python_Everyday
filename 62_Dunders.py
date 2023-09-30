@@ -5,4 +5,11 @@
 
 # Let's see with some examples: 
 # 1 __init__(self, ...): This method is called when you create a new object from a class. It initializes the object's attributes. It is an constructor, we all know about it.
+class MyClass:
+    def __init__(self, value):
+        self.value = value
+        print(self.value)
+
+obj = MyClass(42)  # Initializes obj with a value of 42
+
 
