@@ -23,3 +23,5 @@ class MyClass:
 obj = MyClass(42)
 print(obj)  # Prints "MyClass object with value: 42"
 
+
+# 3  __len__(self): This method lets you define the behavior of the len() function for objects of your class.
