@@ -13,3 +13,13 @@ class MyClass:
 obj = MyClass(42)  # Initializes obj with a value of 42
 
 # 2  __str__(self): This method is called when you use the str() function or print() to represent an object as a string.
+class MyClass:
+    def __init__(self, value):
+        self.value = value
+
+    def __str__(self):
+        return f"MyClass object with value: {self.value}"
+
+obj = MyClass(42)
+print(obj)  # Prints "MyClass object with value: 42"
+
