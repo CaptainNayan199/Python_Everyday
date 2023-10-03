@@ -2,4 +2,5 @@
 
 # Let's see with an simple example : 
 
-class Myclass
+class Myclass:
+    def __init__
