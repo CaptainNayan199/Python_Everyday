@@ -3,4 +3,5 @@
 # Let's see with an simple example : 
 
 class Myclass:
-    def __init__
+    def __init__(self):
+        print("Ok")
