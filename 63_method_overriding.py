@@ -5,3 +5,4 @@
 class Myclass:
     def __init__(self):
         print("Ok")
+    def pMethod()
