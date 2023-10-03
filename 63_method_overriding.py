@@ -2,4 +2,4 @@
 
 # Let's see with an simple example : 
 
-cla
+class Myclass
