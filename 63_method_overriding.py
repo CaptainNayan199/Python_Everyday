@@ -7,3 +7,4 @@ class Myclass:
         print("Ok")
     def pMethod(self):
         print("This is parent method")
+        
