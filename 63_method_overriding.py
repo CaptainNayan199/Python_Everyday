@@ -2,7 +2,7 @@
 
 # Let's see with an simple example : 
 
-class Myclass:
+class Parent:
     def __init__(self):
         print("Ok")
     def pMethod(self):
