@@ -4,7 +4,7 @@
 
 class Parent:
     def __init__(self):
-        print("Ok from the ")
+        print("Ok from the parent class ")
     def pMethod(self):
         print("This is parent method")
 
