@@ -12,5 +12,5 @@ class Parent:
 class Child:
     def __init__(self):
         print("Ok from the child class ")
-    def 
+    def cMethod(self)
         
