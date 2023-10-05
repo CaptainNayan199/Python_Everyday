@@ -9,5 +9,5 @@ class Parent:
         print("This is parent method")
 
 
-class 
+class Child:
         
