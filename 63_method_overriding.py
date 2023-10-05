@@ -11,5 +11,5 @@ class Parent:
 
 class Child:
     def __init__(self):
-        print("Ok from")
+        print("Ok from the child class")
         
