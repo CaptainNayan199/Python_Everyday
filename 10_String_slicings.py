@@ -2,6 +2,7 @@
 # we can slice stirngs from forwad as well as backward of a string
 # Slicing string from backward can be referred to as negative slicing
 
+
 # Each element indexing starts from 0
 # For eg: name = "Nayan", here the indexing of N=0, a=1, y=2, a=3, n=4
 
