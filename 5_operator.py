@@ -36,6 +36,7 @@ b = 4
 floor = a//b
 print(floor)
 
+
 # modulo/remainder operator (%)
 a=7
 b=3
