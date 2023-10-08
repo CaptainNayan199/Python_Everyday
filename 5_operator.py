@@ -22,6 +22,7 @@ b = 4
 product = a*b
 print(product)
 
+
 # Division operator (/)
 a = 6
 b = 2
