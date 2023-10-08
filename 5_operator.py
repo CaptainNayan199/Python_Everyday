@@ -29,6 +29,7 @@ b = 2
 division = a/b
 print(division)
 
+
 # Floor division operator (//)
 a = 15
 b = 4
