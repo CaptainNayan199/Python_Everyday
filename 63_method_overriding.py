@@ -7,7 +7,8 @@ class Parent:
         print("Ok from the parent class ")
     def pMethod(self):
         print("This is parent method")
-    def abc(self)
+    def abc(self):
+        print("Hello from ")
 
 
 class Child:
