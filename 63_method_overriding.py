@@ -11,7 +11,7 @@ class Parent:
         print("Hello from parent class. ")
 
 
-class Child():
+class Child(Parent):
     def __init__(self):
         print("Ok from the child class ")
     def cMethod(self):
