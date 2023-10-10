@@ -43,6 +43,8 @@ b=3
 mod= a%b
 print(mod)
 
+
+
 # Exponential operator (**)
 a = 2
 b = 4
