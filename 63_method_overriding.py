@@ -16,5 +16,5 @@ class Child:
         print("This is child method")
 
 # Now i have two classes, one is parent and the other one is child class.
-
+# Both classes
         
