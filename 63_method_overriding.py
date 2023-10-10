@@ -15,5 +15,6 @@ class Child:
     def cMethod(self):
         print("This is child method")
 
-# Now i have two classes, one is parent and the other one is 
+# Now i have two classes, one is parent and the other one is child class.
+
         
