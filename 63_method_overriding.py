@@ -6,7 +6,7 @@ class Parent:
     def __init__(self):
         print("Ok from the parent class ")
     def pMethod(self):
-        print("This is parent method and i will be over ridden by the ")
+        print("This is parent method and i will be over ridden by the child class.")
 
 
 class Child(Parent):
