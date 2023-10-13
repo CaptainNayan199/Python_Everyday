@@ -17,5 +17,5 @@ class Child(Parent):
     
 
 # Now i have two classes, one is parent and the other one is child class.
-# Both classes have a common method i.e Method(), 
+# Both classes have a common method i.e Method(), but their content are different.
         
