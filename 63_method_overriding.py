@@ -23,4 +23,4 @@ class Child(Parent):
 
 child = Method()
 child.Method() #this will give 'This is child method' as an output. But why ? 
-# It's because the child class has the same method name as parent name
+# It's because the child class has the same method name as parent name and hance it has overridden, coz the child method will get first priority.
