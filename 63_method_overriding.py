@@ -22,4 +22,4 @@ class Child(Parent):
 # Now let's make the object of child class and see how overridden works.
 
 child = Method()
-child.Method() #this will give 'This is child method' as an output.
+child.Method() #this will give 'This is child method' as an output. But why ? 
