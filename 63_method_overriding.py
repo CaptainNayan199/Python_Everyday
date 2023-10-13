@@ -13,7 +13,7 @@ class Child(Parent):
     def __init__(self):
         print("Ok from the child class")
     def Method(self):
-        print("This is child metho")
+        print("This is child method")
     
 
 # Now i have two classes, one is parent and the other one is child class.
