@@ -20,3 +20,6 @@ class Child(Parent):
 # Both classes have a common method i.e Method(), but their content are different.
         
 # Now let's make the object of child class and see how overridden works.
+
+child = Method()
+child.Method()
