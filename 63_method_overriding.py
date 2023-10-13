@@ -12,7 +12,7 @@ class Parent:
 class Child(Parent):
     def __init__(self):
         print("Ok from the child class")
-    def 
+    def Method(self)
     
 
 # Now i have two classes, one is parent and the other one is child class.
