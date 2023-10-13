@@ -6,9 +6,7 @@ class Parent:
     def __init__(self):
         print("Ok from the parent class ")
     def pMethod(self):
-        print("This is parent method")
-    def abc(self):
-        print("Hello from parent class. ")
+        print("This is parent method and")
 
 
 class Child(Parent):
