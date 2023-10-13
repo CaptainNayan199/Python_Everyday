@@ -5,15 +5,15 @@
 class Parent:
     def __init__(self):
         print("Ok from the parent class ")
-    def pMethod(self):
+    def Method(self):
         print("This is parent method and i will be over ridden by the child class.")
 
 
 class Child(Parent):
     def __init__(self):
-        print("Ok from the child class ")
-    def cMethod(self):
-        print("This is child method")
+        print("Ok from the child class")
+    def 
+    
 
 # Now i have two classes, one is parent and the other one is child class.
 # Both classes have a common method i.e abc()
