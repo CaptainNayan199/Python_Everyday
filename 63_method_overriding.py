@@ -23,3 +23,4 @@ class Child(Parent):
 
 child = Method()
 child.Method() #this will give 'This is child method' as an output. But why ? 
+# It's because 
