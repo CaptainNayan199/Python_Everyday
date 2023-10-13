@@ -14,8 +14,6 @@ class Child(Parent):
         print("Ok from the child class ")
     def cMethod(self):
         print("This is child method")
-    def abc(self):
-        print("Hello from child class.")
 
 # Now i have two classes, one is parent and the other one is child class.
 # Both classes have a common method i.e abc()
