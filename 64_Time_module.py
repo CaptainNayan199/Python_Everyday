@@ -6,6 +6,8 @@
   # sleeping for a specified number of seconds and so on.
   # Let's see in depth
 
+# In Python, the time() function returns the number of seconds passed since epoch (the point where time begins).
+
 # First to use time module you need to import time module.
 
 pip install time
