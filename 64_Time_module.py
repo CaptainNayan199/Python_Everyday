@@ -16,4 +16,4 @@ pip install time
 # then
 
 import time
-print(time.time())
+print(time.time()) # this will give the time since the epoch in seconds.
