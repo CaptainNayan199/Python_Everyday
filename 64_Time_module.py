@@ -17,3 +17,5 @@ pip install time
 
 import time
 print(time.time()) # this will give the time since the epoch in seconds.
+
+print(time.ctime())
