@@ -22,3 +22,17 @@ print(res) #this will give the time since the epoch in seconds.
 
 res1 = time.ctime(res)
 print(res1) #this will give the local time
+
+
+res = time.time()
+print(res)
+print("Before 5 sec") 
+
+time.sleep(5) #
+
+
+
+
+print("Before 5 sec")
+res1 = time.ctime(res)
+print(res1)
