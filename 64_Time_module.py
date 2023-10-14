@@ -28,7 +28,7 @@ res = time.time()
 print(res)
 print("Before 5 sec") 
 
-time.sleep(5) #
+time.sleep(5) # this will sleep the program for 5 sec and then execute further
 
 
 
