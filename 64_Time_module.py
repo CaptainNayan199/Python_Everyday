@@ -49,3 +49,4 @@ print(time.strftime("%m/%d/%Y , %H:%M:%S"))  #10/14/2023 , 11:24:11
 
 # There are lots and lots of things inside a time module. Above were some basics. You can check it in documentation as well. All cannot be covered in one single class.
 # So yeah this is it all about time module in python. Tomorrow we will be looking at command line utility in python. It is important. 
+# Thank you!
