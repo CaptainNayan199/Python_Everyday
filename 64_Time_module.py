@@ -12,4 +12,6 @@ pip install time
 
 # then
 
-# 1 
+import time
+
+# 1 time.time()
