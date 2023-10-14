@@ -16,3 +16,4 @@ pip install time
 # then
 
 import time
+print(time.time())
