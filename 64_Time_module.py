@@ -2,4 +2,4 @@
 # This module is a built in function/module in python that allows us to work with times and perform times related operations.
 # Let's see in depth
 
-# First to use time module
+# First to use time module you need to import time module.
