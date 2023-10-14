@@ -37,4 +37,4 @@ print(res1)
 
 import time
 timee = time.localtime()
-print(time.strftime("%m/%d/%Y , %H:%M:%S"))
+print(time.strftime("%m/%d/%Y , %H:%M:%S"))  #10/14/2023 , 11:24:11
