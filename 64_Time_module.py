@@ -40,3 +40,9 @@ timee = time.localtime()
 print(time.strftime("%m/%d/%Y , %H:%M:%S"))  #10/14/2023 , 11:24:11
 
 # Here, %Y, %m, %d, %H etc. are format codes.
+# %Y - year [0001,..., 2018, 2019,..., 9999]
+# %m - month [01, 02, ..., 11, 12]
+# %d - day [01, 02, ..., 30, 31]
+# %H - hour [00, 01, ..., 22, 23
+# %M - minutes [00, 01, ..., 58, 59]
+# %S - second [00, 01, ..., 58, 61]
