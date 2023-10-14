@@ -47,4 +47,4 @@ print(time.strftime("%m/%d/%Y , %H:%M:%S"))  #10/14/2023 , 11:24:11
 # %M - minutes [00, 01, ..., 58, 59]
 # %S - second [00, 01, ..., 58, 61]
 
-# There are lots and lots of things inside a time module. Above were some basics. 
+# There are lots and lots of things inside a time module. Above were some basics. You can check it in documentation as well.
