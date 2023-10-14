@@ -9,3 +9,7 @@
 # First to use time module you need to import time module.
 
 pip install time
+
+# then
+
+# 1 
