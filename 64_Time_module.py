@@ -33,3 +33,8 @@ time.sleep(5) # this will sleep the program for 5 sec and then execute further
 print("Before 5 sec")
 res1 = time.ctime(res)
 print(res1)
+
+
+import time
+timee = time.localtime()
+print(time.strftime("%m/%d/%Y , %H:%M:%S"))
