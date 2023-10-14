@@ -16,6 +16,9 @@ pip install time
 # then
 
 import time
-print(time.time()) # this will give the time since the epoch in seconds.
 
-print(time.ctime())
+res = time.time()
+print(res) #this will give the time since the epoch in seconds.
+
+res1 = time.ctime(res)
+print(res1) #this will give the local time
