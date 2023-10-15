@@ -1,1 +1,1 @@
-# Wlarus operator is a new thing in python. It came in practice after python 3.8 version. That means python version older than 3.8 does not support walrus operator.
+# Wlarus operator is a new thing in python. It came in practice after python 3.8 version. That means python version older than 3.8 does not support walrus operator. It is very useful operator in python 
