@@ -9,3 +9,17 @@ userId = [1,2,3,4,5,6,7,8,9,10]
 
 while(i := len(userId)) > 0:
     print(userId.pop())
+
+
+
+
+sample_data = [
+	{"userId": 1, "name": "rahul", "completed": False},
+	{"userId": 2, "name": "rohit", "completed": True},
+	{"userId": 3, "name": "ram", "completed": False},
+	{"userId": 4, "name": "ravan", "completed": True}
+]
+
+for i in sample_data:
+    if (name:= i.get("name")) and (id := i.get("userId")) and (com:=i.get("completed")):
+        print(f"The names in the list are : {name} and his userId is {id}. His state of assignment completion is {com}")
