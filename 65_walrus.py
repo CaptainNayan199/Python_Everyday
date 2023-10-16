@@ -26,10 +26,10 @@ for i in sample_data:
         
 # So this is how walrus := operator can be very useful in python
 
-# We can even use walrus operator to take user input and even inside of logical statement.
+# We can even use walrus operator to take user input and even inside of logical statement. For eg : 
 nList = ["Nayan", "Ujjwal", "Birendra", "Hawamanxe", "Jarry"]
 
-if(name:=input("Enter your name : ")) in nList:
+if(name:=input("Enter your name : ")) in nList: #See here i am asking for user input, and than storing that user input inn
     print("Your name is ", name)
 else:
     print("Name not in the list.")
