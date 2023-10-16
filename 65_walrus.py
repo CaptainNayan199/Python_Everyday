@@ -53,4 +53,4 @@ while True:
         break
     food_list.append(fruit)
 print(f"Your favourite fruit are : {food_list}")
-# A simple program where theres en empty list, and user are asked about their favourite foods and is entered into the list. No problem right ? Now let's rewrite this program
+# A simple program where theres en empty list, and user are asked about their favourite foods and is entered into the list. No problem right ? Now let's rewrite this program by the use of walrus operator
