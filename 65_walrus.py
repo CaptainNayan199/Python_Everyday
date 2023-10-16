@@ -24,3 +24,12 @@ for i in sample_data:
     if (name:= i.get("name")) and (id := i.get("userId")) and (com:=i.get("completed")):
         print(f"The names in the list are : {name} and his userId is {id}. His state of assignment completion is {com}")
         
+# So this is how walrus := operator can be very useful in python
+
+nList = ["Nayan", "Ujjwal", "Birendra", "Hawamanxe", "Jarry"]
+
+if(name:=input("Enter your name : ")) in nList:
+    print("Your name is ", name)
+else:
+    print("Name not in the list.")
+    
