@@ -53,4 +53,4 @@ while True:
         break
     food_list.append(fruit)
 print(f"Your favourite fruit are : {food_list}")
-# A simple program where 
+# A simple program where theres en empty list, and 
