@@ -34,3 +34,5 @@ if(name:=input("Enter your name : ")) in nList: #See here i am asking for user i
 else:
     print("Name not in the list.")
     
+# If we want to do it without the use of wlarus operator than it becomes something like this : 
+    
