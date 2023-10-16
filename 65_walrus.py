@@ -29,7 +29,7 @@ for i in sample_data:
 # We can even use walrus operator to take user input and even inside of logical statement. For eg : 
 nList = ["Nayan", "Ujjwal", "Birendra", "Hawamanxe", "Jarry"]
 
-if(name:=input("Enter your name : ")) in nList: #See here i am asking for user input, and than storing that user input inn
+if(name:=input("Enter your name : ")) in nList: #See here i am asking for user input, and than storing that user input in name variable and then again checking for the existence of the value of that variable in the nameList.
     print("Your name is ", name)
 else:
     print("Name not in the list.")
