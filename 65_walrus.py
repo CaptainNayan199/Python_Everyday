@@ -35,4 +35,13 @@ else:
     print("Name not in the list.")
     
 # If we want to do it without the use of wlarus operator than it becomes something like this : 
-    
+
+
+nList = ["Nayan", "Ujjwal", "Birendra", "Hawamanxe", "Jarry"]
+name = input("Enter your name : ")
+if name in nList:
+    print("Your name is ", name)
+else:
+    print("Name not in the list.")
+
+# Now lets see one more beautiful example : 
