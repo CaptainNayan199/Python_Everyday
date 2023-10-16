@@ -45,3 +45,12 @@ else:
     print("Name not in the list.")
 
 # Now lets see one more beautiful example : 
+
+food_list = []
+while True:
+    fruit = input("What fruit do you like sir/madam ? : ")
+    if fruit== ("quit" or "Quit"):
+        break
+    food_list.append(fruit)
+print(f"Your favourite fruit are : {food_list}")
+# A simple program where 
