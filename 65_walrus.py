@@ -23,3 +23,4 @@ sample_data = [
 for i in sample_data:
     if (name:= i.get("name")) and (id := i.get("userId")) and (com:=i.get("completed")):
         print(f"The names in the list are : {name} and his userId is {id}. His state of assignment completion is {com}")
+        
