@@ -62,4 +62,4 @@ while (fruit:=input("What fruit do you like sir/madam ? : ")) != "quit":
 print(f"Your favourite fruit are : {food_list}")
 # See the magic of walrus operator here, code is readable as well as the code is short too. The same thing can be done in way more shorter way by the use of walrus operator.
 
-# So yeah 
+# So yeah this was all about python walrus operator
