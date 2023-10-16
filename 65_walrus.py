@@ -60,4 +60,4 @@ food_list = [] #an empty list
 while (fruit:=input("What fruit do you like sir/madam ? : ")) != "quit":
     food_list.append(fruit)
 print(f"Your favourite fruit are : {food_list}")
-# See the magic of walrus operator
+# See the magic of walrus operator here
