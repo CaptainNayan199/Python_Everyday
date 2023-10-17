@@ -5,3 +5,6 @@
 
 def Abc():
     print("This is Abc function")
+
+def Bbc():
+    print("This is Bbc function")
