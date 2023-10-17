@@ -14,4 +14,5 @@ def Ddc(func): #here i have 3rd function but it is taking one argument.
     print("This is Nayan accessing other function from Ddc")
 
 Ddc(Abc)
+Ddc(Bbc)
 
