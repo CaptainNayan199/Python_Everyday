@@ -6,7 +6,7 @@
 def Abc(): #here i have one function
     print("This is Abc function")
 
-def Bbc():
+def Bbc(): #here is the second function
     print("This is Bbc function")
 
 def
