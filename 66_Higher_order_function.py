@@ -27,3 +27,5 @@ def div(num): # here i have a function with num as an parameter
 result = div(50) # here i have assigned div(50) into the result variable, as it has return type. 
 # The nested function is still not being called, so still not executing.
 print(result(5)) #here i have called the nested function and printed the result by passing the argument as well.
+
+# So yeah this was it 
