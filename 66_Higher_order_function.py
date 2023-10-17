@@ -28,4 +28,4 @@ result = div(50) # here i have assigned div(50) into the result variable, as it 
 # The nested function is still not being called, so still not executing.
 print(result(5)) #here i have called the nested function and printed the result by passing the argument as well.
 
-# So yeah this is it all about higher order function. Just remember higher order function is a function that either takes a function as an argument or returns a function
+# So yeah this is it all about higher order function. Just remember higher order function is a function that either takes a function as an argument or returns a function.
