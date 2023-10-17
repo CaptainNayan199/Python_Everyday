@@ -16,3 +16,5 @@ def Ddc(func): #here i have 3rd function but it is taking one argument.
 Ddc(Abc)
 Ddc(Bbc)
 
+# Now lets see how a function can return a function
+
