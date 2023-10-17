@@ -14,7 +14,7 @@ def Ddc(func): #here i have 3rd function but it is taking one argument.
     print("This is Nayan accessing other function from Ddc")
 
 Ddc(Abc) #see here iam giving Abc function as an argument.
-Ddc(Bbc) #passsing a function as an 
+Ddc(Bbc) #passsing a function as an argument.
 
 # Now lets see how a function can return a function
 
