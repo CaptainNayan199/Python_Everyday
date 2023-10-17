@@ -3,4 +3,5 @@
 # Higher order functions are those types of function in python where a function is accepting another function as an argument or is returning some function(ofcourse we have seen this in decorators as well, they return a function right?)
 # So let's see with an example
 
-def Abc(args)
+def Abc(args):
+    
