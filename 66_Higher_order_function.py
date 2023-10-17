@@ -18,3 +18,12 @@ Ddc(Bbc) #passsing a function as an argument.
 
 # Now lets see how a function can return a function
 
+def div(num): # here i have a function with num as an parameter
+    def divide(a): #inside i have another function, basically nested function
+        return num/a # i am returning a value of a nested function
+    return divide #this is returning the result of nested function
+    
+
+result = div(50) # here i have assigned div(50) into the result variable, as it has return type. 
+# The nested function is still not being called, so still not executing.
+print(result(5)) #here i have called the nested function and printed the result by passing the argument as well.
