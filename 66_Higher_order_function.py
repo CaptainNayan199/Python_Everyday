@@ -9,6 +9,6 @@ def Abc(): #here i have one function
 def Bbc(): #here is the second function
     print("This is Bbc function")
 
-def Ddc(function): #here i have 3rd function but it is taking one argument. 
-    res = function()
+def Ddc(func): #here i have 3rd function but it is taking one argument. 
+    res = func() #the result of the func is being stored in res variable
     print("This is Nayan accessing Abc from Ddc", res)
