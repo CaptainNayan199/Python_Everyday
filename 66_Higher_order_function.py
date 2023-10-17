@@ -13,7 +13,7 @@ def Ddc(func): #here i have 3rd function but it is taking one argument.
     res = func() #the result of the func is being stored in res variable, and it will be displayed.
     print("This is Nayan accessing other function from Ddc")
 
-Ddc(Abc) #see here
+Ddc(Abc) #see here iam giving 
 Ddc(Bbc)
 
 # Now lets see how a function can return a function
