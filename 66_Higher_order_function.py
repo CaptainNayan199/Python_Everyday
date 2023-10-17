@@ -9,4 +9,4 @@ def Abc(): #here i have one function
 def Bbc(): #here is the second function
     print("This is Bbc function")
 
-def
+def Ddc(function):
