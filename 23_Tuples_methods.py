@@ -11,6 +11,7 @@ tuple1 = ("Nayan", "Ujjwal", "Birendra", "Sita","Gita", "Neeta", "Neha")
 
 # change the tuple into a list by using a secondary variable
 
+
 list1 = list(tuple1)
 
 list1.append("Kishan") #adding two elements to the list
