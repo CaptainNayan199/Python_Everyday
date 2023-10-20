@@ -20,3 +20,11 @@ for items in zipped_elements:
 # ('Santosh', 58)
 
 # This is not only for any two indentical iterables objects in python, it can be dont in between two distinct objects as well.
+
+s_name = ["Nayan", "Ujjwal", "Roshan", "Tika", "Santosh"]
+s_roll = (37, 37, 53, 69, 58)
+
+zipped_elements = zip(s_name, s_roll)
+
+for items in zipped_elements:
+    print(items)
