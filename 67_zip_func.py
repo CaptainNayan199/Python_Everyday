@@ -19,4 +19,4 @@ for items in zipped_elements:
 # ('Tika', 69)
 # ('Santosh', 58)
 
-# This is not only for any two indentical iterables objects in python
+# This is not only for any two indentical iterables objects in python, it can be dont in between two distinct objects as well.
