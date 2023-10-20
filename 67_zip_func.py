@@ -30,3 +30,5 @@ for items in zipped_elements:
     print(items)
 
 # The output is same as that of previous one.
+
+# So its simple; zip functions aggregates the items of two iterables objects and store them in the form of tuples.
