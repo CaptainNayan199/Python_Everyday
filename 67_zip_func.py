@@ -7,4 +7,4 @@
 s_name = ["Nayan", "Ujjwal", "Roshan", "Tika", "Santosh"]
 s_roll = [37, 37, 53, 69, 58]
 
-zipped_elements = zip
+zipped_elements = zip(s_name, s_roll)
