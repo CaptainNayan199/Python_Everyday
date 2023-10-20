@@ -8,4 +8,6 @@ s_name = ["Nayan", "Ujjwal", "Roshan", "Tika", "Santosh"]
 s_roll = [37, 37, 53, 69, 58]
 
 zipped_elements = zip(s_name, s_roll)
-print(zipped_elements)
+
+for items in zipped_elements:
+    print(items)
