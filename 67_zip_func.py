@@ -1,0 +1,1 @@
+# So today we are going to see about a popular method in python, that is zip function.
