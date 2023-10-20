@@ -5,3 +5,4 @@
 # Let's see with an example
 
 s_name = ["Nayan", "Ujjwal", "Roshan", "Tika", "Santosh"]
+s_roll = [37, 37, 53, 69, 58]
