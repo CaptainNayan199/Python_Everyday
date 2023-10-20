@@ -18,3 +18,5 @@ for items in zipped_elements:
 # ('Roshan', 53)
 # ('Tika', 69)
 # ('Santosh', 58)
+
+# This is not only for any two indentical iterables objects in python
