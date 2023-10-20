@@ -28,3 +28,5 @@ zipped_elements = zip(s_name, s_roll)
 
 for items in zipped_elements:
     print(items)
+
+# The output is same as that of previous one.
