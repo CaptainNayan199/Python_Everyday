@@ -4,4 +4,4 @@
 # This function basically aggregates two or more iterables like sets, tuples, list, etc. After aggreation, it creates a tuples of zip elements.
 # Let's see with an example
 
-name = ["Nayan", "Ujjwal", "Roshan", "Tika", "Santosh"]
+s_name = ["Nayan", "Ujjwal", "Roshan", "Tika", "Santosh"]
