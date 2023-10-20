@@ -11,3 +11,10 @@ zipped_elements = zip(s_name, s_roll)
 
 for items in zipped_elements:
     print(items)
+    
+# Outputs : 
+# ('Nayan', 37)
+# ('Ujjwal', 37)
+# ('Roshan', 53)
+# ('Tika', 69)
+# ('Santosh', 58)
