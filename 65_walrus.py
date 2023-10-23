@@ -10,7 +10,6 @@ userId = [1,2,3,4,5,6,7,8,9,10]
 while(i := len(userId)) > 0:
     print(userId.pop())
 
-
 sample_data = [
 	{"userId": 1, "name": "rahul", "completed": False},
 	{"userId": 2, "name": "rohit", "completed": True},
