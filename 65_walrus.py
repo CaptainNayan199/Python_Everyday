@@ -12,7 +12,6 @@ while(i := len(userId)) > 0:
 
 
 
-
 sample_data = [
 	{"userId": 1, "name": "rahul", "completed": False},
 	{"userId": 2, "name": "rohit", "completed": True},
