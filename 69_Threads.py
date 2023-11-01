@@ -9,3 +9,6 @@
 # But PS: in multi threaded python program, only one thread can execute at a time even if the cpu has multiple cores.
 
 # Hence I/o bound task are more preferred to be handle by the concept of multi-threading whereas, cpu bound task are preferred to be handled by multi processing.
+
+# What means I/o bound taks ?
+#--> I/o bound tasks are tasks that primarily involve input/output operations, such as reading or writing to files, network operations, or interacting with a database. 
