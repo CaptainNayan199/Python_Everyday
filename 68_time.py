@@ -25,4 +25,7 @@ print(time.localtime())
 
 # Output : time.struct_time(tm_year=2023, tm_mon=11, tm_mday=1, tm_hour=1, tm_min=3, tm_sec=18, tm_wday=2, tm_yday=305, tm_isdst=0)
 
-# It is quite unreadable, basically it is the datails about our current time, date 
+# It is quite unreadable, basically it is the datails about our current time, date. Now to make it more readable we need to use strftime.
+
+
+print(time.strftime("%H:%M:%S", time.localtime()))
