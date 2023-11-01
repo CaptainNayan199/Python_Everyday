@@ -14,3 +14,6 @@ print(time.time()) #now this will give me the total seconds after the epoch, and
 
 
 print(time.ctime(1698799910)) #yes exactly i got my date and time which is wed nov 1 6666:36:50 2023
+# OR
+
+print(time.ctime(time.time()))
