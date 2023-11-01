@@ -18,3 +18,7 @@ print(time.ctime(1698799910)) #yes exactly i got my date and time which is wed n
 # or
 
 print(time.ctime(time.time())) #this is also going to give me the same output
+
+print(time.gmtime()) 
+print(time.localtime())
+#this both will give the same output, the first one is utc one and the second id the localtime.
