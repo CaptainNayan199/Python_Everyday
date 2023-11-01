@@ -38,8 +38,8 @@ print(time.strftime("%H:%M:%S", time.gmtime())) #but using this can give the oth
 
 # strptime - string parse time, it converts user info(dat, time) into time object.
 
-user_time = "06:56:04"
-print(time.strptime(user_time, "%H:%M:%S"))
+user_time = "2023 06:56:04"
+print(time.strptime(user_time, "%Y %H:%M:%S"))
 
 # Now this will create a new time object with the user information
-# Output : time.struct_time(tm_year=1900, tm_mon=1, tm_mday=1, tm_hour=6, tm_min=56, tm_sec=4, tm_wday=0, tm_yday=1, tm_isdst=-1)
+# Output : time.struct_time(tm_year=2023, tm_mon=1, tm_mday=1, tm_hour=6, tm_min=56, tm_sec=4, tm_wday=6, tm_yday=1, tm_isdst=-1)
