@@ -45,4 +45,4 @@ print(time.strptime(user_time, "%Y %H:%M:%S"))
 # Output : time.struct_time(tm_year=2023, tm_mon=1, tm_mday=1, tm_hour=6, tm_min=56, tm_sec=4, tm_wday=6, tm_yday=1, tm_isdst=-1)
 
 # So yeah this is it, time module in python is not only limited to what i have mentioned, here, plz visit through official documentation as well. 
-# It is it for today,
+# It is it for today, in next session, we will look at thread in python which is an important python concept.
