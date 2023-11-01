@@ -34,3 +34,9 @@ print(time.strftime("%H:%M:%S", time.gmtime())) #but using this can give the oth
 # and the local time is for users general lcoal time
 
 # About different types of format: you can visit this link : `https://docs.python.org/3/library/datetime.html#strftime-and-strptime-format-codes`
+
+
+# strptime - string parse time, it converts user info(dat, time) into time object.
+
+user_time = "6:56:00"
+print(time.strptime(user_time, ))
