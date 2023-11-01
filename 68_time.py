@@ -32,3 +32,5 @@ print(time.strftime("%H:%M:%S", time.localtime())) #this strftime(string format 
 
 print(time.strftime("%H:%M:%S", time.gmtime())) #but using this can give the other output, it is because gmtime is for cordinated universal time.
 # and the local time is for users general lcoal time
+
+# About different types of format: you can visit this link : 
