@@ -15,4 +15,4 @@
 # --> Multi threading is used for this task because even if one thread is waiting other can continue execute.
 
 # What means cpu bound task ?
-# --> CPU bound tasks are tasks that primarily involve the cup and require a significant amount of computational resources. Like performing complex calculations, performing mathematical operations, data processing,  
+# --> CPU bound tasks are tasks that primarily involve the cup and require a significant amount of computational resources. Like performing complex calculations, performing mathematical operations, data processing etc.
