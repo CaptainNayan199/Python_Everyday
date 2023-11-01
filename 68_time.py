@@ -22,3 +22,5 @@ print(time.ctime(time.time())) #this is also going to give me the same output
 print(time.gmtime()) 
 print(time.localtime())
 #this both will give the same output, the first one is utc one and the second id the localtime.
+
+# Output : time.struct_time(tm_year=2023, tm_mon=11, tm_mday=1, tm_hour=1, tm_min=3, tm_sec=18, tm_wday=2, tm_yday=305, tm_isdst=0)
