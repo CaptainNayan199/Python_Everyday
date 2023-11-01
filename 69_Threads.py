@@ -12,3 +12,4 @@
 
 # What means I/o bound taks ?
 #--> I/o bound tasks are tasks that primarily involve input/output operations, such as reading or writing to files, network operations, or interacting with a database. 
+# --> Multi threading is used for this task because even if one thread is waiting other can continue execute.
