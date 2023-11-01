@@ -8,7 +8,7 @@ print(time.ctime(0)) #this will give me my epoch time, yeah i have already talke
 print(time.ctime(100000)) #i am saying here, give me the time after 10000..... seconds 
 
 
-print(time.time()) #now this will give me the total seconds after the epoch, and currently my output is being shown as 1698799910.0859365
+print(time.time()) #now this will give me the total seconds after the epoch, and currently my output is being shown as 1698799910.0859365. It means for me 1698799910.0859365 seconds of time has passed since 1st jan, 1970.
 
 # That means if i pass that number as an argument in the time.ctime function, than i can get my current date and time.
 
