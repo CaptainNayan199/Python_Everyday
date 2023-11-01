@@ -28,4 +28,4 @@ print(time.localtime())
 # It is quite unreadable, basically it is the datails about our current time, date. Now to make it more readable we need to use strftime.
 
 
-print(time.strftime("%H:%M:%S", time.localtime())) 
+print(time.strftime("%H:%M:%S", time.localtime())) #this strftime(string format time) takes 2 argument, the first one is format(means how you specify to display what), and the other one is on what basis? so it is on the basis of time.localtime()
