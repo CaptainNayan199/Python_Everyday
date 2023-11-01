@@ -6,3 +6,11 @@ print(time.ctime(0)) #this will give me my epoch time, yeah i have already talke
 # You may be wondering why there is argument 0? well it is nothing but hwo much seconds later do you want epoch to print times.
 
 print(time.ctime(100000)) #i am saying here, give me the time after 10000..... seconds 
+
+
+print(time.time()) #now this will give me the total seconds after the epoch, and currently my output is being shown as 1698799910.0859365
+
+# That means if i pass that number as an argument in the time.ctime function, than i can get my current date and time.
+
+
+print(time.ctime(1698799910)) #yes exactly i got my date and time which is wed nov 1 6666:36:50 2023
