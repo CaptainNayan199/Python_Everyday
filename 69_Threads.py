@@ -21,3 +21,6 @@
 
 import threading
 import time
+
+print(threading.active_count())
+print(threading.active_count())
