@@ -1,1 +1,1 @@
-# Time module in python are very essentials component
+# Time module in python are very essentials module
