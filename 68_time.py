@@ -31,3 +31,4 @@ print(time.localtime())
 print(time.strftime("%H:%M:%S", time.localtime())) #this strftime(string format time) takes 2 argument, the first one is format(means how you specify to display what), and the other one is on what basis? so it is on the basis of time.localtime()
 
 print(time.strftime("%H:%M:%S", time.gmtime())) #but using this can give the other output, it is because gmtime is for cordinated universal time.
+# and the local time is for users general time
