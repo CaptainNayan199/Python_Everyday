@@ -23,4 +23,4 @@ import threading
 import time
 
 print(threading.active_count())
-print(threading.active_count()) #this will show the 
+print(threading.active_count()) #this will show the total number 
