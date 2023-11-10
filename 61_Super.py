@@ -16,7 +16,6 @@ class Child(Parent):
 child_obj  = Child()
 child_obj.cMethod()
 
-
 # But we can do same thing from the use of super() method as well. Let's see it : 
 
 class Parent:
