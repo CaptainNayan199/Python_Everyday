@@ -1,0 +1,1 @@
+# Lets give the final shot to the python from bro code, no running here and ther, i will first complete this course now! Good luck!
