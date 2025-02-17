@@ -47,6 +47,12 @@ else:
     print("The user isn't online")
 
 
+usr_name = "Captain Nayan"
+user_id = 14
+isPlaying = False
+age = 22.5
+
+
 
 
 
