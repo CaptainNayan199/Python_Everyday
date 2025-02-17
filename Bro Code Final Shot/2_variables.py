@@ -1,6 +1,6 @@
 from psutil import disk_io_counters
 
-# variables are a container that hold any kind of values either string, integer, boolean or any other kinds
+# variables are a container that hold any kind of values either string, integer, boolean or any other kinds.
 
 # String variables
 first_name = "Nayan"
@@ -33,12 +33,18 @@ print(f"You have got {gpa} GPA")
 isMarried = False
 isStudent = True
 isOld = False
+isOnline = True
 
 print(f"Are you a student ? : {isStudent}\nAre you married ? : {isMarried}")
 if isMarried:
     print("The person is married")
 else:
     print("The person isn't married")
+
+if isOnline:
+    print("The user is online")
+else:
+    print("The user isn't online")
 
 
 
