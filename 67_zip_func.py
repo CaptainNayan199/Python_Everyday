@@ -1,7 +1,7 @@
 # So today we are going to see about a popular method in python, that is zip function.
 # So what is zip function ?
 # zip function is a special type of method in python that returns a zip object which is actually an iterator of tuples or list or any other iterable object in python.
-# This function basically aggregates two or more iterables like sets, tuples, list, etc. After aggreation, it creates a tuples of zip elements.
+# This function basically aggregates two or more iterables like sets, tuples, list, etc. After aggregation, it creates a tuples of zip elements.
 # Let's see with an example
 
 s_name = ["Nayan", "Ujjwal", "Roshan", "Tika", "Santosh"]
@@ -20,7 +20,7 @@ for items in zipped_elements:
 # ('Tika', 69)
 # ('Santosh', 58)
 
-# This is not only for any two indentical iterables objects in python, it can be dont in between two or more distinct objects as well.
+# This is not only for any two indentical iterables objects in python, it can be done in between two or more distinct objects as well.
 
 s_name = ["Nayan", "Ujjwal", "Roshan", "Tika", "Santosh"]
 s_roll = (37, 37, 53, 69, 58)
