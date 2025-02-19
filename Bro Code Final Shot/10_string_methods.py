@@ -1,4 +1,4 @@
-# name = input("Enter your name : ")
+name = input("Enter your name : ")
 # print(len(name))
 # print(name.find(" "))
 # print(name.find("N"))
@@ -7,8 +7,8 @@
 # print(name.upper())
 # print(name.lower())
 # print(name.isdigit())
-# print(name.isalpha())
+print(name.isalpha())
 
-number = (input("Enter your number : "))
+# number = (input("Enter your number : "))
 # print(number.count("-"))
 # print(number.replace("-", " " ))
