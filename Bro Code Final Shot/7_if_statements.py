@@ -38,12 +38,3 @@ if isOnline:
     print("The user is online")
 else:
     print("The user is offline!")
-    
-    
-isPagal = True
-
-isSitaPagal = True
-if isSitaPagal:
-    print("Sita is pagal")
-else:
-    print("Sita is not pagal")
