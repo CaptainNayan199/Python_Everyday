@@ -21,7 +21,7 @@ an = 0
 neg = input("Do you want Negative Marking ? [Y/N] : ")
 print("Thanks for confirming!")
 for question in questions:
-    print("*****************************")
+    print("**********************************************************************************")
     print(question)
     for option in options[question_number]:
         print(option)
@@ -33,6 +33,7 @@ for question in questions:
         print("Your current score is {}".format(score))
     else:
         print("Incorrect answer!")
+        print("The correct answer is {}".format(answers[an]))
         if neg.lower() == 'y':
             score-=1
         print("Your current score is {}".format(score))
