@@ -20,6 +20,14 @@ while is_running:
 
         if user < lowest or user>highest:
             print("Only enter the guess in between {} and {}".format(lowest, highest))
+        elif user <answer:
+            print("Too low! Try again!")
+        elif user>answer:
+            print("Too high! Try again!")
+        else:
+            print(f"Correct! The answer was {answer}")
+            print(f"Number of guesses : {guesses}")
+            is_running = False
     else:
         print("Please enter numbers only!")
         print(f"Select a number between {lowest} and {highest}: ")
