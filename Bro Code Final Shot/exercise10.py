@@ -2,11 +2,10 @@
 
 import random
 rpc = ("Rock", "Paper", "Scissor")
-comp = random.choice(rpc)
-user = None
 isPlaying = True
 
 while isPlaying:
+    user = None
     comp = random.choice(rpc)
     while user not in rpc:
         user = input("Please select any between [ Rock | Paper | Scissor ] : ")
@@ -30,7 +29,7 @@ while isPlaying:
             print(f"You chose : {user}")
             print(f"Computer chose : {comp}")
             print("You Won!")
-    is_Play = input("Do you want to play again ? [Y/N] : ")
+    is_Play = input("Do you want to play again ? [Y/N] : ").upper()
     if is_Play == "Y":
         isPlaying = True
     else:
