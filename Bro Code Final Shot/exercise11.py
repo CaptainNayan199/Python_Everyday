@@ -1,6 +1,6 @@
 # banking program
 
-def show_balance():
+def show_balance(balance):
     print(f"Your balance is ${balance:.2f}")
 
 def deposit():
@@ -12,7 +12,7 @@ def deposit():
         return amt
 
 
-def withdraw():
+def withdraw(balance):
     print("Your current balance is : {}".format(balance))
     amt = int(input("Enter how much do you want to withdraw : "))
     if amt < 0:
@@ -24,27 +24,29 @@ def withdraw():
     else:
         return amt
 
-balance = 0
-isRunning = True
 
-while isRunning:
-    print("*******************Welcome to the Nayan Banking App***************")
-    print("1. Show Balance")
-    print("2. Deposit Balance")
-    print("3. Withdraw Balance")
-    print("4. Exit")
-    user = None
-    while user not in ("1","2","3","4"):
-        user = input("Enter any choice : [1-4]: ")
-    if user == "1":
-        show_balance()
-    elif user=="2":
-        balance += deposit()
-    elif user=="3":
-        balance -= withdraw()
-    else:
-        isRunning = False
+def main():
+    balance = 0
+    isRunning = True
+    while isRunning:
+        print("*******************Welcome to the Nayan Banking App***************")
+        print("1. Show Balance")
+        print("2. Deposit Balance")
+        print("3. Withdraw Balance")
+        print("4. Exit")
+        user = None
+        while user not in ("1","2","3","4"):
+            user = input("Enter any choice : [1-4]: ")
+        if user == "1":
+            show_balance(balance)
+        elif user=="2":
+            balance += deposit()
+        elif user=="3":
+            balance -= withdraw(balance)
+        else:
+            isRunning = False
 
-print("Thanks!")
+    print("Thanks!")
 
-
+if __name__ == '__main__':
+    main()
