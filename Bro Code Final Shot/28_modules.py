@@ -8,4 +8,8 @@
 # # print(e**2)
 
 
-import 28_module_second
+import module_second as ms
+ms.add(3,4)
+print(ms.my_num)
+ms.sub(4,3)
+
