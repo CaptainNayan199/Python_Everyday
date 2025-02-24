@@ -1,19 +1,34 @@
 # banking program
 
-def show_blnc():
-    pass
+def show_balance():
+    print(f"Your balance is ${balance:.2f}")
 
 def deposit():
-    pass
+    amt = int(input("Enter some amount to deposit in the bank : "))
+    if amt < 0:
+        print("That's not a valid deposit")
+        return 0
+    else:
+        return amt
+
 
 def withdraw():
-    pass
+    print("Your current balance is : {}".format(balance))
+    amt = int(input("Enter how much do you want to withdraw : "))
+    if amt < 0:
+        print("That's not a valid withdrawal")
+        return 0
+    elif amt > balance:
+        print("You don't have sufficient balance!")
+        return 0
+    else:
+        return amt
 
 balance = 0
 isRunning = True
 
 while isRunning:
-    print("Welcome to the Nayan Banking App")
+    print("*******************Welcome to the Nayan Banking App***************")
     print("1. Show Balance")
     print("2. Deposit Balance")
     print("3. Withdraw Balance")
@@ -22,12 +37,14 @@ while isRunning:
     while user not in ("1","2","3","4"):
         user = input("Enter any choice : [1-4]: ")
     if user == "1":
-        show_blnc()
+        show_balance()
     elif user=="2":
-        deposit()
+        balance += deposit()
     elif user=="3":
-        withdraw()
+        balance -= withdraw()
     else:
         isRunning = False
+
+print("Thanks!")
 
 
