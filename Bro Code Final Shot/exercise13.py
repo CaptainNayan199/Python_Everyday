@@ -20,6 +20,8 @@ for letter in plain_text:
     # print(index)
 print(ciper_text)
 
+#dec
+
 inp = input("Do you want to decrypt the text [Y/N]: ")
 if inp.lower() == 'y':
     plain_text = ""
