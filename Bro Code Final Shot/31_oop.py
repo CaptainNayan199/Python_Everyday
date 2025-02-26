@@ -6,9 +6,11 @@
 from car import Car
 
 car1 = Car("BMW", "White", True)
-print(car1.name)
-print(car1.color)
-print(car1.for_sale)
+# print(car1.name)
+# print(car1.color)
+# print(car1.for_sale)
+car1.drive()
+car1.stop()
 
 
 # car2 = Car("Mustang", "Red", False)
