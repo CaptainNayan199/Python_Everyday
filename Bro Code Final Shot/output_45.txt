@@ -1,1 +1,8 @@
-I like momos
+{
+    "name": "Nayan",
+    "age": 22,
+    "Job": "Student",
+    "isMarried": false,
+    "isHappy": true,
+    "Hobbies": "Singing"
+}
