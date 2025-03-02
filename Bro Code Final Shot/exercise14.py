@@ -7,7 +7,7 @@ import pygame
 
 def set_alarm(alarm_time):
     print(f"Alarm set for {alarm_time}")
-    sound_file =
+    sound_file = "alarm.mp3"
 
 
 if __name__ == "__main__":
