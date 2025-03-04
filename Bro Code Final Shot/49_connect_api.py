@@ -19,6 +19,8 @@ def get_info(name):
             print(f"{data['id']}")
             print(f"{data['height']}")
             print(f"{data['weight']}")
+        # for key,value in data.items():
+        #     print(f"{key} : {value}")
     else:
         print(f"Failed to retrieve data {response.status_code}")
 
