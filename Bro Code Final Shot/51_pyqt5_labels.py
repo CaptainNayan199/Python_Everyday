@@ -17,7 +17,6 @@ class MainWindow(QMainWindow):
         # label.setAlignment(Qt.AlignRight)
         label.setAlignment(Qt.AlignCenter)
 
-
 def main():
     app = QApplication(sys.argv)
     window = MainWindow()
