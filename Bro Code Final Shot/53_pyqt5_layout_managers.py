@@ -22,7 +22,7 @@ class MainWindow(QMainWindow):
         label1.setStyleSheet("background-color : red")
         label2.setStyleSheet("background-color : yellow")
         label3.setStyleSheet("background-color : Green")
-        label4.setStyleSheet("background-color : Purple")
+        label4.setStyleSheet("background-color : orange")
 
         vbox = QVBoxLayout()
 
