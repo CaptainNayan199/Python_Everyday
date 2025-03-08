@@ -2,15 +2,15 @@
 # set in python are also used to store multiple variables inside a curly braces {}. Unordered and immutable, no duplicate data is allowed
 # tuples are used to store multiple values inside a small braces (). Ordered and immutable. Duplicate data is allowed. Fastest
 
-# fruits = ["Mango", "Orange", "Banana", "Coconut"]
+fruits = ["Mango", "Orange", "Banana", "Coconut"]
 # print(fruits)
 # # print(fruits[1])
 # print(fruits[1:4])
 # print(fruits[-3:-1])
 # print(fruits[::2])
 
-# for fruit in fruits:
-#     print(fruit, end=" ")
+for fruit in fruits:
+    print(fruit, end="     *      ")
 
 # methods for collections
 # cars = ["Bugatti", "Ferari", "Mustang", "Thar"]

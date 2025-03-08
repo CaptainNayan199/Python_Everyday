@@ -5,7 +5,7 @@ capitals = {"Nepal": "Kathmandu", "USA": "Washington DC", "India": "New Delhi", 
 
 # print(capitals.keys())
 # print(capitals.values())
-# print(capitals.get("USA"))
+print(capitals.get("USA"))
 # print(capitals.get("Nepal"))
 
 # (capitals.update({"Germany": "Berlin"}))
