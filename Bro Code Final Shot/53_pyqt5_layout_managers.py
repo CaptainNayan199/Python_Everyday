@@ -25,12 +25,12 @@ class MainWindow(QMainWindow):
         label4.setStyleSheet("background-color : orange")
 
         # vbox = QVBoxLayout()
-        vbox = QHBoxLayout()
+        vbox = QGridLayout()
 
-        vbox.addWidget(label1)
-        vbox.addWidget(label2)
-        vbox.addWidget(label3)
-        vbox.addWidget(label4)
+        vbox.addWidget(label1, 0, 0)
+        vbox.addWidget(label2, 0 ,1)
+        vbox.addWidget(label3, 1, 0)
+        vbox.addWidget(label4, 1, 2)
         
         central_widget.setLayout(vbox)
 
