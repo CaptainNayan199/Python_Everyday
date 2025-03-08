@@ -64,13 +64,13 @@ def play_game():
         play_again = input("Do you wanna start again ? : ").lower()
         while play_again not in ["yes", "y", "no", "n", "sure"]:
             play_again = input("Enter valid input you fool 😤 Do you wanna start again ? : ")
-        play = True if play_again in ["Y", "yes", "sure"] else print("Ok! Play again next time!")
+        play = True if play_again in ["Y", "yes", "sure"] else print("Ok! You can Play again next time!")
 
 
 if __name__ == "__main__":
-    inp = input("Hey! Do you want to test your brain ? 🫵 I mean wanna play Quiz ? 🤔 : ").lower()
+    inp = input("Hey! Do you want to test your brain ? 🫵  I mean wanna play Quiz ? 🤔 : ").lower()
     while inp not in ["yes", "y", "no", "n", "sure", "no"]:
-        inp = input("Enter valid input you fool 😤 : ")
+        inp = input("Enter valid input you fool 😤 wanna play Quiz game ? : ")
     play_game() if inp in ["y", "yes", "sure"] else print("Fine! Come back Later Looser 😆 ")
 
 
