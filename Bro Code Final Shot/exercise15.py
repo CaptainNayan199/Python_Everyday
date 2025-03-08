@@ -28,18 +28,41 @@ respo = final_response.get("results")
 #     print(items)
 
 score = 0
+correct = 0
+incorrect = 0
+
+incorrect_ques = {}
+incorrect_ans = []
+
 play = True
 while play:
     for i in range(int(num)):
         data = respo[i]
-        print(data)
-        ans = input(f"Q. {data.get("question")} : ")
-        if ans.lower() == data.get("correct_answer").lower():
-            print("Correct!!!")
+        print()
+        print(f"{i+1}. {data.get("question")}")
+        c = data.get('correct_answer')
+        print(f"\ta) {c}")
+        bullet = ["b", "c", "d"]
+        t = 0
+        for y in data.get('incorrect_answers'):
+            print(f"\t{bullet[t]}) {y}")
+            t += 1
+        ans = input("Choose your answer : ")
+        if ans.lower() == c.lower():
             score += 1
+            correct += 1
         else:
-            print("Nah! It's Wrong")
+            incorrect_ques[f"{data.get('question')}"] = f"{data.get('correct_answer')}"
+            incorrect_ans.append(ans)
+            incorrect += 1
     play = False
+    print(f"Correct ✅ : {correct}\nIncorrect ❌ : {incorrect}\nTotal Score : {score}")
+    for (key,value), incorrect_a in zip(incorrect_ques.items(), incorrect_ans):
+        print("-------------------------------------------------------------------------------")
+        print(f"Q. {key}")
+        print(f"Correct answer : {value}")
+        print(f"Your Answer: {incorrect_a}")
+    print("-------------------------------------------------------------------------------")
 
 
 

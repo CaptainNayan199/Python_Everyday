@@ -3,14 +3,14 @@
 # tuples are used to store multiple values inside a small braces (). Ordered and immutable. Duplicate data is allowed. Fastest
 
 fruits = ["Mango", "Orange", "Banana", "Coconut"]
-# print(fruits)
-# # print(fruits[1])
+print(fruits)
+print(fruits[0])
 # print(fruits[1:4])
 # print(fruits[-3:-1])
 # print(fruits[::2])
 
 for fruit in fruits:
-    print(fruit, end="     *      ")
+    print(fruit, end = ",")
 
 # methods for collections
 # cars = ["Bugatti", "Ferari", "Mustang", "Thar"]
@@ -46,12 +46,12 @@ for fruit in fruits:
 
 # tuples
 
-fruits = ("Apple", "Mango", "Pineapple", "Guava", "Banana", "Jackfruit")
-# print(len(fruits))
-# print("Guava" in fruits)
-print(fruits.index("Mango"))
-print(fruits.count("Mango"))
-print(fruits)
-
-for fruit in fruits:
-    print(fruit)
+# fruits = ("Apple", "Mango", "Pineapple", "Guava", "Banana", "Jackfruit")
+# # print(len(fruits))
+# # print("Guava" in fruits)
+# print(fruits.index("Mango"))
+# print(fruits.count("Mango"))
+# print(fruits)
+#
+# for fruit in fruits:
+#     print(fruit)
