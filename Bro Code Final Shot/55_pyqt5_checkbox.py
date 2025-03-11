@@ -19,7 +19,6 @@ class MainWindow(QMainWindow):
        self.checkbox.setStyleSheet("font-size:50px;" "font-family:Arial;")
        self.checkbox.setGeometry(10,10,800,100)
 
-
 def main():
     app = QApplication(sys.argv)
     window = MainWindow()
