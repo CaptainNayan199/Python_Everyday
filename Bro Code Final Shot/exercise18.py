@@ -23,6 +23,7 @@ class WeatherApp(QWidget):
         self.initUI()
 
     def initUI(self):
+        self.setGeometry(900,400, 800,800)
         self.setWindowTitle("Weather Application")
         vbox = QVBoxLayout()
         vbox.addWidget(self.label_city)
@@ -125,14 +126,45 @@ class WeatherApp(QWidget):
     def display_errors(self, mssg):
         self.label_temp.setStyleSheet("font-size : 30px;")
         self.label_temp.setText(mssg)
+        self.label_emojis.clear()
+        self.label_desc.clear()
 
     def display_weather(self, data):
-        # print(data)
+        self.label_temp.setStyleSheet("font-size : 60px;")
         temp_kelvin = data["main"]["temp"]
         temp_c = temp_kelvin - 273.15
         temp_f = (temp_kelvin * 9/5) - 459.67
+        weather_id = data["weather"][0]["id"]
+        weather_desc = data["weather"][0]["description"]
 
+        self.label_temp.setText(f"{temp_c:.1f}°C / {temp_f:.1f}°F")
+        self.label_emojis.setText(self.get_weather_emoji(weather_id))
+        self.label_desc.setText(weather_desc)
 
+    @staticmethod
+    def get_weather_emoji(weather_id):
+        if 200 <= weather_id <= 232:
+            return "⛈️"
+        elif 300 <= weather_id <=321:
+            return "🌦️"
+        elif 500 <= weather_id <= 531:
+            return "🌧️"
+        elif 600 <= weather_id <= 622:
+            return "❄️"
+        elif 700 <= weather_id <= 741:
+            return "🌫️"
+        elif weather_id == 762:
+            return "🌋"
+        elif weather_id == 771:
+            return
+        elif weather_id ==  781:
+            return "🌪️"
+        elif weather_id == 800:
+            return "☀️"
+        elif 801 <= weather_id <=804:
+            return "☁️"
+        else:
+            return ""
 
 
 
