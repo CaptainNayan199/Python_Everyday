@@ -12,12 +12,11 @@ class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setGeometry(700, 400, 1000, 1000)
-        self.checkbox = QCheckBox("Do you like dogs ? ", self)
+
         self.initUI()
 
     def initUI(self):
-       self.checkbox.setStyleSheet("font-size:50px;" "font-family:Arial;")
-       self.checkbox.setGeometry(10,10,800,100)
+        pass
 
 def main():
     app = QApplication(sys.argv)
