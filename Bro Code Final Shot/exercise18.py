@@ -7,6 +7,7 @@ from PyQt5.QtWidgets import (QApplication, QWidget, QLabel,
                              QLineEdit, QPushButton, QVBoxLayout)
 
 from PyQt5.QtCore import Qt
+from tornado.httpclient import HTTPError
 
 
 class WeatherApp(QWidget):
@@ -16,9 +17,9 @@ class WeatherApp(QWidget):
         self.label_city = QLabel("Enter your city name", self)
         self.input_city = QLineEdit(self)
         self.getWeatherButton =  QPushButton("Get Weather", self)
-        self.label_temp = QLabel("27°C",self)
-        self.label_emojis = QLabel("☀️", self)
-        self.label_desc = QLabel("Sunny",self)
+        self.label_temp = QLabel(self)
+        self.label_emojis = QLabel(self)
+        self.label_desc = QLabel(self)
         self.initUI()
 
     def initUI(self):
@@ -75,14 +76,51 @@ class WeatherApp(QWidget):
             }
         """)
 
+        self.getWeatherButton.clicked.connect(self.getWeather)
+
     def getWeather(self):
-        pass
+        api_key = "444ec8e9388510e16af2648c61f4e49e"
+        city = self.input_city.text()
+        url = f"https://api.openweathermap.org/data/2.5/weather?q={city}&appid={api_key}"
+
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+            data = response.json()
+            if data["cod"] == 200:
+                self.display_weather(data)
+        except requests.exceptions.HTTPError as error:
+            match response.status_code:
+                case 400:
+                    print("There is bad request.\nPlease check your input!")
+                case 401:
+                    print("Invalid API key!")
+                case 403:
+                    print("Access is denied!")
+                case 404:
+                    print("City Not found! Sorry!")
+                case 500:
+                    print("Internal Server Error! Please try again later!")
+                case 502:
+                    print("Bad Gateway! Invalid response from the server!")
+                case 503:
+                    print("Service unavailable\nServer is down!")
+                case 504:
+                    print("Gateway timeout\nNo response from the server!")
+                case _:
+                    print("HTTP error occurred!\n%s" %error)
+        except requests.RequestException:
+            pass
+
+
+
+
 
     def display_errors(self, mssg):
         pass
 
     def display_weather(self, data):
-        pass
+        print(data)
 
 
 
