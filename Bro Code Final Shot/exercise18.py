@@ -9,7 +9,6 @@ from PyQt5.QtWidgets import (QApplication, QWidget, QLabel,
 from PyQt5.QtCore import Qt
 from tornado.httpclient import HTTPError
 
-
 class WeatherApp(QWidget):
     def __init__(self):
         super().__init__()
