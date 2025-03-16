@@ -1,5 +1,4 @@
 # weather app
-# 444ec8e9388510e16af2648c61f4e49e my api key
 
 import sys
 import requests
