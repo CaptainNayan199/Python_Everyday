@@ -11,7 +11,6 @@ class DigitalClock(QWidget):
         self.timer = QTimer(self)
         self.initUI()
 
-
     def initUI(self):
         self.setWindowTitle("Digital Clock")
         self.setGeometry(600, 400, 1000,700)
