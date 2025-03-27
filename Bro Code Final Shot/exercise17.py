@@ -91,7 +91,6 @@ class StopWatch(QWidget):
         self.time =  self.time.addMSecs(10)
         self.label.setText(self.format_time(self.time))
 
-
 if __name__ == "__main__":
     app = QApplication(sys.argv)
     stop_watch = StopWatch()
