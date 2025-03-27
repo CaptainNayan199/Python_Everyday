@@ -68,7 +68,6 @@ class StopWatch(QWidget):
 
         self.timer.timeout.connect(self.update_display)
 
-
     def start(self):
         self.timer.start(10)
 
