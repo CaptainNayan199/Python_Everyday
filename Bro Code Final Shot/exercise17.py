@@ -84,7 +84,6 @@ class StopWatch(QWidget):
         minutes = time.minute()
         second = time.second()
         ms = time.msec() // 10
-
         return f"{hours:02} : {minutes:02} : {second:02} : {ms:02}"
 
     def update_display(self):
