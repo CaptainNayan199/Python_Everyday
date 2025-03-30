@@ -56,7 +56,6 @@ class StopWatch(QWidget):
                 background-color : white;
             }
         """)
-
         self.startButton.clicked.connect(self.start)
         self.stopButton.clicked.connect(self.stop)
         self.resetButton.clicked.connect(self.reset)
