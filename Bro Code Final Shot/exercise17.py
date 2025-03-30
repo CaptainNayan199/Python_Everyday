@@ -33,7 +33,6 @@ class StopWatch(QWidget):
         hbox.addWidget(self.startButton)
         hbox.addWidget(self.stopButton)
         hbox.addWidget(self.resetButton)
-
         vbox.addLayout(hbox)
         vbox.addWidget(self.label2)
         self.label2.setObjectName("label2")
