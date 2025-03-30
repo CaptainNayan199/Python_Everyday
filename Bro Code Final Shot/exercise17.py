@@ -36,7 +36,6 @@ class StopWatch(QWidget):
         vbox.addLayout(hbox)
         vbox.addWidget(self.label2)
         self.label2.setObjectName("label2")
-
         self.setStyleSheet("""
             QPushButton, QLabel{
                 padding : 20px;
