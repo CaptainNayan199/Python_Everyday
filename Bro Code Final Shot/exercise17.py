@@ -24,7 +24,6 @@ class StopWatch(QWidget):
         vbox.addWidget(self.startButton)
         vbox.addWidget(self.stopButton)
         vbox.addWidget(self.resetButton)
-
         self.setLayout(vbox)
 
         self.label.setAlignment(Qt.AlignCenter)
