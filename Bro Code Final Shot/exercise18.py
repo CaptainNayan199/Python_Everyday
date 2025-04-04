@@ -116,7 +116,6 @@ class WeatherApp(QWidget):
             self.display_errors(f"Request Error : {req_error}")
 
 
-
     def display_errors(self, mssg):
         self.label_temp.setStyleSheet("font-size : 30px;")
         self.label_temp.setText(mssg)
