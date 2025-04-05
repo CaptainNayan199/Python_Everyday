@@ -2,15 +2,15 @@
 # set in python are also used to store multiple variables inside a curly braces {}. Unordered and immutable, no duplicate data is allowed
 # tuples are used to store multiple values inside a small braces (). Ordered and immutable. Duplicate data is allowed. Fastest
 
-fruits = ["Mango", "Orange", "Banana", "Coconut"]
-print(fruits)
-print(fruits[0])
+# # fruits = ["Mango", "Orange", "Banana", "Coconut"]
+# print(fruits)
+# print(fruits[0])
 # print(fruits[1:4])
 # print(fruits[-3:-1])
 # print(fruits[::2])
 
-for fruit in fruits:
-    print(fruit, end = ",")
+# for fruit in fruits:
+#     print(fruit, end = ",")
 
 # methods for collections
 # cars = ["Bugatti", "Ferari", "Mustang", "Thar"]
@@ -21,13 +21,13 @@ for fruit in fruits:
 # print(cars[0])
 #
 # cars = ["Bugatti", "Ferari", "Mustang", "Thar"]
-# # cars.append("Ford") #add pineapple at the end of the list
-# # cars.remove("Mustang")
-# # cars.insert(0, "Nissan")
-# # cars.sort()
-# # cars.reverse()
-# # cars.clear()
-# # print(cars.index("Hahahahaha"))
+# # # cars.append("Ford") #add pineapple at the end of the list
+# # # cars.remove("Mustang")
+# # # cars.insert(0, "Nissan")
+# # # cars.sort()
+# # # cars.reverse()
+# # # cars.clear()
+# print(cars.index("Bugatti"))
 # print(cars.count("Mustang"))
 #
 # print(cars)
@@ -46,12 +46,12 @@ for fruit in fruits:
 
 # tuples
 
-# fruits = ("Apple", "Mango", "Pineapple", "Guava", "Banana", "Jackfruit")
-# # print(len(fruits))
-# # print("Guava" in fruits)
+fruits = ("Apple", "Mango", "Pineapple", "Guava", "Banana", "Jackfruit")
+# print(len(fruits))
+# print("Guava" in fruits)
 # print(fruits.index("Mango"))
 # print(fruits.count("Mango"))
 # print(fruits)
 #
-# for fruit in fruits:
-#     print(fruit)
+for fruit in fruits:
+    print(fruit)
