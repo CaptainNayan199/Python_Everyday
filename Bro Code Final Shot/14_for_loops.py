@@ -26,11 +26,11 @@
 #     print(z)
 
 
-# for x in range(1, 10):
-#     print(x)
-#     if x==7:
-#         print("Lucky number 7" if x==7 else "")
-#         break
+for x in range(1, 10):
+    print(x)
+    if x==7:
+        print("Lucky number 7" if x==7 else "")
+        break
 #
 # for y in range(1, 15):
 #     if y== 13:
