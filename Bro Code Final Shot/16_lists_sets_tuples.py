@@ -35,23 +35,23 @@
 
 # Sets
 
-# fruits = {"Apple", "Mango", "Pineapple", "Guava", "Banana", "Jackfruit"}
+fruits = {"Apple", "Mango", "Pineapple", "Guava", "Banana", "Jackfruit"}
 # print(len(fruits))
 # print("Beery" in fruits)
 # fruits.add("Grapes")
 # fruits.remove("Jackfruit")
-# fruits.pop()
-# fruits.clear()
-# print(fruits)
+# print(fruits.pop())
+fruits.clear()
+print(fruits)
 
 # tuples
 
-fruits = ("Apple", "Mango", "Pineapple", "Guava", "Banana", "Jackfruit")
+# fruits = ("Apple", "Mango", "Pineapple", "Guava", "Banana", "Jackfruit")
 # print(len(fruits))
 # print("Guava" in fruits)
 # print(fruits.index("Mango"))
 # print(fruits.count("Mango"))
 # print(fruits)
 #
-for fruit in fruits:
-    print(fruit)
+# for fruit in fruits:
+#     print(fruit)

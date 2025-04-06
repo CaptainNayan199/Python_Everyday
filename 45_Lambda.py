@@ -6,7 +6,7 @@
 # Lambda functions syntax :  lambda arguments: expression
 
 # Simple function with 2 arguments
-def sum (a):
+def sum(a):
     return a+a
 print(sum(2))
 
