@@ -1,5 +1,4 @@
 # reading from a file (txt, json, csv)
-
 import os
 import json
 import csv
