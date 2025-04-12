@@ -22,7 +22,6 @@ file_path3 = "output_45.csv"
 #             print(f"{key} : {value}")
 # except FileNotFoundError:
 #     print("The currently mentioned file was not found!")
-
 try:
     with open(file_path3, "r") as file:
         content = csv.reader(file)
