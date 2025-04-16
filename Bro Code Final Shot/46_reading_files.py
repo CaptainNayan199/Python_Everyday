@@ -5,7 +5,6 @@ import csv
 file_path = "output_45.txt"
 file_path2 = "output_45.json"
 file_path3 = "output_45.csv"
-
 # try:
 #     with open(file_path, "r") as file:
 #         content = file.read()
