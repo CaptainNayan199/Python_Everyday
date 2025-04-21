@@ -11,7 +11,6 @@ file_path3 = "output_45.csv"
 #         print(content)
 # except FileNotFoundError:
 #     print("The currently mentioned file was not found!")
-
 # try:
 #     with open(file_path2, "r") as file:
 #         content = json.load(file)
