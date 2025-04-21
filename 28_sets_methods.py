@@ -1,6 +1,5 @@
 # In previous session we talked about sets, and today we are going to see about some important sets methods.
 #they work in same ways as sets in mathematics.
-
 set1 = {1,2,3,4,5}
 set2 = {5,6,7,8}
 print(set1+set2) # this is not the way to perform set operations
@@ -153,7 +152,6 @@ if "Nayan" in s1:
 else:
     print("Nayan is not there.")
 #returns Nayan is there, as Nayan is present in the set.
-
 
 # So yeah this much for today yrrrrr! Today we learned about some important set methods in python. 
 # Tomorrow we will see about an important data types in python that is dictionary.
