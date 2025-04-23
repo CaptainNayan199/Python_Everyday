@@ -20,7 +20,6 @@ prod = lambda a,b,c: a*b*c #it can even take multiple arguments and operate it a
 
 print(prod(2,3,4))
 
-
 # PS: They are mostly used as passing parameter to a certain functions, yes a functions is passed as an argument to other functions, lets see by making a function and passing it as arguments.
 #  Using functions as arguments
 
