@@ -10,7 +10,6 @@ def sum(a):
     return a+a
 print(sum(2))
 
-
 # Now rewriting this above function with the use of lambda kwyword
 
 summ = lambda a: a+a #so this function has lambda keyword and then arguments, colon, and then expression respectively
