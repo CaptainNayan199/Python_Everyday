@@ -1,7 +1,6 @@
 # basic file detection
 
 import os
-
 file_path = "file_handling.txt"
 
 if os.path.exists(file_path):
