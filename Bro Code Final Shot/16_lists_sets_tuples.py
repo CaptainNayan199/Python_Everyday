@@ -29,7 +29,6 @@
 # # # cars.clear()
 # print(cars.index("Bugatti"))
 # print(cars.count("Mustang"))
-#
 # print(cars)
 
 # Sets
