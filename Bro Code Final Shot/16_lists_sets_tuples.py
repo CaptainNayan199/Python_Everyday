@@ -32,7 +32,6 @@
 #
 # print(cars)
 
-
 # Sets
 fruits = {"Apple", "Mango", "Pineapple", "Guava", "Banana", "Jackfruit"}
 # print(len(fruits))
