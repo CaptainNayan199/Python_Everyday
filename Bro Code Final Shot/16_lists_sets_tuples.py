@@ -42,7 +42,6 @@ fruits.clear()
 print(fruits)
 
 # tuples
-
 # fruits = ("Apple", "Mango", "Pineapple", "Guava", "Banana", "Jackfruit")
 # print(len(fruits))
 # print("Guava" in fruits)
