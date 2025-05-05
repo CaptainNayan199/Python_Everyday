@@ -33,7 +33,6 @@ import random
 # numbers = [1,-2,-6,3,6,-9,8,11,-7]
 # odd = [num for num in numbers if num%2== 1]
 # print(odd)
-
 grades = [random.randint(20,100), random.randint(20,100), random.randint(20,100), random.randint(20,100), random.randint(20,100), random.randint(20,100), random.randint(20,100)]
 passed = [grade for grade in grades if grade>=60]
 failed = [gr for gr in grades if gr<60]
