@@ -20,4 +20,3 @@ match num:
         print("Number is 100") 
     case _:  # this works same as default keyword in switch case statement in other languages. It specifies that this is the final block to run if other block in match case are not satisfied.
         print(" Other number provided ")
-
