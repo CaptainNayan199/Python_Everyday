@@ -1,5 +1,4 @@
 # basic file detection
-
 import os
 file_path = "file_handling.txt"
 
