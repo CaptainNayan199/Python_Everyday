@@ -30,7 +30,6 @@ employees = [["Name", "Age", "Job", "Salary", "Address"],
              ["Sita", 22, "Coder", "200000", "Charali"] ,
              ["Sitoshna", 22, "ML Engineer", "400000", "Birtamode"]]
 
-#
 # try:
 #     with open(file=file_path, mode="w") as file: #with is a block, and it automatically closes the file if we don't
 #         # for e in emp:
